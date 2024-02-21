@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Generador de Gráficas</title>
+</head>
+<body>
+    <h1>Generador de Gráficas de Desempeño</h1>
+    <form action="/grafica" method="get">
+        <label for="municipio">Seleccione un municipio:</label>
+        <select name="municipio" id="municipio">
+            {% for municipio in municipios %}
+            <option value="{{ municipio }}">{{ municipio }}</option>
+            {% endfor %}
+        </select>
+        <input type="submit" value="Generar Gráfica">
+    </form>
+</body>
+</html>
