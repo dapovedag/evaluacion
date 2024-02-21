@@ -1,0 +1,663 @@
+pai_et_municipios,promedio,comparacion_plc,desviacion,comparacion_dlc,desempeno_1,desempeno_2,desempeno_3,desempeno_4,aprendizaje_1,aprendizaje_2,aprendizaje_3,Competencia
+AMAZONAS,48,,9,,6%,55%,34%,5%,48%,57%,58%,Lectura Crítica
+OFICIALES URBANOS DE AMAZONAS,50,Similar,9,Similar,5%,51%,39%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE AMAZONAS,43,Mayor,7,Mayor,12%,73%,15%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE AMAZONAS,61,Menor,10,Similar,0%,10%,67%,24%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE AMAZONAS,43,Mayor,8,Similar,16%,66%,16%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE AMAZONAS,48,Similar,9,Similar,5%,56%,35%,4%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE AMAZONAS,61,Menor,9,Similar,0%,10%,63%,27%,N.D.,N.D.,N.D.,Lectura Crítica
+ANTIOQUIA,52,,10,,5%,42%,45%,9%,41%,51%,54%,Lectura Crítica
+OFICIALES URBANOS DE ANTIOQUIA,53,Similar,10,Similar,3%,37%,50%,10%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE ANTIOQUIA,48,Mayor,9,Similar,8%,54%,34%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE ANTIOQUIA,60,Menor,10,Similar,1%,18%,51%,29%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE ANTIOQUIA,45,Mayor,9,Similar,12%,62%,25%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE ANTIOQUIA,51,Similar,9,Similar,5%,45%,44%,6%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE ANTIOQUIA,58,Menor,9,Similar,1%,20%,59%,20%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE ANTIOQUIA,64,Menor,10,Similar,2%,7%,44%,46%,N.D.,N.D.,N.D.,Lectura Crítica
+APARTADO,52,,10,,5%,43%,43%,9%,40%,51%,55%,Lectura Crítica
+OFICIALES URBANOS DE APARTADO,51,Similar,9,Similar,4%,45%,44%,7%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE APARTADO,48,Mayor,9,Similar,9%,52%,37%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE APARTADO,57,Menor,11,Similar,3%,27%,42%,27%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE APARTADO,44,Mayor,8,Mayor,21%,59%,19%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE APARTADO,50,Similar,9,Similar,5%,48%,42%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE APARTADO,61,Menor,9,Similar,0%,14%,54%,32%,N.D.,N.D.,N.D.,Lectura Crítica
+ARAUCA,52,,10,,4%,40%,48%,9%,40%,50%,53%,Lectura Crítica
+OFICIALES URBANOS DE ARAUCA,53,Similar,9,Similar,3%,37%,50%,10%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE ARAUCA,49,Similar,8,Mayor,6%,50%,42%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE ARAUCA,54,Similar,11,Similar,5%,32%,47%,15%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE ARAUCA,47,Mayor,8,Mayor,12%,54%,34%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE ARAUCA,52,Similar,9,Similar,3%,41%,48%,7%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE ARAUCA,58,Menor,10,Similar,2%,21%,53%,24%,N.D.,N.D.,N.D.,Lectura Crítica
+ARMENIA,58,,10,,1%,22%,52%,24%,31%,40%,43%,Lectura Crítica
+OFICIALES URBANOS DE ARMENIA,57,Similar,10,Similar,1%,25%,54%,20%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE ARMENIA,60,Similar,9,Similar,2%,13%,55%,31%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE ARMENIA,64,Menor,10,Similar,1%,9%,45%,46%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE ARMENIA,54,Mayor,9,Similar,2%,34%,53%,11%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE ARMENIA,60,Similar,10,Similar,1%,16%,52%,32%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE ARMENIA,62,Menor,10,Similar,0%,13%,53%,34%,N.D.,N.D.,N.D.,Lectura Crítica
+ATLANTICO,50,,10,,6%,49%,38%,6%,44%,54%,57%,Lectura Crítica
+OFICIALES URBANOS DE ATLANTICO,50,Similar,10,Similar,6%,50%,39%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE ATLANTICO,46,Mayor,9,Similar,11%,59%,29%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE ATLANTICO,59,Menor,10,Similar,1%,19%,55%,26%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE ATLANTICO,46,Mayor,8,Mayor,10%,61%,28%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE ATLANTICO,49,Similar,9,Similar,7%,53%,36%,4%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE ATLANTICO,58,Menor,10,Similar,1%,21%,58%,20%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE ATLANTICO,67,Menor,7,Mayor,0%,2%,39%,59%,N.D.,N.D.,N.D.,Lectura Crítica
+BARRANCABERMEJA,56,,11,,3%,29%,49%,19%,34%,44%,46%,Lectura Crítica
+OFICIALES URBANOS DE BARRANCABERMEJA,55,Similar,10,Similar,3%,31%,53%,14%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE BARRANCABERMEJA,50,Mayor,10,Similar,6%,46%,44%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE BARRANCABERMEJA,65,Menor,9,Mayor,0%,7%,40%,52%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE BARRANCABERMEJA,53,Similar,10,Similar,4%,37%,50%,9%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE BARRANCABERMEJA,61,Menor,9,Mayor,0%,14%,50%,36%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE BARRANCABERMEJA,70,Menor,7,Mayor,0%,0%,29%,71%,N.D.,N.D.,N.D.,Lectura Crítica
+BARRANQUILLA,55,,10,,2%,30%,50%,18%,35%,44%,47%,Lectura Crítica
+OFICIALES URBANOS DE BARRANQUILLA,54,Similar,10,Similar,2%,33%,51%,13%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE BARRANQUILLA,59,Menor,11,Similar,2%,21%,48%,30%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE BARRANQUILLA,46,Mayor,9,Similar,17%,57%,23%,4%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE BARRANQUILLA,52,Similar,9,Similar,3%,42%,47%,7%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE BARRANQUILLA,60,Menor,10,Similar,1%,17%,54%,29%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE BARRANQUILLA,68,Menor,8,Mayor,0%,3%,25%,72%,N.D.,N.D.,N.D.,Lectura Crítica
+BELLO,56,,10,,2%,28%,54%,16%,34%,44%,47%,Lectura Crítica
+OFICIALES URBANOS DE BELLO,55,Similar,9,Similar,2%,29%,56%,13%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE BELLO,53,Similar,10,Similar,2%,40%,48%,11%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE BELLO,57,Similar,11,Similar,2%,25%,49%,24%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE BELLO,52,Mayor,10,Similar,3%,39%,48%,9%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE BELLO,59,Similar,9,Similar,1%,17%,59%,23%,N.D.,N.D.,N.D.,Lectura Crítica
+BOGOTA,57,,10,,1%,24%,55%,20%,33%,42%,44%,Lectura Crítica
+OFICIALES URBANOS DE BOGOTA,55,Similar,9,Similar,2%,31%,56%,11%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE BOGOTA,51,Mayor,9,Similar,3%,47%,47%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE BOGOTA,61,Menor,9,Similar,1%,14%,53%,33%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE BOGOTA,50,Mayor,7,Mayor,0%,50%,50%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE BOGOTA,52,Mayor,9,Similar,3%,40%,50%,7%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE BOGOTA,58,Similar,9,Similar,1%,21%,57%,21%,N.D.,N.D.,N.D.,Lectura Crítica
+BOLIVAR,48,,10,,9%,55%,31%,5%,47%,57%,60%,Lectura Crítica
+OFICIALES URBANOS DE BOLIVAR,48,Similar,9,Similar,7%,53%,35%,4%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE BOLIVAR,44,Mayor,8,Mayor,13%,65%,21%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE BOLIVAR,59,Menor,11,Similar,1%,20%,49%,30%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE BOLIVAR,44,Mayor,7,Mayor,13%,68%,19%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE BOLIVAR,47,Similar,9,Similar,9%,56%,32%,4%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE BOLIVAR,61,Menor,10,Similar,1%,15%,51%,33%,N.D.,N.D.,N.D.,Lectura Crítica
+BOYACA,54,,9,,2%,34%,53%,10%,37%,48%,51%,Lectura Crítica
+OFICIALES URBANOS DE BOYACA,54,Similar,9,Similar,2%,33%,55%,10%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE BOYACA,51,Similar,9,Similar,4%,44%,47%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE BOYACA,62,Menor,9,Similar,1%,10%,54%,35%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE BOYACA,49,Mayor,9,Similar,5%,52%,39%,4%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE BOYACA,53,Similar,9,Similar,3%,36%,53%,8%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE BOYACA,60,Menor,9,Similar,1%,13%,57%,29%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE BOYACA,67,Menor,7,Mayor,0%,3%,35%,62%,N.D.,N.D.,N.D.,Lectura Crítica
+BUCARAMANGA,59,,10,,1%,18%,52%,28%,28%,37%,41%,Lectura Crítica
+OFICIALES URBANOS DE BUCARAMANGA,58,Similar,10,Similar,1%,21%,56%,22%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE BUCARAMANGA,51,Mayor,8,Mayor,2%,46%,51%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE BUCARAMANGA,63,Menor,10,Similar,1%,10%,43%,46%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE BUCARAMANGA,54,Mayor,9,Similar,2%,33%,55%,10%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE BUCARAMANGA,62,Similar,10,Similar,1%,11%,52%,35%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE BUCARAMANGA,71,Menor,8,Mayor,0%,2%,17%,81%,N.D.,N.D.,N.D.,Lectura Crítica
+BUENAVENTURA,48,,10,,8%,54%,33%,5%,46%,57%,60%,Lectura Crítica
+OFICIALES URBANOS DE BUENAVENTURA,48,Similar,9,Similar,7%,57%,32%,4%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE BUENAVENTURA,43,Mayor,8,Mayor,18%,65%,16%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE BUENAVENTURA,53,Menor,10,Similar,4%,38%,45%,13%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE BUENAVENTURA,41,Mayor,7,Mayor,26%,65%,9%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE BUENAVENTURA,47,Similar,9,Similar,8%,59%,30%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE BUENAVENTURA,56,Menor,10,Similar,2%,28%,52%,17%,N.D.,N.D.,N.D.,Lectura Crítica
+BUGA,56,,9,,1%,28%,56%,14%,34%,45%,47%,Lectura Crítica
+OFICIALES URBANOS DE BUGA,56,Similar,9,Similar,1%,26%,57%,16%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE BUGA,51,Mayor,7,Mayor,0%,51%,46%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE BUGA,54,Similar,9,Similar,3%,31%,54%,13%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE BUGA,49,Mayor,6,Mayor,0%,59%,41%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE BUGA,55,Similar,9,Similar,1%,29%,56%,13%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE BUGA,58,Similar,9,Similar,2%,18%,58%,22%,N.D.,N.D.,N.D.,Lectura Crítica
+CALDAS,52,,9,,3%,40%,49%,8%,39%,50%,53%,Lectura Crítica
+OFICIALES URBANOS DE CALDAS,53,Similar,9,Similar,2%,37%,51%,10%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE CALDAS,50,Similar,8,Similar,3%,49%,44%,4%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE CALDAS,59,Menor,11,Menor,3%,20%,48%,29%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE CALDAS,49,Similar,8,Similar,5%,53%,40%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE CALDAS,52,Similar,9,Similar,3%,41%,49%,7%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE CALDAS,57,Menor,10,Similar,1%,26%,53%,20%,N.D.,N.D.,N.D.,Lectura Crítica
+CALI,54,,10,,3%,33%,51%,12%,47%,35%,46%,Lectura Crítica
+OFICIALES URBANOS DE CALI,54,Similar,10,Similar,3%,34%,51%,12%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE CALI,52,Similar,10,Similar,5%,35%,52%,8%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE CALI,54,Similar,10,Similar,3%,32%,52%,13%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE CALI,61,Menor,0,Mayor,0%,0%,100%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE CALI,52,Similar,10,Similar,5%,41%,46%,8%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE CALI,56,Similar,9,Similar,2%,25%,57%,17%,N.D.,N.D.,N.D.,Lectura Crítica
+CAQUETA,50,,9,,4%,50%,41%,5%,43%,54%,57%,Lectura Crítica
+OFICIALES URBANOS DE CAQUETA,51,Similar,9,Similar,3%,48%,43%,6%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE CAQUETA,48,Similar,8,Similar,6%,58%,35%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE CAQUETA,51,Similar,8,Similar,0%,56%,33%,11%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE CAQUETA,47,Similar,8,Similar,6%,60%,31%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE CAQUETA,50,Similar,9,Similar,3%,49%,42%,6%,N.D.,N.D.,N.D.,Lectura Crítica
+CARTAGENA,53,,11,,5%,39%,43%,13%,39%,49%,52%,Lectura Crítica
+OFICIALES URBANOS DE CARTAGENA,51,Similar,10,Similar,5%,45%,43%,7%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE CARTAGENA,46,Mayor,9,Mayor,10%,61%,26%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE CARTAGENA,59,Menor,11,Similar,2%,22%,48%,28%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE CARTAGENA,45,Mayor,8,Mayor,7%,74%,20%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE CARTAGENA,50,Similar,10,Similar,6%,48%,39%,7%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE CARTAGENA,59,Menor,10,Similar,1%,18%,53%,28%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE CARTAGENA,66,Menor,8,Mayor,0%,4%,41%,55%,N.D.,N.D.,N.D.,Lectura Crítica
+CARTAGO,55,,9,,2%,31%,52%,14%,35%,46%,48%,Lectura Crítica
+OFICIALES URBANOS DE CARTAGO,55,Similar,9,Similar,2%,31%,52%,14%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE CARTAGO,53,Similar,8,Similar,0%,37%,57%,6%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE CARTAGO,56,Similar,10,Similar,3%,27%,51%,19%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE CARTAGO,52,Similar,9,Similar,3%,40%,49%,8%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE CARTAGO,57,Similar,9,Similar,2%,22%,56%,21%,N.D.,N.D.,N.D.,Lectura Crítica
+CASANARE,53,,9,,3%,37%,51%,9%,39%,49%,52%,Lectura Crítica
+OFICIALES URBANOS DE CASANARE,53,Similar,9,Similar,2%,35%,54%,9%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE CASANARE,50,Similar,10,Similar,7%,45%,40%,8%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE CASANARE,53,Similar,11,Menor,3%,40%,40%,17%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE CASANARE,50,Similar,11,Menor,9%,48%,34%,9%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE CASANARE,53,Similar,9,Similar,3%,36%,53%,9%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE CASANARE,57,Menor,8,Similar,0%,22%,61%,16%,N.D.,N.D.,N.D.,Lectura Crítica
+CAUCA,48,,9,,8%,55%,33%,4%,48%,57%,60%,Lectura Crítica
+OFICIALES URBANOS DE CAUCA,50,Similar,10,Similar,7%,48%,39%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE CAUCA,46,Similar,9,Similar,9%,62%,27%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE CAUCA,51,Similar,11,Menor,7%,42%,41%,11%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE CAUCA,45,Similar,8,Similar,10%,65%,24%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE CAUCA,48,Similar,9,Similar,8%,53%,35%,4%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE CAUCA,57,Menor,10,Similar,1%,28%,50%,21%,N.D.,N.D.,N.D.,Lectura Crítica
+CESAR,50,,9,,5%,48%,42%,5%,43%,54%,57%,Lectura Crítica
+OFICIALES URBANOS DE CESAR,51,Similar,9,Similar,4%,45%,45%,6%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE CESAR,47,Similar,9,Similar,8%,56%,33%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE CESAR,55,Menor,11,Menor,4%,31%,47%,18%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE CESAR,47,Similar,8,Similar,8%,60%,30%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE CESAR,50,Similar,9,Similar,5%,47%,42%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE CESAR,57,Menor,10,Similar,3%,26%,50%,22%,N.D.,N.D.,N.D.,Lectura Crítica
+CHIA,59,,10,,1%,19%,55%,25%,29%,39%,41%,Lectura Crítica
+OFICIALES URBANOS DE CHIA,57,Similar,9,Similar,1%,23%,61%,15%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE CHIA,56,Similar,10,Similar,2%,28%,54%,17%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE CHIA,62,Similar,10,Similar,0%,13%,52%,35%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE CHIA,57,Similar,11,Similar,1%,28%,46%,25%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE CHIA,58,Similar,9,Similar,1%,20%,58%,21%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE CHIA,66,Menor,9,Similar,1%,6%,40%,54%,N.D.,N.D.,N.D.,Lectura Crítica
+CHOCO,43,,9,,18%,62%,18%,2%,56%,65%,67%,Lectura Crítica
+OFICIALES URBANOS DE CHOCO,45,Similar,9,Similar,12%,61%,24%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE CHOCO,40,Similar,8,Similar,27%,63%,10%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE CHOCO,54,Menor,11,Menor,6%,33%,50%,11%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE CHOCO,41,Similar,8,Similar,29%,59%,11%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE CHOCO,44,Similar,9,Similar,16%,62%,20%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+CIENAGA,48,,10,,9%,53%,33%,5%,47%,57%,60%,Lectura Crítica
+OFICIALES URBANOS DE CIENAGA,47,Similar,9,Similar,10%,55%,32%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE CIENAGA,46,Similar,9,Similar,11%,64%,23%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE CIENAGA,53,Menor,11,Similar,5%,38%,44%,13%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE CIENAGA,43,Mayor,7,Mayor,15%,79%,6%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE CIENAGA,47,Similar,9,Similar,10%,55%,32%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE CIENAGA,57,Menor,10,Similar,2%,23%,55%,20%,N.D.,N.D.,N.D.,Lectura Crítica
+CORDOBA,49,,9,,6%,52%,37%,5%,45%,55%,58%,Lectura Crítica
+OFICIALES URBANOS DE CORDOBA,50,Similar,9,Similar,5%,47%,43%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE CORDOBA,47,Similar,8,Similar,8%,59%,30%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE CORDOBA,58,Menor,12,Menor,4%,23%,43%,30%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE CORDOBA,46,Similar,8,Similar,9%,63%,27%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE CORDOBA,50,Similar,9,Similar,5%,48%,42%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE CORDOBA,63,Menor,9,Similar,0%,9%,50%,41%,N.D.,N.D.,N.D.,Lectura Crítica
+CUCUTA,56,,10,,2%,27%,51%,20%,33%,43%,46%,Lectura Crítica
+OFICIALES URBANOS DE CUCUTA,56,Similar,10,Similar,1%,27%,54%,18%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE CUCUTA,50,Mayor,9,Similar,5%,43%,49%,4%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE CUCUTA,57,Similar,11,Similar,2%,27%,45%,25%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE CUCUTA,50,Mayor,0,Mayor,0%,100%,0%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE CUCUTA,54,Similar,10,Similar,2%,33%,52%,12%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE CUCUTA,61,Menor,9,Similar,1%,13%,50%,36%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE CUCUTA,69,Menor,9,Similar,0%,2%,30%,68%,N.D.,N.D.,N.D.,Lectura Crítica
+CUNDINAMARCA,55,,10,,2%,31%,53%,14%,35%,46%,48%,Lectura Crítica
+OFICIALES URBANOS DE CUNDINAMARCA,54,Similar,9,Similar,2%,35%,54%,9%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE CUNDINAMARCA,53,Similar,9,Similar,3%,38%,50%,9%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE CUNDINAMARCA,61,Menor,9,Similar,1%,14%,53%,32%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE CUNDINAMARCA,50,Mayor,9,Similar,3%,52%,40%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE CUNDINAMARCA,52,Similar,9,Similar,3%,39%,51%,8%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE CUNDINAMARCA,57,Similar,9,Similar,1%,22%,58%,20%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE CUNDINAMARCA,67,Menor,8,Mayor,0%,3%,37%,60%,N.D.,N.D.,N.D.,Lectura Crítica
+DOS QUEBRADAS,57,,9,,1%,23%,58%,18%,32%,42%,44%,Lectura Crítica
+OFICIALES URBANOS DE DOS QUEBRADAS,56,Similar,9,Similar,1%,24%,59%,16%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE DOS QUEBRADAS,54,Similar,7,Mayor,0%,32%,64%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE DOS QUEBRADAS,62,Menor,9,Similar,0%,10%,53%,36%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE DOS QUEBRADAS,54,Similar,9,Similar,2%,32%,58%,9%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE DOS QUEBRADAS,58,Similar,9,Similar,1%,20%,58%,21%,N.D.,N.D.,N.D.,Lectura Crítica
+DUITAMA,59,,9,,1%,18%,56%,26%,29%,38%,41%,Lectura Crítica
+OFICIALES URBANOS DE DUITAMA,58,Similar,9,Similar,1%,20%,60%,19%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE DUITAMA,56,Similar,9,Similar,1%,26%,58%,15%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE DUITAMA,62,Similar,10,Similar,1%,12%,48%,40%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE DUITAMA,55,Mayor,9,Similar,1%,28%,58%,12%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE DUITAMA,62,Similar,9,Similar,0%,10%,54%,36%,N.D.,N.D.,N.D.,Lectura Crítica
+ENVIGADO,60,,9,,1%,14%,56%,29%,27%,37%,39%,Lectura Crítica
+OFICIALES URBANOS DE ENVIGADO,58,Similar,9,Similar,1%,19%,61%,19%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE ENVIGADO,54,Mayor,10,Similar,3%,35%,46%,16%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE ENVIGADO,63,Similar,8,Similar,0%,5%,51%,43%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE ENVIGADO,59,Similar,9,Similar,1%,16%,57%,25%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE ENVIGADO,65,Menor,8,Similar,0%,3%,49%,48%,N.D.,N.D.,N.D.,Lectura Crítica
+FACATATIVA,58,,9,,1%,21%,60%,19%,30%,41%,43%,Lectura Crítica
+OFICIALES URBANOS DE FACATATIVA,57,Similar,9,Similar,0%,22%,62%,15%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE FACATATIVA,56,Similar,8,Similar,1%,22%,70%,7%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE FACATATIVA,60,Similar,9,Similar,1%,17%,52%,31%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE FACATATIVA,55,Similar,8,Similar,1%,28%,63%,8%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE FACATATIVA,60,Similar,8,Similar,0%,13%,58%,28%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE FACATATIVA,66,Menor,9,Similar,0%,8%,33%,58%,N.D.,N.D.,N.D.,Lectura Crítica
+FLORENCIA,55,,9,,1%,30%,55%,14%,34%,45%,48%,Lectura Crítica
+OFICIALES URBANOS DE FLORENCIA,55,Similar,9,Similar,1%,29%,58%,12%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE FLORENCIA,49,Mayor,7,Mayor,0%,58%,39%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE FLORENCIA,58,Similar,12,Menor,3%,24%,47%,26%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE FLORENCIA,49,Mayor,7,Mayor,0%,59%,40%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE FLORENCIA,54,Similar,9,Similar,1%,35%,54%,10%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE FLORENCIA,60,Menor,9,Similar,0%,15%,60%,25%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE FLORENCIA,68,Menor,4,Mayor,0%,0%,50%,50%,N.D.,N.D.,N.D.,Lectura Crítica
+FLORIDABLANCA,60,,10,,1%,16%,54%,29%,27%,37%,39%,Lectura Crítica
+OFICIALES URBANOS DE FLORIDABLANCA,58,Similar,9,Similar,1%,19%,58%,22%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE FLORIDABLANCA,55,Mayor,9,Similar,3%,28%,54%,15%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE FLORIDABLANCA,64,Menor,9,Similar,1%,8%,46%,46%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE FLORIDABLANCA,57,Similar,9,Similar,1%,25%,57%,17%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE FLORIDABLANCA,61,Similar,9,Similar,1%,12%,54%,33%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE FLORIDABLANCA,68,Menor,8,Mayor,0%,2%,32%,65%,N.D.,N.D.,N.D.,Lectura Crítica
+FUNZA,58,,9,,1%,21%,58%,20%,31%,41%,44%,Lectura Crítica
+OFICIALES URBANOS DE FUNZA,55,Similar,8,Similar,1%,26%,61%,12%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE FUNZA,55,Similar,10,Similar,1%,36%,50%,13%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE FUNZA,60,Similar,9,Similar,0%,16%,58%,26%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE FUNZA,58,Similar,9,Similar,1%,21%,58%,20%,N.D.,N.D.,N.D.,Lectura Crítica
+FUSAGASUGA,56,,10,,2%,27%,54%,17%,33%,44%,46%,Lectura Crítica
+OFICIALES URBANOS DE FUSAGASUGA,54,Similar,9,Similar,2%,34%,53%,10%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE FUSAGASUGA,57,Similar,9,Similar,1%,22%,60%,18%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE FUSAGASUGA,59,Similar,10,Similar,1%,19%,53%,27%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE FUSAGASUGA,54,Similar,9,Similar,3%,35%,52%,10%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE FUSAGASUGA,59,Similar,9,Similar,1%,18%,56%,25%,N.D.,N.D.,N.D.,Lectura Crítica
+GIRARDOT,54,,10,,3%,35%,50%,12%,37%,47%,50%,Lectura Crítica
+OFICIALES URBANOS DE GIRARDOT,51,Similar,9,Similar,4%,45%,45%,6%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE GIRARDOT,50,Mayor,8,Mayor,0%,55%,45%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE GIRARDOT,58,Menor,10,Similar,2%,22%,56%,20%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE GIRARDOT,50,Mayor,9,Similar,6%,49%,41%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE GIRARDOT,56,Similar,10,Similar,1%,27%,55%,17%,N.D.,N.D.,N.D.,Lectura Crítica
+GIRON,57,,10,,1%,26%,54%,19%,33%,42%,45%,Lectura Crítica
+OFICIALES URBANOS DE GIRON,56,Similar,10,Similar,1%,27%,55%,17%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE GIRON,54,Similar,9,Similar,1%,36%,53%,11%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE GIRON,63,Menor,9,Similar,1%,11%,46%,42%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE GIRON,55,Similar,10,Similar,1%,30%,54%,15%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE GIRON,59,Similar,9,Similar,1%,19%,54%,26%,N.D.,N.D.,N.D.,Lectura Crítica
+GUAINIA,45,,10,,17%,53%,29%,1%,52%,62%,62%,Lectura Crítica
+OFICIALES URBANOS DE GUAINIA,48,Similar,10,Similar,12%,47%,38%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE GUAINIA,41,Mayor,7,Mayor,24%,62%,13%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE GUAINIA,41,Mayor,8,Mayor,26%,58%,15%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE GUAINIA,51,Menor,9,Similar,4%,46%,48%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+GUAVIARE,51,,9,,6%,42%,48%,5%,42%,53%,56%,Lectura Crítica
+OFICIALES URBANOS DE GUAVIARE,53,Similar,9,Similar,4%,33%,56%,6%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE GUAVIARE,47,Mayor,9,Similar,7%,58%,33%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE GUAVIARE,50,Similar,10,Similar,11%,41%,42%,6%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE GUAVIARE,48,Similar,8,Similar,6%,59%,33%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE GUAVIARE,51,Similar,10,Similar,6%,41%,48%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE GUAVIARE,55,Menor,9,Similar,2%,26%,63%,9%,N.D.,N.D.,N.D.,Lectura Crítica
+HUILA,53,,9,,3%,39%,50%,9%,39%,49%,53%,Lectura Crítica
+OFICIALES URBANOS DE HUILA,53,Similar,9,Similar,3%,36%,53%,9%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE HUILA,51,Similar,9,Similar,3%,46%,46%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE HUILA,62,Menor,10,Similar,1%,10%,53%,36%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE HUILA,50,Similar,8,Similar,4%,50%,44%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE HUILA,52,Similar,9,Similar,3%,40%,50%,7%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE HUILA,57,Menor,9,Similar,1%,23%,57%,19%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE HUILA,72,Menor,7,Mayor,0%,0%,6%,94%,N.D.,N.D.,N.D.,Lectura Crítica
+IBAGUE,56,,10,,2%,29%,53%,17%,34%,44%,47%,Lectura Crítica
+OFICIALES URBANOS DE IBAGUE,55,Similar,9,Similar,2%,32%,54%,12%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE IBAGUE,50,Mayor,9,Similar,4%,48%,43%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE IBAGUE,61,Menor,9,Similar,1%,13%,52%,35%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE IBAGUE,52,Mayor,9,Similar,0%,30%,60%,10%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE IBAGUE,52,Mayor,9,Similar,3%,39%,51%,7%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE IBAGUE,58,Similar,10,Similar,1%,22%,55%,22%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE IBAGUE,65,Menor,8,Mayor,0%,4%,43%,53%,N.D.,N.D.,N.D.,Lectura Crítica
+IPIALES,57,,10,,2%,23%,55%,20%,32%,41%,45%,Lectura Crítica
+OFICIALES URBANOS DE IPIALES,59,Similar,9,Similar,1%,17%,58%,25%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE IPIALES,52,Mayor,9,Similar,4%,41%,49%,7%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE IPIALES,56,Similar,11,Similar,5%,26%,51%,19%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE IPIALES,47,Mayor,9,Similar,6%,57%,34%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE IPIALES,56,Similar,9,Similar,2%,25%,57%,15%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE IPIALES,62,Menor,9,Similar,0%,11%,52%,36%,N.D.,N.D.,N.D.,Lectura Crítica
+ITAGUI,57,,10,,2%,22%,56%,20%,32%,42%,44%,Lectura Crítica
+OFICIALES URBANOS DE ITAGUI,57,Similar,9,Similar,1%,23%,57%,19%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE ITAGUI,52,Mayor,9,Similar,3%,41%,46%,10%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE ITAGUI,60,Similar,10,Similar,2%,14%,53%,31%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE ITAGUI,54,Similar,9,Similar,2%,29%,57%,11%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE ITAGUI,58,Similar,9,Similar,2%,21%,56%,22%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE ITAGUI,68,Menor,6,Mayor,0%,2%,30%,68%,N.D.,N.D.,N.D.,Lectura Crítica
+JAMUNDI,54,,10,,2%,34%,51%,13%,36%,47%,50%,Lectura Crítica
+OFICIALES URBANOS DE JAMUNDI,56,Similar,9,Similar,1%,29%,53%,17%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE JAMUNDI,52,Similar,9,Similar,3%,43%,47%,7%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE JAMUNDI,58,Menor,10,Similar,1%,25%,55%,19%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE JAMUNDI,50,Mayor,10,Similar,0%,33%,67%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE JAMUNDI,53,Similar,9,Similar,3%,38%,48%,11%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE JAMUNDI,57,Similar,9,Similar,1%,25%,56%,18%,N.D.,N.D.,N.D.,Lectura Crítica
+LA ESTRELLA,58,,10,,1%,19%,57%,22%,30%,40%,43%,Lectura Crítica
+OFICIALES URBANOS DE LA ESTRELLA,54,Mayor,9,Similar,2%,30%,60%,7%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE LA ESTRELLA,62,Menor,9,Similar,0%,9%,54%,37%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE LA ESTRELLA,52,Mayor,9,Similar,2%,39%,54%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE LA ESTRELLA,59,Similar,9,Similar,1%,15%,59%,25%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE LA ESTRELLA,64,Menor,8,Mayor,0%,6%,49%,44%,N.D.,N.D.,N.D.,Lectura Crítica
+LA GUAJIRA,48,,10,,10%,50%,34%,5%,47%,57%,59%,Lectura Crítica
+OFICIALES URBANOS DE LA GUAJIRA,50,Similar,9,Similar,6%,48%,41%,6%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE LA GUAJIRA,43,Mayor,8,Mayor,20%,60%,19%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE LA GUAJIRA,56,Menor,11,Similar,3%,26%,54%,18%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE LA GUAJIRA,41,Mayor,8,Mayor,27%,61%,12%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE LA GUAJIRA,49,Similar,9,Similar,7%,51%,38%,4%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE LA GUAJIRA,57,Menor,10,Similar,1%,22%,57%,20%,N.D.,N.D.,N.D.,Lectura Crítica
+LORICA,50,,10,,5%,47%,42%,6%,43%,53%,58%,Lectura Crítica
+OFICIALES URBANOS DE LORICA,50,Similar,9,Similar,5%,45%,46%,4%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE LORICA,48,Similar,9,Similar,6%,55%,36%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE LORICA,61,Menor,9,Similar,1%,11%,53%,36%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE LORICA,48,Similar,9,Similar,7%,56%,35%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE LORICA,50,Similar,9,Similar,5%,48%,43%,4%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE LORICA,61,Menor,9,Similar,1%,11%,53%,36%,N.D.,N.D.,N.D.,Lectura Crítica
+MAGANGUE,51,,10,,5%,47%,41%,7%,42%,53%,56%,Lectura Crítica
+OFICIALES URBANOS DE MAGANGUE,51,Similar,9,Similar,4%,45%,46%,6%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE MAGANGUE,47,Mayor,9,Similar,9%,61%,28%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE MAGANGUE,57,Menor,11,Similar,1%,25%,49%,25%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE MAGANGUE,50,Similar,9,Similar,5%,50%,40%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE MAGANGUE,60,Menor,10,Similar,1%,19%,49%,32%,N.D.,N.D.,N.D.,Lectura Crítica
+MAGDALENA,47,,9,,9%,57%,31%,3%,48%,59%,62%,Lectura Crítica
+OFICIALES URBANOS DE MAGDALENA,48,Similar,9,Similar,8%,54%,35%,4%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE MAGDALENA,45,Similar,8,Similar,11%,63%,24%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE MAGDALENA,55,Menor,11,Menor,4%,33%,49%,14%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE MAGDALENA,45,Similar,8,Similar,11%,64%,25%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE MAGDALENA,47,Similar,9,Similar,9%,57%,31%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE MAGDALENA,58,Menor,9,Similar,0%,26%,57%,17%,N.D.,N.D.,N.D.,Lectura Crítica
+MAICAO,50,,10,,8%,46%,38%,8%,45%,54%,57%,Lectura Crítica
+OFICIALES URBANOS DE MAICAO,51,Similar,9,Similar,4%,44%,46%,7%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE MAICAO,41,Mayor,7,Mayor,24%,65%,11%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE MAICAO,61,Menor,9,Similar,1%,12%,48%,38%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE MAICAO,44,Mayor,9,Similar,19%,60%,18%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE MAICAO,51,Similar,9,Similar,4%,43%,46%,7%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE MAICAO,61,Menor,9,Similar,1%,12%,48%,38%,N.D.,N.D.,N.D.,Lectura Crítica
+MALAMBO,51,,10,,5%,44%,41%,10%,42%,51%,54%,Lectura Crítica
+OFICIALES URBANOS DE MALAMBO,50,Similar,9,Similar,5%,51%,39%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE MALAMBO,48,Similar,9,Similar,4%,59%,34%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE MALAMBO,54,Similar,11,Similar,5%,36%,44%,16%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE MALAMBO,51,Similar,10,Similar,5%,46%,41%,8%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE MALAMBO,63,Menor,10,Similar,1%,10%,46%,43%,N.D.,N.D.,N.D.,Lectura Crítica
+MANIZALES,57,,10,,2%,25%,52%,22%,33%,42%,44%,Lectura Crítica
+OFICIALES URBANOS DE MANIZALES,56,Similar,10,Similar,2%,27%,55%,16%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE MANIZALES,50,Mayor,9,Similar,5%,47%,42%,6%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE MANIZALES,64,Menor,9,Similar,0%,7%,48%,45%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE MANIZALES,51,Mayor,7,Mayor,6%,44%,50%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE MANIZALES,52,Mayor,9,Similar,4%,42%,48%,6%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE MANIZALES,60,Similar,10,Similar,1%,17%,55%,28%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE MANIZALES,65,Menor,8,Mayor,0%,5%,36%,59%,N.D.,N.D.,N.D.,Lectura Crítica
+MEDELLIN,55,,10,,2%,30%,52%,16%,35%,45%,47%,Lectura Crítica
+OFICIALES URBANOS DE MEDELLIN,54,Similar,10,Similar,3%,33%,53%,11%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE MEDELLIN,53,Similar,10,Similar,3%,38%,48%,11%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE MEDELLIN,60,Menor,10,Similar,1%,15%,52%,32%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE MEDELLIN,51,Mayor,9,Similar,4%,42%,47%,6%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE MEDELLIN,57,Similar,10,Similar,1%,23%,56%,19%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE MEDELLIN,65,Menor,9,Similar,1%,6%,41%,53%,N.D.,N.D.,N.D.,Lectura Crítica
+META,53,,9,,3%,36%,51%,9%,38%,49%,52%,Lectura Crítica
+OFICIALES URBANOS DE META,53,Similar,9,Similar,3%,37%,53%,8%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE META,52,Similar,10,Similar,5%,38%,48%,8%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE META,56,Similar,10,Similar,2%,27%,52%,18%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE META,47,Mayor,9,Similar,12%,52%,34%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE META,52,Similar,9,Similar,3%,39%,51%,7%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE META,59,Menor,9,Similar,0%,16%,62%,22%,N.D.,N.D.,N.D.,Lectura Crítica
+MONTERIA,56,,10,,2%,29%,51%,17%,34%,43%,47%,Lectura Crítica
+OFICIALES URBANOS DE MONTERIA,56,Similar,10,Similar,2%,27%,55%,16%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE MONTERIA,50,Mayor,8,Mayor,3%,48%,46%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE MONTERIA,60,Menor,10,Similar,2%,19%,48%,32%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE MONTERIA,50,Mayor,8,Mayor,3%,50%,44%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE MONTERIA,54,Similar,10,Similar,3%,32%,53%,12%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE MONTERIA,62,Menor,10,Similar,0%,12%,49%,38%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE MONTERIA,64,Menor,6,Mayor,0%,2%,53%,45%,N.D.,N.D.,N.D.,Lectura Crítica
+MOSQUERA,59,,9,,1%,18%,57%,24%,29%,39%,42%,Lectura Crítica
+OFICIALES URBANOS DE MOSQUERA,57,Similar,9,Similar,1%,24%,59%,16%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE MOSQUERA,62,Similar,9,Similar,0%,9%,54%,36%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE MOSQUERA,52,Mayor,9,Similar,4%,43%,46%,6%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE MOSQUERA,59,Similar,9,Similar,1%,17%,59%,23%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE MOSQUERA,66,Menor,8,Similar,0%,5%,40%,55%,N.D.,N.D.,N.D.,Lectura Crítica
+NARIÑO,51,,10,,5%,43%,45%,7%,42%,52%,55%,Lectura Crítica
+OFICIALES URBANOS DE NARIÑO,52,Similar,10,Similar,4%,40%,48%,8%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE NARIÑO,49,Similar,9,Similar,7%,48%,41%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE NARIÑO,50,Similar,10,Similar,6%,55%,32%,8%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE NARIÑO,47,Mayor,9,Similar,11%,54%,31%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE NARIÑO,52,Similar,9,Similar,3%,40%,49%,8%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE NARIÑO,39,Mayor,0,Mayor,0%,100%,0%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+NEIVA,57,,11,,2%,27%,49%,22%,33%,42%,45%,Lectura Crítica
+OFICIALES URBANOS DE NEIVA,55,Similar,10,Similar,2%,29%,52%,17%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE NEIVA,50,Mayor,9,Mayor,7%,45%,44%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE NEIVA,62,Menor,11,Similar,1%,15%,41%,43%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE NEIVA,52,Mayor,10,Similar,3%,41%,47%,9%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE NEIVA,60,Similar,10,Similar,1%,17%,51%,32%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE NEIVA,71,Menor,7,Mayor,0%,0%,22%,78%,N.D.,N.D.,N.D.,Lectura Crítica
+NORTE DE SANTANDER,54,,10,,3%,35%,49%,13%,37%,47%,51%,Lectura Crítica
+OFICIALES URBANOS DE NORTE DE SANTANDER,55,Similar,10,Similar,2%,31%,53%,14%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE NORTE DE SANTANDER,49,Mayor,9,Similar,6%,53%,38%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE NORTE DE SANTANDER,60,Menor,11,Similar,2%,18%,46%,34%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE NORTE DE SANTANDER,48,Mayor,8,Mayor,6%,56%,36%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE NORTE DE SANTANDER,53,Similar,10,Similar,3%,37%,50%,11%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE NORTE DE SANTANDER,61,Menor,10,Similar,1%,13%,51%,36%,N.D.,N.D.,N.D.,Lectura Crítica
+PALMIRA,57,,10,,1%,24%,56%,19%,32%,42%,44%,Lectura Crítica
+OFICIALES URBANOS DE PALMIRA,57,Similar,10,Similar,1%,23%,56%,20%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE PALMIRA,54,Similar,9,Similar,2%,31%,56%,10%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE PALMIRA,58,Similar,9,Similar,1%,24%,54%,20%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE PALMIRA,56,Similar,10,Similar,1%,27%,56%,15%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE PALMIRA,60,Similar,9,Similar,0%,16%,55%,30%,N.D.,N.D.,N.D.,Lectura Crítica
+PASTO,57,,10,,1%,23%,54%,22%,31%,41%,44%,Lectura Crítica
+OFICIALES URBANOS DE PASTO,58,Similar,10,Similar,1%,22%,56%,21%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE PASTO,52,Mayor,8,Mayor,1%,42%,52%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE PASTO,62,Menor,9,Similar,0%,11%,51%,37%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE PASTO,49,Mayor,8,Mayor,2%,59%,38%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE PASTO,55,Similar,9,Similar,1%,29%,56%,13%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE PASTO,62,Menor,9,Similar,0%,10%,52%,38%,N.D.,N.D.,N.D.,Lectura Crítica
+PEREIRA,56,,10,,1%,28%,54%,17%,33%,44%,47%,Lectura Crítica
+OFICIALES URBANOS DE PEREIRA,55,Similar,9,Similar,1%,30%,56%,13%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE PEREIRA,53,Similar,9,Similar,2%,41%,49%,9%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE PEREIRA,62,Menor,10,Similar,1%,11%,48%,40%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE PEREIRA,50,Mayor,6,Mayor,0%,67%,33%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE PEREIRA,52,Mayor,9,Similar,2%,40%,52%,6%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE PEREIRA,58,Similar,9,Similar,1%,20%,56%,23%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE PEREIRA,67,Menor,8,Mayor,0%,2%,38%,60%,N.D.,N.D.,N.D.,Lectura Crítica
+PIEDECUESTA,58,,10,,1%,23%,54%,21%,31%,41%,44%,Lectura Crítica
+OFICIALES URBANOS DE PIEDECUESTA,58,Similar,10,Similar,1%,22%,55%,23%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE PIEDECUESTA,53,Mayor,9,Similar,2%,35%,56%,7%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE PIEDECUESTA,61,Similar,10,Similar,1%,16%,51%,32%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE PIEDECUESTA,55,Similar,9,Similar,1%,31%,54%,13%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE PIEDECUESTA,61,Similar,9,Similar,0%,13%,55%,31%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE PIEDECUESTA,72,Menor,7,Mayor,0%,0%,13%,87%,N.D.,N.D.,N.D.,Lectura Crítica
+PITALITO,58,,10,,1%,21%,55%,24%,31%,39%,42%,Lectura Crítica
+OFICIALES URBANOS DE PITALITO,61,Similar,10,Similar,0%,14%,55%,31%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE PITALITO,54,Mayor,9,Similar,1%,34%,54%,11%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE PITALITO,57,Similar,10,Similar,0%,21%,58%,21%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE PITALITO,58,Similar,10,Similar,1%,21%,54%,24%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE PITALITO,59,Similar,9,Similar,0%,17%,59%,24%,N.D.,N.D.,N.D.,Lectura Crítica
+POPAYAN,56,,10,,2%,30%,52%,17%,34%,44%,47%,Lectura Crítica
+OFICIALES URBANOS DE POPAYAN,57,Similar,10,Similar,1%,25%,55%,19%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE POPAYAN,51,Mayor,9,Similar,4%,45%,45%,6%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE POPAYAN,53,Similar,11,Similar,4%,41%,42%,13%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE POPAYAN,47,Mayor,10,Similar,10%,58%,29%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE POPAYAN,54,Similar,10,Similar,2%,36%,51%,11%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE POPAYAN,61,Menor,9,Similar,1%,14%,53%,32%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE POPAYAN,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Lectura Crítica
+PUTUMAYO,52,,9,,4%,42%,47%,7%,40%,52%,54%,Lectura Crítica
+OFICIALES URBANOS DE PUTUMAYO,54,Similar,9,Similar,3%,33%,54%,10%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE PUTUMAYO,47,Mayor,8,Similar,7%,58%,34%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE PUTUMAYO,58,Menor,11,Menor,0%,24%,44%,32%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE PUTUMAYO,47,Mayor,8,Similar,7%,59%,32%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE PUTUMAYO,52,Similar,9,Similar,3%,38%,51%,8%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE PUTUMAYO,60,Menor,9,Similar,0%,16%,59%,25%,N.D.,N.D.,N.D.,Lectura Crítica
+QUIBDO,49,,10,,7%,53%,34%,5%,45%,57%,59%,Lectura Crítica
+OFICIALES URBANOS DE QUIBDO,49,Similar,9,Similar,7%,53%,35%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE QUIBDO,44,Mayor,8,Mayor,6%,76%,18%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE QUIBDO,47,Similar,11,Similar,16%,47%,29%,8%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE QUIBDO,42,Mayor,6,Mayor,6%,88%,6%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE QUIBDO,46,Similar,9,Similar,10%,59%,30%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE QUIBDO,54,Menor,10,Similar,2%,38%,47%,13%,N.D.,N.D.,N.D.,Lectura Crítica
+QUINDIO,54,,10,,3%,33%,53%,12%,36%,47%,49%,Lectura Crítica
+OFICIALES URBANOS DE QUINDIO,54,Similar,9,Similar,3%,33%,53%,12%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE QUINDIO,53,Similar,9,Similar,2%,38%,55%,6%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE QUINDIO,63,Menor,9,Similar,1%,8%,45%,45%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE QUINDIO,53,Similar,9,Similar,3%,38%,51%,8%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE QUINDIO,59,Menor,9,Similar,2%,16%,58%,24%,N.D.,N.D.,N.D.,Lectura Crítica
+RIOHACHA,51,,10,,7%,44%,40%,9%,42%,52%,54%,Lectura Crítica
+OFICIALES URBANOS DE RIOHACHA,51,Similar,9,Similar,4%,43%,46%,7%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE RIOHACHA,43,Mayor,8,Mayor,18%,65%,15%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE RIOHACHA,60,Menor,10,Similar,2%,17%,48%,33%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE RIOHACHA,40,Mayor,8,Mayor,30%,61%,8%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE RIOHACHA,49,Similar,9,Similar,7%,50%,39%,4%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE RIOHACHA,58,Menor,10,Similar,1%,23%,51%,25%,N.D.,N.D.,N.D.,Lectura Crítica
+RIONEGRO,58,,9,,1%,21%,56%,22%,30%,40%,42%,Lectura Crítica
+OFICIALES URBANOS DE RIONEGRO,58,Similar,9,Similar,1%,18%,62%,19%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE RIONEGRO,55,Similar,9,Similar,1%,31%,58%,10%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE RIONEGRO,63,Menor,10,Similar,0%,12%,40%,48%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE RIONEGRO,55,Similar,9,Similar,2%,30%,55%,13%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE RIONEGRO,59,Similar,9,Similar,1%,19%,57%,23%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE RIONEGRO,68,Menor,7,Mayor,0%,2%,32%,66%,N.D.,N.D.,N.D.,Lectura Crítica
+RISARALDA,51,,10,,6%,43%,44%,7%,43%,53%,55%,Lectura Crítica
+OFICIALES URBANOS DE RISARALDA,53,Similar,9,Similar,3%,39%,50%,8%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE RISARALDA,46,Mayor,9,Similar,14%,54%,29%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE RISARALDA,62,Menor,9,Similar,0%,7%,61%,32%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE RISARALDA,44,Mayor,9,Similar,15%,62%,22%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE RISARALDA,50,Similar,9,Similar,7%,46%,42%,6%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE RISARALDA,56,Menor,9,Similar,1%,28%,57%,14%,N.D.,N.D.,N.D.,Lectura Crítica
+SABANETA,60,,9,,1%,13%,57%,29%,28%,37%,39%,Lectura Crítica
+OFICIALES URBANOS DE SABANETA,59,Similar,9,Similar,1%,14%,64%,21%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE SABANETA,58,Similar,9,Similar,0%,21%,57%,22%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE SABANETA,63,Similar,9,Similar,1%,7%,45%,48%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE SABANETA,60,Similar,9,Similar,1%,13%,58%,28%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE SABANETA,62,Similar,16,Menor,0%,27%,0%,73%,N.D.,N.D.,N.D.,Lectura Crítica
+SAHAGUN,54,,10,,2%,36%,52%,11%,37%,47%,51%,Lectura Crítica
+OFICIALES URBANOS DE SAHAGUN,54,Similar,9,Similar,1%,33%,55%,11%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE SAHAGUN,50,Mayor,9,Similar,4%,47%,44%,4%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE SAHAGUN,62,Menor,10,Similar,0%,11%,58%,32%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE SAHAGUN,51,Similar,8,Mayor,4%,44%,48%,4%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE SAHAGUN,54,Similar,10,Similar,1%,34%,53%,12%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE SAHAGUN,62,Menor,10,Similar,0%,11%,58%,32%,N.D.,N.D.,N.D.,Lectura Crítica
+SAN ANDRES,51,,11,,8%,45%,37%,10%,43%,53%,55%,Lectura Crítica
+OFICIALES URBANOS DE SAN ANDRES,53,Similar,11,Similar,6%,37%,47%,10%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE SAN ANDRES,46,Mayor,9,Mayor,13%,59%,24%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE SAN ANDRES,58,Menor,10,Similar,2%,26%,51%,22%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE SAN ANDRES,47,Mayor,9,Mayor,11%,55%,33%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE SAN ANDRES,53,Similar,11,Similar,6%,38%,40%,16%,N.D.,N.D.,N.D.,Lectura Crítica
+SANTA MARTA,53,,10,,3%,38%,48%,11%,39%,49%,52%,Lectura Crítica
+OFICIALES URBANOS DE SANTA MARTA,52,Similar,9,Similar,3%,40%,48%,8%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE SANTA MARTA,48,Mayor,9,Similar,7%,55%,36%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE SANTA MARTA,58,Menor,10,Similar,2%,20%,53%,25%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE SANTA MARTA,45,Mayor,7,Mayor,9%,70%,21%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE SANTA MARTA,50,Similar,9,Similar,5%,46%,45%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE SANTA MARTA,59,Menor,9,Similar,1%,18%,57%,24%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE SANTA MARTA,57,Menor,12,Menor,0%,50%,25%,25%,N.D.,N.D.,N.D.,Lectura Crítica
+SANTANDER,54,,10,,2%,34%,52%,12%,36%,47%,51%,Lectura Crítica
+OFICIALES URBANOS DE SANTANDER,55,Similar,9,Similar,2%,30%,55%,13%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE SANTANDER,52,Similar,9,Similar,3%,42%,48%,6%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE SANTANDER,58,Menor,11,Similar,3%,23%,49%,25%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE SANTANDER,50,Mayor,9,Similar,4%,50%,42%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE SANTANDER,53,Similar,9,Similar,2%,36%,52%,10%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE SANTANDER,60,Menor,9,Similar,1%,12%,59%,28%,N.D.,N.D.,N.D.,Lectura Crítica
+SINCELEJO,54,,10,,2%,35%,48%,15%,37%,46%,50%,Lectura Crítica
+OFICIALES URBANOS DE SINCELEJO,54,Similar,10,Similar,2%,36%,51%,11%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE SINCELEJO,48,Mayor,9,Similar,6%,58%,32%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE SINCELEJO,60,Menor,11,Similar,2%,18%,43%,37%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE SINCELEJO,47,Mayor,8,Mayor,7%,62%,29%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE SINCELEJO,53,Similar,10,Similar,2%,37%,50%,10%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE SINCELEJO,62,Menor,10,Similar,1%,13%,46%,41%,N.D.,N.D.,N.D.,Lectura Crítica
+SOACHA,55,,9,,2%,29%,57%,12%,35%,46%,48%,Lectura Crítica
+OFICIALES URBANOS DE SOACHA,53,Similar,9,Similar,2%,35%,55%,8%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE SOACHA,51,Mayor,9,Similar,0%,44%,54%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE SOACHA,57,Similar,9,Similar,1%,22%,60%,17%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE SOACHA,52,Similar,9,Similar,2%,38%,54%,6%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE SOACHA,56,Similar,9,Similar,2%,24%,59%,15%,N.D.,N.D.,N.D.,Lectura Crítica
+SOGAMOSO,58,,9,,1%,19%,59%,22%,29%,39%,42%,Lectura Crítica
+OFICIALES URBANOS DE SOGAMOSO,57,Similar,8,Similar,1%,20%,64%,15%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE SOGAMOSO,53,Mayor,8,Similar,1%,34%,62%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE SOGAMOSO,61,Similar,10,Similar,1%,14%,50%,35%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE SOGAMOSO,54,Mayor,8,Similar,1%,33%,57%,8%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE SOGAMOSO,60,Similar,9,Similar,1%,14%,60%,26%,N.D.,N.D.,N.D.,Lectura Crítica
+SOLEDAD,53,,10,,4%,36%,47%,13%,38%,48%,51%,Lectura Crítica
+OFICIALES URBANOS DE SOLEDAD,53,Similar,10,Similar,3%,35%,51%,10%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE SOLEDAD,53,Similar,11,Similar,4%,37%,44%,15%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE SOLEDAD,51,Similar,10,Similar,5%,44%,44%,7%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE SOLEDAD,59,Menor,10,Similar,1%,18%,55%,27%,N.D.,N.D.,N.D.,Lectura Crítica
+SUCRE,49,,10,,7%,51%,37%,5%,45%,55%,59%,Lectura Crítica
+OFICIALES URBANOS DE SUCRE,51,Similar,9,Similar,5%,45%,44%,6%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE SUCRE,45,Mayor,8,Mayor,11%,63%,25%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE SUCRE,58,Menor,10,Similar,2%,20%,53%,25%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE SUCRE,44,Mayor,8,Mayor,12%,66%,21%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE SUCRE,50,Similar,9,Similar,6%,48%,41%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE SUCRE,61,Menor,9,Similar,1%,11%,60%,28%,N.D.,N.D.,N.D.,Lectura Crítica
+TOLIMA,50,,9,,5%,47%,42%,6%,43%,54%,56%,Lectura Crítica
+OFICIALES URBANOS DE TOLIMA,51,Similar,9,Similar,4%,44%,45%,6%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE TOLIMA,48,Similar,9,Similar,7%,55%,36%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE TOLIMA,54,Menor,10,Similar,5%,30%,51%,15%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE TOLIMA,47,Similar,8,Similar,9%,58%,32%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE TOLIMA,50,Similar,9,Similar,5%,48%,42%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE TOLIMA,58,Menor,10,Similar,2%,20%,58%,21%,N.D.,N.D.,N.D.,Lectura Crítica
+TULUA,55,,10,,3%,32%,51%,14%,36%,46%,48%,Lectura Crítica
+OFICIALES URBANOS DE TULUA,54,Similar,9,Similar,3%,35%,51%,12%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE TULUA,49,Mayor,9,Similar,6%,49%,42%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE TULUA,60,Menor,9,Similar,1%,13%,58%,28%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE TULUA,48,Mayor,8,Mayor,7%,53%,40%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE TULUA,53,Similar,10,Similar,3%,39%,48%,10%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE TULUA,59,Menor,9,Similar,1%,15%,59%,25%,N.D.,N.D.,N.D.,Lectura Crítica
+TUMACO,46,,9,,12%,59%,25%,4%,51%,61%,64%,Lectura Crítica
+OFICIALES URBANOS DE TUMACO,46,Similar,9,Similar,10%,59%,28%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE TUMACO,43,Similar,8,Similar,17%,68%,14%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE TUMACO,54,Menor,12,Menor,6%,31%,43%,21%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE TUMACO,43,Similar,8,Similar,15%,68%,16%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE TUMACO,46,Similar,9,Similar,12%,60%,25%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE TUMACO,58,Menor,9,Similar,0%,19%,58%,23%,N.D.,N.D.,N.D.,Lectura Crítica
+TUNJA,60,,9,,1%,16%,55%,28%,28%,37%,39%,Lectura Crítica
+OFICIALES URBANOS DE TUNJA,59,Similar,9,Similar,1%,18%,58%,24%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE TUNJA,52,Mayor,9,Similar,3%,39%,52%,6%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE TUNJA,63,Similar,9,Similar,1%,9%,50%,40%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE TUNJA,55,Mayor,9,Similar,1%,30%,58%,10%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE TUNJA,62,Similar,8,Similar,0%,10%,56%,34%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE TUNJA,68,Menor,8,Similar,0%,1%,35%,65%,N.D.,N.D.,N.D.,Lectura Crítica
+TURBO,47,,9,,8%,57%,33%,2%,47%,59%,62%,Lectura Crítica
+OFICIALES URBANOS DE TURBO,48,Similar,9,Similar,6%,57%,35%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE TURBO,46,Similar,9,Similar,10%,61%,27%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE TURBO,52,Menor,9,Similar,5%,34%,54%,7%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE TURBO,43,Mayor,7,Mayor,13%,75%,13%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE TURBO,47,Similar,9,Similar,9%,58%,32%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE TURBO,52,Menor,9,Similar,3%,39%,50%,8%,N.D.,N.D.,N.D.,Lectura Crítica
+URIBIA,41,,8,,27%,58%,15%,1%,59%,68%,67%,Lectura Crítica
+OFICIALES URBANOS DE URIBIA,46,Menor,9,Similar,13%,56%,29%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE URIBIA,39,Similar,7,Similar,33%,59%,8%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE URIBIA,40,Similar,7,Similar,29%,60%,11%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE URIBIA,46,Menor,11,Menor,18%,48%,30%,4%,N.D.,N.D.,N.D.,Lectura Crítica
+VALLE DEL CAUCA,53,,10,,3%,39%,49%,9%,39%,50%,53%,Lectura Crítica
+OFICIALES URBANOS DE VALLE DEL CAUCA,53,Similar,10,Similar,3%,38%,49%,10%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE VALLE DEL CAUCA,51,Similar,9,Similar,4%,46%,46%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE VALLE DEL CAUCA,57,Menor,10,Similar,2%,23%,54%,21%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE VALLE DEL CAUCA,49,Mayor,8,Mayor,4%,55%,39%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE VALLE DEL CAUCA,52,Similar,9,Similar,3%,40%,48%,9%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE VALLE DEL CAUCA,58,Menor,10,Similar,1%,21%,56%,21%,N.D.,N.D.,N.D.,Lectura Crítica
+VALLEDUPAR,55,,11,,3%,32%,47%,18%,35%,45%,48%,Lectura Crítica
+OFICIALES URBANOS DE VALLEDUPAR,55,Similar,10,Similar,2%,32%,51%,16%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE VALLEDUPAR,47,Mayor,9,Mayor,8%,58%,32%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE VALLEDUPAR,58,Similar,12,Similar,3%,24%,43%,29%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE VALLEDUPAR,47,Mayor,8,Mayor,7%,57%,37%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE VALLEDUPAR,52,Similar,10,Similar,4%,40%,47%,9%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE VALLEDUPAR,62,Menor,10,Similar,1%,13%,46%,41%,N.D.,N.D.,N.D.,Lectura Crítica
+VAUPES,45,,8,,11%,62%,26%,1%,51%,61%,62%,Lectura Crítica
+OFICIALES URBANOS DE VAUPES,48,Similar,8,Similar,4%,57%,37%,2%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE VAUPES,40,Mayor,6,Mayor,23%,72%,5%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE VAUPES,32,Mayor,0,Mayor,100%,0%,0%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE VAUPES,44,Similar,8,Similar,13%,64%,22%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE VAUPES,50,Menor,8,Similar,3%,55%,40%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+VICHADA,47,,10,,12%,51%,33%,3%,49%,59%,60%,Lectura Crítica
+OFICIALES URBANOS DE VICHADA,50,Similar,9,Similar,5%,48%,42%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE VICHADA,42,Mayor,9,Similar,23%,56%,20%,1%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE VICHADA,40,Mayor,7,Mayor,29%,61%,10%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE VICHADA,49,Similar,10,Similar,7%,48%,41%,4%,N.D.,N.D.,N.D.,Lectura Crítica
+VILLAVICENCIO,56,,10,,2%,28%,53%,17%,34%,44%,47%,Lectura Crítica
+OFICIALES URBANOS DE VILLAVICENCIO,55,Similar,9,Similar,2%,29%,56%,13%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE VILLAVICENCIO,56,Similar,10,Similar,2%,26%,54%,18%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE VILLAVICENCIO,57,Similar,12,Menor,3%,28%,44%,25%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE VILLAVICENCIO,52,Mayor,4,Mayor,0%,33%,67%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE VILLAVICENCIO,52,Mayor,9,Similar,3%,39%,50%,7%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE VILLAVICENCIO,58,Similar,9,Similar,1%,20%,56%,23%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE VILLAVICENCIO,69,Menor,9,Similar,0%,2%,29%,69%,N.D.,N.D.,N.D.,Lectura Crítica
+YOPAL,55,,10,,2%,29%,53%,16%,34%,45%,47%,Lectura Crítica
+OFICIALES URBANOS DE YOPAL,55,Similar,9,Similar,2%,30%,56%,13%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE YOPAL,50,Mayor,9,Similar,2%,50%,44%,4%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE YOPAL,63,Menor,11,Similar,1%,11%,43%,44%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 1 DE YOPAL,47,Mayor,5,Mayor,0%,83%,17%,0%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE YOPAL,53,Similar,9,Similar,2%,35%,54%,9%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE YOPAL,62,Menor,9,Similar,1%,10%,52%,38%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE YOPAL,68,Menor,5,Mayor,0%,0%,40%,60%,N.D.,N.D.,N.D.,Lectura Crítica
+YUMBO,52,,9,,2%,41%,49%,8%,39%,50%,54%,Lectura Crítica
+OFICIALES URBANOS DE YUMBO,53,Similar,9,Similar,2%,38%,51%,9%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE YUMBO,50,Similar,8,Similar,4%,50%,43%,3%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE YUMBO,51,Similar,9,Similar,3%,49%,42%,7%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE YUMBO,50,Similar,9,Similar,3%,48%,44%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE YUMBO,55,Similar,9,Similar,1%,30%,57%,12%,N.D.,N.D.,N.D.,Lectura Crítica
+ZIPAQUIRA,58,,9,,1%,22%,55%,22%,30%,41%,43%,Lectura Crítica
+OFICIALES URBANOS DE ZIPAQUIRA,56,Similar,9,Similar,1%,26%,57%,16%,N.D.,N.D.,N.D.,Lectura Crítica
+OFICIALES RURALES DE ZIPAQUIRA,53,Mayor,9,Similar,1%,40%,50%,9%,N.D.,N.D.,N.D.,Lectura Crítica
+PRIVADOS DE ZIPAQUIRA,62,Menor,8,Similar,1%,10%,54%,35%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 2 DE ZIPAQUIRA,51,Mayor,9,Similar,3%,48%,44%,5%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 3 DE ZIPAQUIRA,59,Similar,9,Similar,1%,17%,58%,25%,N.D.,N.D.,N.D.,Lectura Crítica
+GC 4 DE ZIPAQUIRA,66,Menor,6,Mayor,0%,0%,50%,50%,N.D.,N.D.,N.D.,Lectura Crítica

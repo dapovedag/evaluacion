@@ -1,0 +1,663 @@
+pai_et_municipios,promedio,comparacion_pmat,desviacion,comparacion_dmat,desempeno_1,desempeno_2,desempeno_3,desempeno_4,aprendizaje_1,aprendizaje_2,aprendizaje_3,Competencia
+AMAZONAS,43,,11,,25%,51%,23%,1%,72%,51%,69%,Matemáticas
+OFICIALES URBANOS DE AMAZONAS,45,Similar,10,Similar,16%,55%,28%,1%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE AMAZONAS,36,Mayor,8,Mayor,52%,44%,5%,0%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE AMAZONAS,59,Menor,10,Similar,0%,24%,62%,14%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE AMAZONAS,37,Mayor,8,Mayor,43%,51%,7%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE AMAZONAS,43,Similar,10,Similar,24%,52%,23%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE AMAZONAS,59,Menor,10,Similar,0%,25%,58%,17%,N.D.,N.D.,N.D.,Matemáticas
+ANTIOQUIA,49,,12,,14%,41%,42%,4%,64%,43%,61%,Matemáticas
+OFICIALES URBANOS DE ANTIOQUIA,51,Similar,12,Similar,10%,38%,48%,4%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE ANTIOQUIA,45,Mayor,11,Similar,22%,48%,29%,1%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE ANTIOQUIA,58,Menor,13,Similar,5%,20%,59%,16%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE ANTIOQUIA,41,Mayor,10,Mayor,30%,52%,18%,1%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE ANTIOQUIA,48,Similar,11,Similar,15%,43%,39%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE ANTIOQUIA,56,Menor,11,Similar,4%,25%,62%,9%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE ANTIOQUIA,65,Menor,11,Similar,0%,13%,56%,31%,N.D.,N.D.,N.D.,Matemáticas
+APARTADO,49,,11,,13%,44%,39%,3%,65%,44%,62%,Matemáticas
+OFICIALES URBANOS DE APARTADO,48,Similar,11,Similar,12%,47%,38%,2%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE APARTADO,46,Similar,10,Similar,19%,44%,36%,1%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE APARTADO,53,Menor,14,Menor,12%,30%,45%,13%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE APARTADO,40,Mayor,10,Similar,37%,43%,20%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE APARTADO,48,Similar,10,Similar,14%,48%,37%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE APARTADO,57,Menor,11,Similar,4%,26%,56%,14%,N.D.,N.D.,N.D.,Matemáticas
+ARAUCA,52,,11,,8%,35%,52%,5%,61%,38%,58%,Matemáticas
+OFICIALES URBANOS DE ARAUCA,53,Similar,11,Similar,7%,33%,55%,6%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE ARAUCA,49,Similar,10,Similar,10%,43%,46%,2%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE ARAUCA,52,Similar,14,Menor,13%,31%,49%,7%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE ARAUCA,47,Mayor,11,Similar,16%,47%,37%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE ARAUCA,52,Similar,11,Similar,8%,36%,52%,4%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE ARAUCA,57,Menor,12,Similar,5%,22%,62%,11%,N.D.,N.D.,N.D.,Matemáticas
+ARMENIA,57,,13,,4%,24%,56%,15%,53%,32%,48%,Matemáticas
+OFICIALES URBANOS DE ARMENIA,56,Similar,12,Similar,5%,27%,56%,12%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE ARMENIA,57,Similar,10,Mayor,2%,20%,67%,11%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE ARMENIA,64,Menor,13,Similar,2%,9%,58%,31%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE ARMENIA,52,Mayor,11,Mayor,7%,37%,50%,6%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE ARMENIA,60,Similar,12,Similar,3%,17%,60%,20%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE ARMENIA,62,Menor,9,Mayor,0%,13%,71%,16%,N.D.,N.D.,N.D.,Matemáticas
+ATLANTICO,47,,11,,16%,46%,35%,3%,67%,47%,64%,Matemáticas
+OFICIALES URBANOS DE ATLANTICO,47,Similar,11,Similar,16%,47%,35%,2%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE ATLANTICO,43,Mayor,11,Similar,24%,51%,23%,1%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE ATLANTICO,57,Menor,13,Menor,5%,23%,58%,14%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE ATLANTICO,42,Mayor,10,Similar,30%,53%,17%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE ATLANTICO,46,Similar,11,Similar,18%,48%,33%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE ATLANTICO,53,Menor,11,Similar,8%,31%,56%,5%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE ATLANTICO,71,Menor,11,Similar,0%,2%,51%,47%,N.D.,N.D.,N.D.,Matemáticas
+BARRANCABERMEJA,54,,13,,7%,32%,50%,10%,57%,35%,55%,Matemáticas
+OFICIALES URBANOS DE BARRANCABERMEJA,52,Similar,11,Mayor,7%,35%,51%,6%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE BARRANCABERMEJA,49,Mayor,12,Similar,13%,43%,40%,3%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE BARRANCABERMEJA,65,Menor,13,Similar,2%,11%,53%,34%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE BARRANCABERMEJA,50,Mayor,11,Mayor,10%,40%,46%,4%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE BARRANCABERMEJA,60,Menor,12,Similar,3%,19%,59%,20%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE BARRANCABERMEJA,74,Menor,8,Mayor,0%,0%,38%,62%,N.D.,N.D.,N.D.,Matemáticas
+BARRANQUILLA,53,,12,,8%,32%,51%,8%,58%,37%,54%,Matemáticas
+OFICIALES URBANOS DE BARRANQUILLA,52,Similar,12,Similar,9%,35%,50%,6%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE BARRANQUILLA,57,Menor,14,Menor,6%,25%,53%,16%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE BARRANQUILLA,42,Mayor,10,Mayor,32%,43%,25%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE BARRANQUILLA,49,Mayor,11,Similar,12%,42%,43%,3%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE BARRANQUILLA,58,Menor,12,Similar,4%,22%,60%,14%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE BARRANQUILLA,68,Menor,11,Similar,2%,3%,57%,38%,N.D.,N.D.,N.D.,Matemáticas
+BELLO,53,,11,,8%,33%,54%,5%,60%,39%,57%,Matemáticas
+OFICIALES URBANOS DE BELLO,52,Similar,11,Similar,7%,34%,55%,4%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE BELLO,51,Similar,11,Similar,6%,42%,49%,3%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE BELLO,53,Similar,13,Menor,9%,31%,52%,8%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE BELLO,49,Mayor,11,Similar,11%,42%,45%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE BELLO,56,Similar,11,Similar,4%,25%,62%,8%,N.D.,N.D.,N.D.,Matemáticas
+BOGOTA,55,,11,,4%,29%,58%,9%,57%,34%,53%,Matemáticas
+OFICIALES URBANOS DE BOGOTA,53,Similar,10,Similar,5%,36%,55%,4%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE BOGOTA,49,Mayor,9,Mayor,8%,49%,42%,1%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE BOGOTA,60,Menor,11,Similar,3%,18%,63%,17%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE BOGOTA,48,Mayor,9,Mayor,10%,60%,30%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE BOGOTA,50,Mayor,10,Similar,8%,43%,46%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE BOGOTA,56,Similar,11,Similar,3%,26%,61%,9%,N.D.,N.D.,N.D.,Matemáticas
+BOLIVAR,45,,12,,21%,47%,29%,3%,68%,49%,66%,Matemáticas
+OFICIALES URBANOS DE BOLIVAR,46,Similar,11,Similar,19%,47%,32%,2%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE BOLIVAR,42,Similar,10,Mayor,29%,52%,19%,0%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE BOLIVAR,58,Menor,13,Similar,6%,22%,54%,18%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE BOLIVAR,42,Similar,10,Mayor,31%,49%,20%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE BOLIVAR,45,Similar,11,Similar,21%,48%,28%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE BOLIVAR,60,Menor,13,Similar,4%,19%,57%,20%,N.D.,N.D.,N.D.,Matemáticas
+BOYACA,55,,11,,5%,31%,57%,8%,58%,34%,55%,Matemáticas
+OFICIALES URBANOS DE BOYACA,55,Similar,11,Similar,4%,30%,59%,7%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE BOYACA,52,Similar,11,Similar,7%,39%,51%,3%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE BOYACA,63,Menor,11,Similar,1%,12%,61%,26%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE BOYACA,51,Mayor,10,Similar,7%,40%,50%,3%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE BOYACA,54,Similar,11,Similar,5%,33%,57%,6%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE BOYACA,61,Menor,11,Similar,1%,15%,64%,20%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE BOYACA,71,Menor,8,Mayor,0%,0%,47%,53%,N.D.,N.D.,N.D.,Matemáticas
+BUCARAMANGA,60,,12,,3%,19%,59%,19%,49%,27%,44%,Matemáticas
+OFICIALES URBANOS DE BUCARAMANGA,58,Similar,12,Similar,3%,22%,61%,14%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE BUCARAMANGA,52,Mayor,12,Similar,11%,30%,57%,2%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE BUCARAMANGA,64,Menor,13,Similar,2%,12%,53%,33%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE BUCARAMANGA,53,Mayor,11,Similar,5%,33%,57%,5%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE BUCARAMANGA,63,Similar,12,Similar,2%,12%,61%,25%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE BUCARAMANGA,73,Menor,13,Similar,1%,4%,31%,64%,N.D.,N.D.,N.D.,Matemáticas
+BUENAVENTURA,45,,11,,23%,47%,28%,2%,69%,50%,67%,Matemáticas
+OFICIALES URBANOS DE BUENAVENTURA,44,Similar,10,Similar,22%,50%,27%,1%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE BUENAVENTURA,39,Mayor,10,Similar,41%,45%,14%,0%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE BUENAVENTURA,49,Menor,12,Similar,15%,40%,40%,5%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE BUENAVENTURA,36,Mayor,8,Mayor,58%,35%,7%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE BUENAVENTURA,43,Similar,10,Similar,24%,52%,24%,1%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE BUENAVENTURA,52,Menor,12,Similar,10%,32%,53%,6%,N.D.,N.D.,N.D.,Matemáticas
+BUGA,55,,11,,4%,30%,58%,8%,59%,34%,53%,Matemáticas
+OFICIALES URBANOS DE BUGA,55,Similar,11,Similar,4%,28%,59%,8%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE BUGA,52,Similar,9,Mayor,3%,34%,61%,2%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE BUGA,52,Similar,11,Similar,6%,46%,44%,4%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE BUGA,50,Mayor,8,Mayor,6%,35%,59%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE BUGA,55,Similar,11,Similar,5%,30%,57%,7%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE BUGA,57,Similar,11,Similar,2%,25%,63%,9%,N.D.,N.D.,N.D.,Matemáticas
+CALDAS,50,,11,,9%,41%,47%,4%,64%,41%,60%,Matemáticas
+OFICIALES URBANOS DE CALDAS,51,Similar,11,Similar,8%,39%,50%,4%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE CALDAS,48,Similar,10,Similar,11%,46%,41%,1%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE CALDAS,57,Menor,12,Similar,4%,24%,55%,17%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE CALDAS,47,Similar,11,Similar,15%,47%,37%,1%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE CALDAS,50,Similar,11,Similar,9%,42%,46%,3%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE CALDAS,56,Menor,11,Similar,4%,25%,59%,11%,N.D.,N.D.,N.D.,Matemáticas
+CALI,50,,11,,10%,39%,48%,3%,55%,61%,42%,Matemáticas
+OFICIALES URBANOS DE CALI,50,Similar,11,Similar,10%,39%,48%,3%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE CALI,48,Similar,11,Similar,12%,43%,43%,2%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE CALI,51,Similar,12,Similar,11%,37%,49%,4%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE CALI,60,Menor,0,Mayor,0%,0%,100%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE CALI,48,Similar,11,Similar,14%,45%,40%,1%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE CALI,53,Similar,11,Similar,7%,33%,56%,4%,N.D.,N.D.,N.D.,Matemáticas
+CAQUETA,49,,10,,9%,46%,42%,2%,65%,43%,64%,Matemáticas
+OFICIALES URBANOS DE CAQUETA,50,Similar,10,Similar,8%,44%,45%,2%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE CAQUETA,47,Similar,10,Similar,12%,54%,33%,1%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE CAQUETA,52,Similar,8,Mayor,0%,56%,44%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE CAQUETA,47,Similar,9,Similar,10%,59%,31%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE CAQUETA,49,Similar,10,Similar,9%,45%,44%,2%,N.D.,N.D.,N.D.,Matemáticas
+CARTAGENA,50,,13,,13%,39%,41%,6%,62%,42%,59%,Matemáticas
+OFICIALES URBANOS DE CARTAGENA,48,Similar,11,Mayor,14%,44%,39%,3%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE CARTAGENA,42,Mayor,11,Mayor,30%,47%,23%,1%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE CARTAGENA,56,Menor,14,Similar,7%,27%,51%,15%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE CARTAGENA,41,Mayor,11,Mayor,24%,57%,20%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE CARTAGENA,47,Similar,11,Mayor,17%,45%,36%,3%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE CARTAGENA,57,Menor,13,Similar,6%,25%,56%,14%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE CARTAGENA,67,Menor,10,Mayor,0%,4%,55%,41%,N.D.,N.D.,N.D.,Matemáticas
+CARTAGO,53,,12,,7%,36%,51%,6%,60%,38%,57%,Matemáticas
+OFICIALES URBANOS DE CARTAGO,52,Similar,12,Similar,8%,35%,51%,6%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE CARTAGO,50,Similar,11,Similar,10%,49%,39%,2%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE CARTAGO,54,Similar,11,Similar,2%,34%,59%,5%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE CARTAGO,49,Mayor,10,Mayor,11%,46%,41%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE CARTAGO,56,Similar,12,Similar,4%,24%,62%,10%,N.D.,N.D.,N.D.,Matemáticas
+CASANARE,53,,12,,6%,33%,53%,7%,59%,36%,55%,Matemáticas
+OFICIALES URBANOS DE CASANARE,54,Similar,11,Similar,5%,32%,56%,7%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE CASANARE,51,Similar,13,Similar,11%,40%,42%,7%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE CASANARE,52,Similar,15,Menor,17%,23%,50%,10%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE CASANARE,50,Similar,14,Menor,14%,40%,37%,8%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE CASANARE,54,Similar,11,Similar,5%,33%,55%,7%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE CASANARE,57,Menor,10,Mayor,2%,25%,63%,11%,N.D.,N.D.,N.D.,Matemáticas
+CAUCA,46,,11,,18%,48%,32%,2%,68%,48%,65%,Matemáticas
+OFICIALES URBANOS DE CAUCA,48,Similar,12,Similar,15%,43%,39%,3%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE CAUCA,44,Similar,10,Similar,21%,52%,26%,1%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE CAUCA,49,Similar,13,Menor,15%,41%,39%,5%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE CAUCA,43,Similar,10,Similar,23%,53%,23%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE CAUCA,47,Similar,11,Similar,17%,47%,34%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE CAUCA,56,Menor,13,Menor,6%,28%,53%,13%,N.D.,N.D.,N.D.,Matemáticas
+CESAR,48,,12,,14%,44%,39%,3%,65%,44%,63%,Matemáticas
+OFICIALES URBANOS DE CESAR,49,Similar,11,Similar,12%,42%,42%,3%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE CESAR,45,Similar,11,Similar,20%,50%,29%,1%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE CESAR,53,Menor,14,Menor,10%,35%,45%,10%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE CESAR,45,Similar,10,Mayor,20%,52%,27%,1%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE CESAR,48,Similar,11,Similar,14%,44%,39%,3%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE CESAR,56,Menor,13,Similar,5%,32%,48%,15%,N.D.,N.D.,N.D.,Matemáticas
+CHIA,58,,11,,3%,21%,63%,13%,52%,30%,49%,Matemáticas
+OFICIALES URBANOS DE CHIA,56,Similar,10,Similar,4%,26%,64%,6%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE CHIA,55,Similar,10,Similar,4%,29%,60%,7%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE CHIA,61,Similar,11,Similar,2%,13%,64%,21%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE CHIA,54,Mayor,11,Similar,4%,34%,52%,10%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE CHIA,57,Similar,11,Similar,3%,21%,66%,10%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE CHIA,66,Menor,13,Menor,1%,10%,51%,39%,N.D.,N.D.,N.D.,Matemáticas
+CHOCO,40,,11,,39%,45%,15%,1%,73%,58%,72%,Matemáticas
+OFICIALES URBANOS DE CHOCO,42,Similar,11,Similar,28%,52%,19%,1%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE CHOCO,36,Mayor,10,Similar,55%,36%,9%,0%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE CHOCO,54,Menor,10,Similar,11%,17%,72%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE CHOCO,36,Mayor,11,Similar,54%,34%,12%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE CHOCO,40,Similar,11,Similar,36%,47%,16%,1%,N.D.,N.D.,N.D.,Matemáticas
+CIENAGA,45,,11,,19%,49%,30%,2%,69%,50%,67%,Matemáticas
+OFICIALES URBANOS DE CIENAGA,45,Similar,11,Similar,21%,50%,29%,1%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE CIENAGA,44,Similar,10,Similar,20%,55%,24%,1%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE CIENAGA,49,Menor,12,Similar,14%,41%,40%,4%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE CIENAGA,39,Mayor,9,Mayor,29%,60%,10%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE CIENAGA,45,Similar,11,Similar,21%,51%,28%,1%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE CIENAGA,53,Menor,12,Similar,8%,30%,56%,7%,N.D.,N.D.,N.D.,Matemáticas
+CORDOBA,47,,12,,16%,46%,35%,3%,65%,45%,63%,Matemáticas
+OFICIALES URBANOS DE CORDOBA,48,Similar,11,Similar,14%,45%,39%,3%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE CORDOBA,45,Similar,11,Similar,19%,50%,30%,1%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE CORDOBA,57,Menor,15,Menor,10%,23%,48%,19%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE CORDOBA,44,Similar,10,Mayor,20%,52%,27%,1%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE CORDOBA,48,Similar,11,Similar,15%,45%,38%,3%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE CORDOBA,63,Menor,11,Similar,1%,11%,62%,25%,N.D.,N.D.,N.D.,Matemáticas
+CUCUTA,56,,12,,5%,26%,58%,11%,55%,31%,50%,Matemáticas
+OFICIALES URBANOS DE CUCUTA,56,Similar,12,Similar,4%,26%,60%,11%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE CUCUTA,51,Mayor,12,Similar,10%,36%,49%,5%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE CUCUTA,56,Similar,13,Similar,7%,25%,54%,14%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE CUCUTA,60,Menor,0,Mayor,0%,0%,100%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE CUCUTA,54,Similar,12,Similar,6%,30%,56%,7%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE CUCUTA,61,Menor,11,Similar,2%,15%,62%,21%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE CUCUTA,71,Menor,10,Mayor,0%,3%,46%,51%,N.D.,N.D.,N.D.,Matemáticas
+CUNDINAMARCA,55,,11,,5%,30%,57%,8%,58%,34%,54%,Matemáticas
+OFICIALES URBANOS DE CUNDINAMARCA,53,Similar,11,Similar,5%,33%,57%,5%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE CUNDINAMARCA,53,Similar,11,Similar,6%,36%,53%,4%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE CUNDINAMARCA,61,Menor,11,Similar,2%,16%,64%,19%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE CUNDINAMARCA,49,Mayor,11,Similar,11%,43%,43%,4%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE CUNDINAMARCA,52,Similar,11,Similar,6%,36%,54%,4%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE CUNDINAMARCA,57,Similar,11,Similar,3%,23%,64%,10%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE CUNDINAMARCA,69,Menor,9,Mayor,0%,2%,51%,47%,N.D.,N.D.,N.D.,Matemáticas
+DOS QUEBRADAS,55,,10,,3%,29%,61%,7%,59%,35%,53%,Matemáticas
+OFICIALES URBANOS DE DOS QUEBRADAS,54,Similar,10,Similar,3%,31%,61%,4%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE DOS QUEBRADAS,52,Similar,8,Mayor,2%,37%,58%,3%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE DOS QUEBRADAS,62,Menor,12,Menor,2%,13%,63%,22%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE DOS QUEBRADAS,52,Similar,10,Similar,4%,38%,54%,3%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE DOS QUEBRADAS,56,Similar,10,Similar,3%,26%,63%,8%,N.D.,N.D.,N.D.,Matemáticas
+DUITAMA,60,,11,,2%,18%,64%,17%,49%,28%,46%,Matemáticas
+OFICIALES URBANOS DE DUITAMA,58,Similar,10,Similar,2%,19%,69%,10%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE DUITAMA,57,Similar,10,Similar,1%,27%,63%,10%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE DUITAMA,64,Menor,12,Similar,1%,12%,56%,31%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE DUITAMA,55,Mayor,10,Similar,3%,30%,61%,6%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE DUITAMA,63,Similar,11,Similar,1%,9%,66%,24%,N.D.,N.D.,N.D.,Matemáticas
+ENVIGADO,58,,12,,4%,21%,61%,14%,52%,31%,47%,Matemáticas
+OFICIALES URBANOS DE ENVIGADO,55,Similar,11,Similar,5%,28%,61%,7%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE ENVIGADO,51,Mayor,14,Menor,14%,40%,39%,8%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE ENVIGADO,63,Menor,11,Similar,1%,11%,64%,24%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE ENVIGADO,57,Similar,12,Similar,4%,24%,61%,11%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE ENVIGADO,65,Menor,11,Similar,1%,7%,61%,30%,N.D.,N.D.,N.D.,Matemáticas
+FACATATIVA,58,,11,,2%,22%,64%,11%,54%,30%,48%,Matemáticas
+OFICIALES URBANOS DE FACATATIVA,57,Similar,10,Similar,2%,20%,69%,8%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE FACATATIVA,55,Similar,10,Similar,4%,30%,60%,6%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE FACATATIVA,60,Similar,12,Similar,2%,21%,58%,19%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE FACATATIVA,55,Similar,10,Similar,3%,29%,63%,5%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE FACATATIVA,60,Similar,11,Similar,1%,16%,66%,17%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE FACATATIVA,71,Menor,10,Similar,0%,0%,33%,67%,N.D.,N.D.,N.D.,Matemáticas
+FLORENCIA,54,,11,,5%,34%,54%,8%,57%,35%,55%,Matemáticas
+OFICIALES URBANOS DE FLORENCIA,54,Similar,10,Similar,4%,35%,56%,6%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE FLORENCIA,48,Mayor,10,Similar,12%,50%,36%,2%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE FLORENCIA,57,Similar,14,Menor,6%,24%,52%,18%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE FLORENCIA,46,Mayor,10,Similar,17%,47%,34%,1%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE FLORENCIA,53,Similar,11,Similar,5%,39%,50%,5%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE FLORENCIA,59,Menor,11,Similar,2%,19%,66%,14%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE FLORENCIA,71,Menor,4,Mayor,0%,0%,50%,50%,N.D.,N.D.,N.D.,Matemáticas
+FLORIDABLANCA,59,,11,,2%,20%,61%,16%,50%,28%,46%,Matemáticas
+OFICIALES URBANOS DE FLORIDABLANCA,57,Similar,11,Similar,2%,24%,63%,11%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE FLORIDABLANCA,56,Similar,10,Similar,2%,26%,62%,10%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE FLORIDABLANCA,64,Menor,12,Similar,1%,12%,58%,29%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE FLORIDABLANCA,56,Similar,11,Similar,3%,30%,58%,9%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE FLORIDABLANCA,60,Similar,11,Similar,2%,17%,64%,18%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE FLORIDABLANCA,69,Menor,9,Mayor,1%,1%,51%,46%,N.D.,N.D.,N.D.,Matemáticas
+FUNZA,56,,11,,3%,26%,62%,8%,58%,32%,51%,Matemáticas
+OFICIALES URBANOS DE FUNZA,54,Similar,10,Similar,5%,31%,59%,5%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE FUNZA,54,Similar,12,Similar,6%,33%,54%,7%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE FUNZA,58,Similar,11,Similar,2%,21%,66%,10%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE FUNZA,56,Similar,11,Similar,3%,26%,62%,8%,N.D.,N.D.,N.D.,Matemáticas
+FUSAGASUGA,55,,11,,5%,29%,57%,8%,58%,34%,54%,Matemáticas
+OFICIALES URBANOS DE FUSAGASUGA,53,Similar,11,Similar,6%,35%,55%,4%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE FUSAGASUGA,56,Similar,11,Similar,4%,27%,59%,10%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE FUSAGASUGA,58,Similar,12,Similar,5%,21%,60%,14%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE FUSAGASUGA,52,Similar,11,Similar,6%,36%,53%,5%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE FUSAGASUGA,58,Similar,11,Similar,4%,21%,62%,13%,N.D.,N.D.,N.D.,Matemáticas
+GIRARDOT,52,,11,,7%,38%,51%,5%,61%,39%,58%,Matemáticas
+OFICIALES URBANOS DE GIRARDOT,49,Similar,10,Similar,9%,45%,44%,2%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE GIRARDOT,45,Mayor,11,Similar,18%,50%,32%,0%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE GIRARDOT,56,Menor,11,Similar,3%,29%,60%,9%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE GIRARDOT,48,Mayor,11,Similar,12%,44%,42%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE GIRARDOT,54,Similar,11,Similar,4%,34%,56%,7%,N.D.,N.D.,N.D.,Matemáticas
+GIRON,56,,11,,4%,27%,60%,9%,55%,32%,51%,Matemáticas
+OFICIALES URBANOS DE GIRON,55,Similar,11,Similar,5%,28%,60%,7%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE GIRON,55,Similar,11,Similar,2%,36%,55%,7%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE GIRON,61,Menor,11,Similar,1%,15%,65%,19%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE GIRON,54,Similar,11,Similar,6%,29%,59%,6%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE GIRON,59,Similar,11,Similar,1%,23%,64%,12%,N.D.,N.D.,N.D.,Matemáticas
+GUAINIA,42,,11,,32%,44%,23%,1%,73%,50%,67%,Matemáticas
+OFICIALES URBANOS DE GUAINIA,45,Similar,12,Similar,27%,40%,31%,1%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE GUAINIA,39,Similar,9,Mayor,40%,50%,11%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE GUAINIA,38,Mayor,10,Similar,46%,42%,12%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE GUAINIA,49,Menor,11,Similar,12%,47%,40%,1%,N.D.,N.D.,N.D.,Matemáticas
+GUAVIARE,50,,11,,10%,40%,47%,3%,65%,40%,62%,Matemáticas
+OFICIALES URBANOS DE GUAVIARE,52,Similar,11,Similar,6%,36%,54%,3%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE GUAVIARE,46,Mayor,10,Similar,15%,49%,36%,0%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE GUAVIARE,49,Similar,12,Similar,15%,37%,43%,4%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE GUAVIARE,46,Mayor,10,Similar,16%,49%,34%,1%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE GUAVIARE,50,Similar,11,Similar,10%,41%,48%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE GUAVIARE,55,Menor,11,Similar,4%,28%,60%,8%,N.D.,N.D.,N.D.,Matemáticas
+HUILA,52,,11,,5%,38%,52%,5%,60%,37%,58%,Matemáticas
+OFICIALES URBANOS DE HUILA,53,Similar,11,Similar,5%,37%,53%,5%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE HUILA,51,Similar,10,Similar,6%,43%,48%,3%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE HUILA,61,Menor,11,Similar,2%,16%,61%,20%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE HUILA,49,Similar,10,Similar,8%,48%,42%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE HUILA,52,Similar,11,Similar,6%,40%,51%,4%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE HUILA,56,Menor,11,Similar,3%,26%,62%,9%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE HUILA,68,Menor,9,Mayor,0%,3%,56%,42%,N.D.,N.D.,N.D.,Matemáticas
+IBAGUE,54,,11,,5%,31%,56%,8%,58%,35%,54%,Matemáticas
+OFICIALES URBANOS DE IBAGUE,53,Similar,11,Similar,5%,34%,55%,5%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE IBAGUE,50,Mayor,10,Similar,7%,47%,43%,2%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE IBAGUE,61,Menor,11,Similar,1%,18%,62%,20%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE IBAGUE,50,Mayor,11,Similar,10%,60%,20%,10%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE IBAGUE,51,Similar,10,Similar,6%,39%,52%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE IBAGUE,56,Similar,11,Similar,3%,26%,60%,10%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE IBAGUE,65,Menor,11,Similar,0%,9%,58%,32%,N.D.,N.D.,N.D.,Matemáticas
+IPIALES,58,,11,,3%,19%,64%,13%,53%,31%,46%,Matemáticas
+OFICIALES URBANOS DE IPIALES,61,Similar,10,Similar,1%,14%,68%,16%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE IPIALES,53,Mayor,10,Similar,6%,29%,59%,5%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE IPIALES,55,Similar,13,Menor,7%,25%,55%,12%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE IPIALES,50,Mayor,12,Similar,13%,36%,47%,4%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE IPIALES,57,Similar,11,Similar,3%,22%,65%,10%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE IPIALES,62,Menor,11,Similar,2%,10%,63%,25%,N.D.,N.D.,N.D.,Matemáticas
+ITAGUI,54,,11,,6%,30%,57%,7%,59%,35%,54%,Matemáticas
+OFICIALES URBANOS DE ITAGUI,54,Similar,11,Similar,5%,32%,57%,6%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE ITAGUI,49,Mayor,12,Similar,12%,42%,43%,3%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE ITAGUI,58,Menor,12,Similar,6%,19%,62%,14%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE ITAGUI,51,Similar,11,Similar,10%,38%,51%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE ITAGUI,55,Similar,11,Similar,5%,28%,60%,8%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE ITAGUI,69,Menor,7,Mayor,0%,0%,59%,41%,N.D.,N.D.,N.D.,Matemáticas
+JAMUNDI,52,,11,,9%,36%,50%,5%,61%,39%,57%,Matemáticas
+OFICIALES URBANOS DE JAMUNDI,53,Similar,11,Similar,6%,31%,56%,6%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE JAMUNDI,48,Mayor,11,Similar,13%,44%,42%,1%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE JAMUNDI,57,Menor,12,Similar,3%,26%,59%,12%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE JAMUNDI,46,Mayor,6,Mayor,17%,67%,17%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE JAMUNDI,50,Similar,11,Similar,11%,40%,47%,3%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE JAMUNDI,56,Menor,11,Similar,4%,27%,59%,10%,N.D.,N.D.,N.D.,Matemáticas
+LA ESTRELLA,55,,12,,6%,28%,56%,10%,58%,36%,53%,Matemáticas
+OFICIALES URBANOS DE LA ESTRELLA,49,Mayor,10,Mayor,10%,42%,47%,1%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE LA ESTRELLA,60,Menor,11,Similar,2%,15%,65%,18%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE LA ESTRELLA,48,Mayor,10,Mayor,11%,47%,42%,1%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE LA ESTRELLA,56,Similar,11,Similar,5%,25%,60%,9%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE LA ESTRELLA,65,Menor,11,Similar,1%,6%,58%,34%,N.D.,N.D.,N.D.,Matemáticas
+LA GUAJIRA,46,,12,,21%,44%,33%,2%,68%,47%,64%,Matemáticas
+OFICIALES URBANOS DE LA GUAJIRA,48,Similar,11,Similar,14%,46%,39%,2%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE LA GUAJIRA,40,Mayor,10,Mayor,38%,47%,15%,0%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE LA GUAJIRA,55,Menor,11,Similar,5%,23%,64%,7%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE LA GUAJIRA,37,Mayor,10,Mayor,49%,41%,11%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE LA GUAJIRA,46,Similar,11,Similar,16%,48%,34%,1%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE LA GUAJIRA,56,Menor,10,Mayor,3%,23%,67%,7%,N.D.,N.D.,N.D.,Matemáticas
+LORICA,49,,11,,13%,45%,39%,3%,63%,44%,62%,Matemáticas
+OFICIALES URBANOS DE LORICA,49,Similar,10,Similar,11%,47%,40%,1%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE LORICA,46,Similar,11,Similar,17%,48%,34%,1%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE LORICA,60,Menor,12,Similar,4%,16%,66%,14%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE LORICA,46,Similar,10,Similar,18%,50%,32%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE LORICA,48,Similar,11,Similar,13%,47%,39%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE LORICA,60,Menor,12,Similar,4%,16%,66%,14%,N.D.,N.D.,N.D.,Matemáticas
+MAGANGUE,49,,12,,13%,43%,41%,3%,64%,42%,62%,Matemáticas
+OFICIALES URBANOS DE MAGANGUE,49,Similar,11,Similar,11%,43%,43%,2%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE MAGANGUE,45,Mayor,10,Mayor,18%,51%,29%,1%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE MAGANGUE,56,Menor,13,Similar,6%,26%,55%,13%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE MAGANGUE,48,Similar,11,Similar,14%,46%,39%,1%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE MAGANGUE,59,Menor,13,Similar,3%,24%,56%,16%,N.D.,N.D.,N.D.,Matemáticas
+MAGDALENA,45,,11,,21%,48%,30%,2%,68%,50%,67%,Matemáticas
+OFICIALES URBANOS DE MAGDALENA,47,Similar,11,Similar,17%,48%,33%,2%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE MAGDALENA,43,Similar,10,Similar,26%,50%,23%,1%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE MAGDALENA,51,Menor,13,Menor,12%,31%,51%,5%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE MAGDALENA,43,Similar,10,Similar,26%,51%,23%,1%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE MAGDALENA,45,Similar,11,Similar,21%,48%,29%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE MAGDALENA,55,Menor,11,Similar,4%,27%,63%,6%,N.D.,N.D.,N.D.,Matemáticas
+MAICAO,48,,13,,19%,39%,38%,4%,66%,43%,60%,Matemáticas
+OFICIALES URBANOS DE MAICAO,50,Similar,12,Similar,12%,40%,44%,3%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE MAICAO,38,Mayor,9,Mayor,47%,42%,11%,0%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE MAICAO,61,Menor,12,Similar,3%,17%,54%,26%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE MAICAO,41,Mayor,12,Similar,39%,38%,22%,1%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE MAICAO,49,Similar,11,Mayor,12%,42%,43%,3%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE MAICAO,61,Menor,12,Similar,3%,17%,54%,26%,N.D.,N.D.,N.D.,Matemáticas
+MALAMBO,49,,12,,13%,42%,40%,4%,63%,44%,62%,Matemáticas
+OFICIALES URBANOS DE MALAMBO,47,Similar,11,Similar,15%,47%,37%,2%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE MALAMBO,45,Mayor,9,Mayor,12%,61%,26%,1%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE MALAMBO,51,Similar,13,Similar,12%,36%,45%,6%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE MALAMBO,48,Similar,12,Similar,14%,44%,39%,3%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE MALAMBO,59,Menor,11,Similar,4%,21%,63%,13%,N.D.,N.D.,N.D.,Matemáticas
+MANIZALES,57,,12,,5%,26%,56%,13%,54%,34%,48%,Matemáticas
+OFICIALES URBANOS DE MANIZALES,55,Similar,12,Similar,5%,28%,57%,9%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE MANIZALES,49,Mayor,11,Similar,12%,42%,44%,2%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE MANIZALES,64,Menor,11,Similar,1%,11%,58%,31%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE MANIZALES,46,Mayor,11,Similar,17%,33%,50%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE MANIZALES,50,Mayor,11,Similar,10%,41%,47%,3%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE MANIZALES,59,Similar,12,Similar,3%,19%,60%,18%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE MANIZALES,64,Menor,10,Mayor,0%,7%,64%,29%,N.D.,N.D.,N.D.,Matemáticas
+MEDELLIN,52,,12,,9%,35%,50%,6%,61%,39%,57%,Matemáticas
+OFICIALES URBANOS DE MEDELLIN,51,Similar,11,Similar,10%,39%,48%,4%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE MEDELLIN,49,Similar,11,Similar,11%,43%,43%,3%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE MEDELLIN,58,Menor,12,Similar,5%,20%,59%,16%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE MEDELLIN,48,Mayor,11,Similar,13%,45%,40%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE MEDELLIN,54,Similar,12,Similar,6%,30%,56%,7%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE MEDELLIN,67,Menor,11,Similar,1%,7%,54%,38%,N.D.,N.D.,N.D.,Matemáticas
+META,52,,11,,8%,35%,53%,5%,61%,37%,58%,Matemáticas
+OFICIALES URBANOS DE META,52,Similar,11,Similar,7%,36%,53%,4%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE META,52,Similar,12,Similar,10%,36%,49%,6%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE META,55,Similar,12,Similar,7%,27%,57%,9%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE META,45,Mayor,12,Similar,21%,45%,32%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE META,52,Similar,11,Similar,8%,37%,52%,4%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE META,58,Menor,10,Similar,2%,20%,67%,11%,N.D.,N.D.,N.D.,Matemáticas
+MONTERIA,54,,12,,7%,31%,52%,10%,56%,35%,51%,Matemáticas
+OFICIALES URBANOS DE MONTERIA,54,Similar,12,Similar,6%,31%,53%,10%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE MONTERIA,49,Mayor,11,Similar,13%,44%,41%,2%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE MONTERIA,58,Menor,13,Similar,5%,20%,57%,18%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE MONTERIA,48,Mayor,11,Similar,15%,44%,39%,3%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE MONTERIA,53,Similar,12,Similar,8%,34%,51%,7%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE MONTERIA,61,Menor,12,Similar,3%,15%,59%,23%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE MONTERIA,62,Menor,10,Mayor,0%,10%,73%,16%,N.D.,N.D.,N.D.,Matemáticas
+MOSQUERA,57,,11,,3%,22%,64%,11%,54%,30%,48%,Matemáticas
+OFICIALES URBANOS DE MOSQUERA,55,Similar,10,Similar,3%,28%,64%,6%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE MOSQUERA,61,Menor,11,Similar,3%,13%,64%,20%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE MOSQUERA,50,Mayor,10,Similar,6%,47%,43%,3%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE MOSQUERA,57,Similar,10,Similar,3%,21%,66%,10%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE MOSQUERA,69,Menor,11,Similar,1%,4%,45%,50%,N.D.,N.D.,N.D.,Matemáticas
+NARIÑO,51,,12,,11%,37%,47%,5%,62%,41%,58%,Matemáticas
+OFICIALES URBANOS DE NARIÑO,52,Similar,12,Similar,9%,35%,50%,5%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE NARIÑO,49,Similar,12,Similar,14%,41%,42%,3%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE NARIÑO,47,Mayor,13,Similar,15%,50%,30%,5%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE NARIÑO,45,Mayor,12,Similar,23%,44%,31%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE NARIÑO,53,Similar,11,Similar,7%,36%,52%,5%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE NARIÑO,35,Mayor,0,Mayor,100%,0%,0%,0%,N.D.,N.D.,N.D.,Matemáticas
+NEIVA,56,,13,,5%,28%,54%,13%,54%,32%,51%,Matemáticas
+OFICIALES URBANOS DE NEIVA,55,Similar,12,Similar,5%,30%,56%,8%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE NEIVA,50,Mayor,11,Mayor,12%,41%,42%,4%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE NEIVA,62,Menor,14,Similar,3%,16%,52%,29%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE NEIVA,51,Mayor,12,Similar,8%,40%,47%,5%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE NEIVA,60,Menor,12,Similar,3%,19%,60%,18%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE NEIVA,69,Menor,11,Mayor,0%,0%,33%,67%,N.D.,N.D.,N.D.,Matemáticas
+NORTE DE SANTANDER,54,,12,,7%,33%,53%,8%,58%,35%,55%,Matemáticas
+OFICIALES URBANOS DE NORTE DE SANTANDER,55,Similar,11,Similar,5%,29%,57%,8%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE NORTE DE SANTANDER,48,Mayor,11,Similar,13%,47%,39%,2%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE NORTE DE SANTANDER,60,Menor,12,Similar,3%,19%,58%,19%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE NORTE DE SANTANDER,47,Mayor,10,Mayor,13%,49%,36%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE NORTE DE SANTANDER,53,Similar,11,Similar,7%,34%,53%,7%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE NORTE DE SANTANDER,61,Menor,12,Similar,2%,14%,63%,21%,N.D.,N.D.,N.D.,Matemáticas
+PALMIRA,56,,12,,5%,26%,60%,9%,54%,33%,50%,Matemáticas
+OFICIALES URBANOS DE PALMIRA,56,Similar,12,Similar,4%,25%,60%,10%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE PALMIRA,53,Similar,12,Similar,7%,29%,58%,5%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE PALMIRA,55,Similar,10,Mayor,1%,33%,61%,5%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE PALMIRA,55,Similar,12,Similar,6%,28%,58%,8%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE PALMIRA,59,Similar,10,Mayor,1%,20%,67%,12%,N.D.,N.D.,N.D.,Matemáticas
+PASTO,57,,11,,2%,24%,62%,12%,54%,31%,48%,Matemáticas
+OFICIALES URBANOS DE PASTO,58,Similar,11,Similar,2%,23%,62%,13%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE PASTO,53,Mayor,10,Similar,3%,40%,54%,3%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE PASTO,60,Similar,11,Similar,2%,15%,68%,16%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE PASTO,52,Mayor,9,Mayor,2%,48%,50%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE PASTO,55,Similar,11,Similar,3%,29%,61%,7%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE PASTO,62,Menor,11,Similar,1%,13%,65%,21%,N.D.,N.D.,N.D.,Matemáticas
+PEREIRA,54,,11,,5%,33%,55%,6%,60%,37%,55%,Matemáticas
+OFICIALES URBANOS DE PEREIRA,53,Similar,11,Similar,6%,35%,55%,4%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE PEREIRA,51,Similar,10,Similar,6%,43%,48%,4%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE PEREIRA,61,Menor,11,Similar,1%,16%,63%,19%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE PEREIRA,45,Mayor,10,Similar,17%,50%,33%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE PEREIRA,50,Mayor,10,Similar,8%,43%,46%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE PEREIRA,56,Similar,11,Similar,3%,27%,62%,8%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE PEREIRA,67,Menor,10,Similar,0%,6%,57%,37%,N.D.,N.D.,N.D.,Matemáticas
+PIEDECUESTA,57,,11,,4%,24%,63%,10%,55%,30%,50%,Matemáticas
+OFICIALES URBANOS DE PIEDECUESTA,57,Similar,11,Similar,3%,24%,63%,10%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE PIEDECUESTA,53,Mayor,10,Similar,6%,31%,59%,3%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE PIEDECUESTA,61,Menor,11,Similar,2%,15%,66%,17%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE PIEDECUESTA,54,Similar,11,Similar,6%,32%,57%,5%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE PIEDECUESTA,61,Menor,10,Similar,1%,13%,70%,16%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE PIEDECUESTA,75,Menor,10,Similar,0%,0%,33%,67%,N.D.,N.D.,N.D.,Matemáticas
+PITALITO,59,,12,,2%,21%,62%,15%,51%,29%,45%,Matemáticas
+OFICIALES URBANOS DE PITALITO,61,Similar,11,Similar,1%,15%,65%,19%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE PITALITO,55,Mayor,11,Similar,4%,30%,57%,9%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE PITALITO,55,Mayor,11,Similar,3%,32%,55%,9%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE PITALITO,59,Similar,12,Similar,2%,21%,62%,15%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE PITALITO,55,Mayor,12,Similar,3%,29%,58%,10%,N.D.,N.D.,N.D.,Matemáticas
+POPAYAN,55,,12,,6%,31%,55%,9%,57%,35%,53%,Matemáticas
+OFICIALES URBANOS DE POPAYAN,56,Similar,11,Similar,4%,27%,59%,10%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE POPAYAN,50,Mayor,10,Mayor,7%,45%,45%,3%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE POPAYAN,51,Mayor,13,Similar,12%,36%,45%,7%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE POPAYAN,46,Mayor,10,Mayor,16%,58%,26%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE POPAYAN,52,Similar,11,Similar,7%,36%,53%,5%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE POPAYAN,61,Menor,12,Similar,3%,16%,62%,20%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE POPAYAN,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Matemáticas
+PUTUMAYO,51,,11,,9%,39%,48%,4%,63%,39%,60%,Matemáticas
+OFICIALES URBANOS DE PUTUMAYO,54,Similar,11,Similar,6%,33%,55%,6%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE PUTUMAYO,46,Mayor,10,Similar,14%,52%,33%,1%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE PUTUMAYO,56,Menor,10,Similar,3%,24%,71%,3%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE PUTUMAYO,47,Mayor,11,Similar,13%,55%,31%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE PUTUMAYO,52,Similar,11,Similar,8%,36%,52%,4%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE PUTUMAYO,63,Menor,10,Similar,0%,10%,69%,21%,N.D.,N.D.,N.D.,Matemáticas
+QUIBDO,46,,11,,19%,49%,30%,2%,69%,48%,66%,Matemáticas
+OFICIALES URBANOS DE QUIBDO,46,Similar,11,Similar,18%,50%,30%,2%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE QUIBDO,45,Similar,10,Similar,18%,58%,24%,0%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE QUIBDO,44,Similar,13,Menor,32%,39%,27%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE QUIBDO,41,Mayor,11,Similar,29%,59%,12%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE QUIBDO,43,Similar,10,Similar,23%,53%,23%,1%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE QUIBDO,51,Menor,11,Similar,10%,39%,46%,4%,N.D.,N.D.,N.D.,Matemáticas
+QUINDIO,53,,12,,7%,34%,52%,7%,60%,37%,55%,Matemáticas
+OFICIALES URBANOS DE QUINDIO,53,Similar,11,Similar,7%,34%,52%,6%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE QUINDIO,51,Similar,11,Similar,9%,38%,49%,4%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE QUINDIO,66,Menor,12,Similar,3%,5%,53%,39%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE QUINDIO,51,Similar,11,Similar,8%,38%,50%,4%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE QUINDIO,59,Menor,12,Similar,4%,20%,59%,18%,N.D.,N.D.,N.D.,Matemáticas
+RIOHACHA,49,,12,,15%,41%,39%,5%,65%,43%,60%,Matemáticas
+OFICIALES URBANOS DE RIOHACHA,49,Similar,11,Similar,11%,43%,43%,2%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE RIOHACHA,40,Mayor,10,Mayor,36%,50%,14%,0%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE RIOHACHA,59,Menor,13,Similar,3%,23%,53%,20%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE RIOHACHA,38,Mayor,9,Mayor,44%,50%,7%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE RIOHACHA,47,Similar,11,Similar,16%,47%,36%,1%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE RIOHACHA,57,Menor,13,Similar,5%,26%,54%,15%,N.D.,N.D.,N.D.,Matemáticas
+RIONEGRO,57,,13,,5%,25%,56%,15%,54%,31%,47%,Matemáticas
+OFICIALES URBANOS DE RIONEGRO,57,Similar,12,Similar,4%,24%,57%,15%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE RIONEGRO,53,Mayor,11,Mayor,6%,34%,57%,3%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE RIONEGRO,63,Menor,14,Similar,3%,15%,52%,30%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE RIONEGRO,53,Mayor,11,Mayor,5%,32%,60%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE RIONEGRO,58,Similar,13,Similar,5%,24%,55%,17%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE RIONEGRO,71,Menor,8,Mayor,0%,2%,47%,51%,N.D.,N.D.,N.D.,Matemáticas
+RISARALDA,49,,12,,15%,40%,42%,3%,65%,45%,62%,Matemáticas
+OFICIALES URBANOS DE RISARALDA,51,Similar,11,Similar,9%,39%,49%,3%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE RISARALDA,43,Mayor,12,Similar,31%,42%,25%,2%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE RISARALDA,61,Menor,9,Mayor,0%,11%,71%,18%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE RISARALDA,40,Mayor,9,Mayor,34%,52%,14%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE RISARALDA,47,Similar,12,Similar,17%,43%,38%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE RISARALDA,55,Menor,10,Mayor,4%,26%,64%,6%,N.D.,N.D.,N.D.,Matemáticas
+SABANETA,57,,11,,4%,24%,63%,10%,53%,33%,51%,Matemáticas
+OFICIALES URBANOS DE SABANETA,55,Similar,11,Similar,4%,27%,62%,7%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE SABANETA,53,Mayor,11,Similar,5%,37%,55%,4%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE SABANETA,62,Menor,10,Similar,2%,8%,71%,20%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE SABANETA,57,Similar,11,Similar,4%,24%,63%,9%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE SABANETA,71,Menor,7,Mayor,0%,0%,45%,55%,N.D.,N.D.,N.D.,Matemáticas
+SAHAGUN,55,,12,,5%,33%,53%,9%,54%,34%,50%,Matemáticas
+OFICIALES URBANOS DE SAHAGUN,55,Similar,12,Similar,3%,33%,55%,8%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE SAHAGUN,51,Mayor,11,Similar,10%,39%,48%,3%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE SAHAGUN,65,Menor,12,Similar,2%,12%,54%,33%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE SAHAGUN,52,Similar,11,Similar,7%,39%,50%,4%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE SAHAGUN,55,Similar,12,Similar,5%,33%,55%,8%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE SAHAGUN,65,Menor,12,Similar,2%,12%,54%,33%,N.D.,N.D.,N.D.,Matemáticas
+SAN ANDRES,46,,13,,22%,40%,33%,4%,66%,47%,61%,Matemáticas
+OFICIALES URBANOS DE SAN ANDRES,50,Menor,12,Similar,13%,37%,45%,5%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE SAN ANDRES,40,Mayor,11,Mayor,36%,48%,15%,1%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE SAN ANDRES,55,Menor,12,Similar,7%,29%,54%,11%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE SAN ANDRES,42,Mayor,11,Mayor,29%,49%,21%,1%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE SAN ANDRES,50,Menor,14,Similar,18%,34%,41%,7%,N.D.,N.D.,N.D.,Matemáticas
+SANTA MARTA,50,,12,,12%,39%,44%,4%,64%,43%,60%,Matemáticas
+OFICIALES URBANOS DE SANTA MARTA,49,Similar,11,Similar,13%,42%,42%,2%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE SANTA MARTA,45,Mayor,10,Mayor,19%,48%,32%,0%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE SANTA MARTA,56,Menor,12,Similar,7%,25%,58%,10%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE SANTA MARTA,42,Mayor,10,Mayor,23%,61%,14%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE SANTA MARTA,47,Similar,11,Similar,16%,46%,37%,1%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE SANTA MARTA,56,Menor,11,Similar,5%,24%,62%,10%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE SANTA MARTA,48,Similar,18,Menor,25%,25%,50%,0%,N.D.,N.D.,N.D.,Matemáticas
+SANTANDER,55,,12,,5%,31%,55%,9%,57%,34%,54%,Matemáticas
+OFICIALES URBANOS DE SANTANDER,56,Similar,12,Similar,4%,29%,57%,10%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE SANTANDER,52,Similar,11,Similar,7%,36%,52%,5%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE SANTANDER,58,Similar,14,Menor,7%,22%,52%,19%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE SANTANDER,50,Mayor,11,Similar,10%,43%,44%,3%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE SANTANDER,54,Similar,11,Similar,6%,32%,55%,7%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE SANTANDER,62,Menor,11,Similar,1%,15%,64%,21%,N.D.,N.D.,N.D.,Matemáticas
+SINCELEJO,52,,13,,9%,37%,44%,9%,58%,38%,56%,Matemáticas
+OFICIALES URBANOS DE SINCELEJO,51,Similar,12,Similar,9%,40%,45%,6%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE SINCELEJO,46,Mayor,11,Mayor,17%,51%,29%,2%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE SINCELEJO,60,Menor,14,Similar,5%,20%,48%,26%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE SINCELEJO,44,Mayor,10,Mayor,22%,54%,23%,1%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE SINCELEJO,51,Similar,12,Similar,9%,41%,45%,6%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE SINCELEJO,62,Menor,13,Similar,4%,16%,52%,29%,N.D.,N.D.,N.D.,Matemáticas
+SOACHA,53,,10,,5%,34%,56%,4%,61%,37%,57%,Matemáticas
+OFICIALES URBANOS DE SOACHA,51,Similar,10,Similar,7%,40%,51%,3%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE SOACHA,50,Similar,11,Similar,8%,40%,52%,0%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE SOACHA,55,Similar,10,Similar,4%,27%,63%,6%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE SOACHA,51,Similar,10,Similar,7%,41%,50%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE SOACHA,54,Similar,10,Similar,4%,30%,60%,5%,N.D.,N.D.,N.D.,Matemáticas
+SOGAMOSO,58,,11,,2%,21%,64%,13%,52%,29%,47%,Matemáticas
+OFICIALES URBANOS DE SOGAMOSO,57,Similar,10,Similar,2%,23%,67%,8%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE SOGAMOSO,54,Mayor,10,Similar,5%,33%,60%,2%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE SOGAMOSO,62,Menor,12,Similar,2%,16%,58%,24%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE SOGAMOSO,53,Mayor,10,Similar,5%,33%,58%,4%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE SOGAMOSO,60,Similar,11,Similar,1%,18%,65%,16%,N.D.,N.D.,N.D.,Matemáticas
+SOLEDAD,51,,12,,11%,38%,46%,6%,60%,41%,58%,Matemáticas
+OFICIALES URBANOS DE SOLEDAD,51,Similar,11,Similar,8%,39%,50%,4%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE SOLEDAD,51,Similar,13,Similar,14%,36%,42%,7%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE SOLEDAD,48,Similar,12,Similar,14%,43%,39%,3%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE SOLEDAD,57,Menor,12,Similar,3%,24%,62%,11%,N.D.,N.D.,N.D.,Matemáticas
+SUCRE,47,,12,,17%,45%,36%,3%,65%,46%,63%,Matemáticas
+OFICIALES URBANOS DE SUCRE,49,Similar,11,Similar,12%,42%,42%,3%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE SUCRE,43,Mayor,10,Mayor,25%,51%,23%,1%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE SUCRE,57,Menor,13,Similar,4%,25%,58%,13%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE SUCRE,42,Mayor,10,Mayor,28%,52%,19%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE SUCRE,48,Similar,12,Similar,14%,44%,39%,3%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE SUCRE,61,Menor,10,Mayor,1%,16%,68%,16%,N.D.,N.D.,N.D.,Matemáticas
+TOLIMA,49,,11,,12%,44%,41%,3%,65%,43%,63%,Matemáticas
+OFICIALES URBANOS DE TOLIMA,50,Similar,11,Similar,10%,43%,44%,3%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE TOLIMA,47,Similar,11,Similar,15%,49%,34%,2%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE TOLIMA,52,Similar,13,Menor,10%,33%,50%,7%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE TOLIMA,45,Mayor,10,Similar,19%,53%,27%,1%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE TOLIMA,49,Similar,11,Similar,12%,45%,41%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE TOLIMA,57,Menor,11,Similar,3%,24%,62%,11%,N.D.,N.D.,N.D.,Matemáticas
+TULUA,53,,12,,7%,32%,55%,6%,60%,36%,56%,Matemáticas
+OFICIALES URBANOS DE TULUA,52,Similar,11,Similar,8%,35%,53%,4%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE TULUA,48,Mayor,11,Similar,15%,42%,41%,2%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE TULUA,59,Menor,11,Similar,3%,16%,68%,12%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE TULUA,48,Mayor,10,Mayor,5%,58%,35%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE TULUA,51,Similar,11,Similar,9%,36%,51%,3%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE TULUA,58,Menor,11,Similar,4%,20%,66%,11%,N.D.,N.D.,N.D.,Matemáticas
+TUMACO,43,,11,,27%,49%,23%,2%,71%,53%,68%,Matemáticas
+OFICIALES URBANOS DE TUMACO,44,Similar,11,Similar,22%,51%,26%,1%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE TUMACO,39,Mayor,10,Similar,38%,49%,13%,1%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE TUMACO,53,Menor,14,Menor,12%,32%,43%,14%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE TUMACO,40,Similar,10,Similar,37%,49%,14%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE TUMACO,43,Similar,11,Similar,26%,50%,23%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE TUMACO,58,Menor,12,Similar,6%,21%,58%,15%,N.D.,N.D.,N.D.,Matemáticas
+TUNJA,60,,12,,2%,17%,61%,20%,49%,27%,43%,Matemáticas
+OFICIALES URBANOS DE TUNJA,59,Similar,11,Similar,2%,20%,63%,15%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE TUNJA,54,Mayor,11,Similar,6%,30%,61%,3%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE TUNJA,64,Menor,12,Similar,1%,11%,56%,31%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE TUNJA,54,Mayor,11,Similar,6%,31%,58%,5%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE TUNJA,63,Similar,11,Similar,1%,12%,65%,23%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE TUNJA,72,Menor,11,Similar,0%,2%,37%,61%,N.D.,N.D.,N.D.,Matemáticas
+TURBO,43,,10,,25%,50%,24%,1%,70%,52%,69%,Matemáticas
+OFICIALES URBANOS DE TURBO,43,Similar,10,Similar,25%,51%,23%,1%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE TURBO,43,Similar,10,Similar,27%,52%,20%,1%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE TURBO,50,Menor,11,Similar,13%,38%,47%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE TURBO,40,Similar,9,Similar,31%,56%,13%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE TURBO,43,Similar,10,Similar,25%,52%,22%,1%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE TURBO,49,Menor,11,Similar,16%,35%,47%,3%,N.D.,N.D.,N.D.,Matemáticas
+URIBIA,38,,10,,48%,40%,12%,0%,79%,57%,72%,Matemáticas
+OFICIALES URBANOS DE URIBIA,43,Menor,11,Similar,29%,46%,25%,0%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE URIBIA,36,Similar,8,Mayor,57%,38%,6%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE URIBIA,37,Similar,9,Similar,50%,42%,8%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE URIBIA,43,Menor,13,Menor,35%,34%,30%,1%,N.D.,N.D.,N.D.,Matemáticas
+VALLE DEL CAUCA,50,,11,,10%,40%,46%,4%,62%,41%,60%,Matemáticas
+OFICIALES URBANOS DE VALLE DEL CAUCA,51,Similar,12,Similar,10%,39%,47%,5%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE VALLE DEL CAUCA,48,Similar,11,Similar,13%,45%,40%,2%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE VALLE DEL CAUCA,56,Menor,11,Similar,4%,27%,61%,9%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE VALLE DEL CAUCA,46,Mayor,10,Similar,12%,52%,35%,1%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE VALLE DEL CAUCA,50,Similar,11,Similar,11%,41%,45%,4%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE VALLE DEL CAUCA,55,Menor,11,Similar,4%,28%,59%,8%,N.D.,N.D.,N.D.,Matemáticas
+VALLEDUPAR,54,,13,,9%,32%,50%,9%,57%,36%,54%,Matemáticas
+OFICIALES URBANOS DE VALLEDUPAR,53,Similar,12,Similar,6%,34%,52%,8%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE VALLEDUPAR,47,Mayor,11,Mayor,18%,46%,34%,2%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE VALLEDUPAR,56,Similar,15,Menor,10%,23%,50%,16%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE VALLEDUPAR,45,Mayor,9,Mayor,13%,57%,30%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE VALLEDUPAR,50,Mayor,12,Similar,11%,39%,46%,4%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE VALLEDUPAR,62,Menor,13,Similar,3%,15%,59%,23%,N.D.,N.D.,N.D.,Matemáticas
+VAUPES,42,,11,,31%,50%,19%,1%,75%,52%,68%,Matemáticas
+OFICIALES URBANOS DE VAUPES,45,Similar,10,Similar,18%,54%,27%,1%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE VAUPES,35,Mayor,8,Mayor,55%,41%,4%,0%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE VAUPES,30,Mayor,0,Mayor,100%,0%,0%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE VAUPES,40,Similar,10,Similar,35%,49%,15%,1%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE VAUPES,46,Menor,10,Similar,14%,53%,32%,1%,N.D.,N.D.,N.D.,Matemáticas
+VICHADA,45,,12,,25%,39%,35%,1%,70%,46%,67%,Matemáticas
+OFICIALES URBANOS DE VICHADA,49,Menor,11,Similar,12%,39%,49%,1%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE VICHADA,39,Mayor,11,Similar,45%,39%,15%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE VICHADA,36,Mayor,8,Mayor,53%,43%,5%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE VICHADA,48,Similar,11,Similar,16%,38%,45%,1%,N.D.,N.D.,N.D.,Matemáticas
+VILLAVICENCIO,55,,12,,5%,30%,56%,9%,58%,34%,54%,Matemáticas
+OFICIALES URBANOS DE VILLAVICENCIO,55,Similar,11,Similar,4%,30%,60%,6%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE VILLAVICENCIO,56,Similar,11,Similar,1%,30%,59%,9%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE VILLAVICENCIO,56,Similar,14,Menor,8%,28%,46%,18%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE VILLAVICENCIO,47,Mayor,4,Mayor,0%,67%,33%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE VILLAVICENCIO,51,Mayor,11,Similar,8%,39%,50%,3%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE VILLAVICENCIO,58,Similar,11,Similar,3%,22%,62%,13%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE VILLAVICENCIO,71,Menor,10,Mayor,1%,2%,44%,53%,N.D.,N.D.,N.D.,Matemáticas
+YOPAL,56,,11,,3%,31%,55%,11%,57%,33%,53%,Matemáticas
+OFICIALES URBANOS DE YOPAL,55,Similar,11,Similar,3%,32%,57%,8%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE YOPAL,51,Mayor,10,Similar,8%,43%,45%,4%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE YOPAL,64,Menor,12,Similar,2%,14%,52%,33%,N.D.,N.D.,N.D.,Matemáticas
+GC 1 DE YOPAL,49,Mayor,5,Mayor,0%,67%,33%,0%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE YOPAL,53,Similar,10,Similar,4%,36%,54%,5%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE YOPAL,63,Menor,11,Similar,1%,13%,59%,27%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE YOPAL,71,Menor,16,Menor,7%,0%,20%,73%,N.D.,N.D.,N.D.,Matemáticas
+YUMBO,50,,12,,11%,42%,44%,3%,64%,43%,59%,Matemáticas
+OFICIALES URBANOS DE YUMBO,50,Similar,12,Similar,11%,41%,45%,3%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE YUMBO,49,Similar,11,Similar,11%,41%,45%,2%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE YUMBO,48,Similar,11,Similar,13%,50%,37%,1%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE YUMBO,48,Similar,11,Similar,13%,46%,39%,2%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE YUMBO,52,Similar,12,Similar,8%,36%,52%,5%,N.D.,N.D.,N.D.,Matemáticas
+ZIPAQUIRA,58,,11,,3%,21%,63%,12%,53%,29%,48%,Matemáticas
+OFICIALES URBANOS DE ZIPAQUIRA,56,Similar,11,Similar,4%,26%,63%,8%,N.D.,N.D.,N.D.,Matemáticas
+OFICIALES RURALES DE ZIPAQUIRA,54,Mayor,10,Similar,3%,31%,61%,5%,N.D.,N.D.,N.D.,Matemáticas
+PRIVADOS DE ZIPAQUIRA,62,Menor,11,Similar,2%,13%,65%,21%,N.D.,N.D.,N.D.,Matemáticas
+GC 2 DE ZIPAQUIRA,50,Mayor,9,Mayor,8%,44%,47%,1%,N.D.,N.D.,N.D.,Matemáticas
+GC 3 DE ZIPAQUIRA,59,Similar,11,Similar,2%,18%,66%,14%,N.D.,N.D.,N.D.,Matemáticas
+GC 4 DE ZIPAQUIRA,68,Menor,8,Mayor,0%,0%,68%,32%,N.D.,N.D.,N.D.,Matemáticas

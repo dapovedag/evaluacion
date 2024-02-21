@@ -1,0 +1,663 @@
+pai_et_municipios,promedio,comparacion_pcn,desviacion,comparacion_dcn,desempeno_1,desempeno_2,desempeno_3,desempeno_4,aprendizaje_1,aprendizaje_2,aprendizaje_3,aprendizaje_4,aprendizaje_5,aprendizaje_6,aprendizaje_7,aprendizaje_8,aprendizaje_9,aprendizaje_10,aprendizaje_11,aprendizaje_12,aprendizaje_13,aprendizaje_14,aprendizaje_15,aprendizaje_16,aprendizaje_17,aprendizaje_18,aprendizaje_19,aprendizaje_20,aprendizaje_21,aprendizaje_22,aprendizaje_23,aprendizaje_24,aprendizaje_25,aprendizaje_26,Competencia
+AMAZONAS,45,,9,,39%,48%,13%,1%,49%,59%,46%,62%,71%,51%,54%,67%,66%,43%,46%,72%,48%,64%,58%,62%,57%,70%,66%,59%,57%,N.D.,71%,59%,56%,67%,Ciencias Naturales
+OFICIALES URBANOS DE AMAZONAS,46,Similar,9,Similar,33%,51%,16%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE AMAZONAS,40,Mayor,7,Mayor,61%,37%,1%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE AMAZONAS,56,Menor,8,Similar,0%,55%,38%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE AMAZONAS,41,Mayor,7,Mayor,54%,44%,2%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE AMAZONAS,44,Similar,9,Similar,39%,48%,12%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE AMAZONAS,56,Menor,9,Similar,0%,50%,44%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+ANTIOQUIA,47,,10,,28%,50%,21%,1%,46%,56%,40%,56%,66%,44%,47%,60%,58%,44%,38%,64%,43%,62%,51%,57%,50%,67%,63%,58%,52%,N.D.,66%,50%,53%,57%,Ciencias Naturales
+OFICIALES URBANOS DE ANTIOQUIA,49,Similar,10,Similar,23%,52%,24%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE ANTIOQUIA,44,Similar,9,Similar,39%,49%,11%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE ANTIOQUIA,55,Menor,10,Similar,10%,38%,45%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE ANTIOQUIA,42,Mayor,8,Mayor,50%,44%,6%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE ANTIOQUIA,46,Similar,9,Similar,30%,52%,17%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE ANTIOQUIA,54,Menor,10,Similar,10%,46%,41%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE ANTIOQUIA,60,Menor,10,Similar,0%,37%,43%,20%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+APARTADO,47,,9,,28%,52%,19%,1%,48%,57%,39%,56%,67%,45%,47%,60%,58%,46%,40%,65%,42%,63%,52%,57%,52%,68%,66%,59%,52%,N.D.,68%,50%,56%,58%,Ciencias Naturales
+OFICIALES URBANOS DE APARTADO,47,Similar,9,Similar,26%,56%,17%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE APARTADO,44,Similar,8,Similar,40%,51%,9%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE APARTADO,52,Menor,12,Menor,22%,34%,40%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE APARTADO,41,Mayor,6,Mayor,58%,40%,2%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE APARTADO,46,Similar,9,Similar,30%,56%,14%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE APARTADO,55,Menor,10,Similar,9%,40%,48%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+ARAUCA,50,,10,,19%,52%,26%,2%,43%,54%,37%,53%,65%,40%,43%,57%,54%,39%,33%,62%,37%,59%,49%,53%,44%,66%,58%,55%,48%,N.D.,64%,43%,50%,52%,Ciencias Naturales
+OFICIALES URBANOS DE ARAUCA,50,Similar,10,Similar,17%,53%,28%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE ARAUCA,47,Similar,9,Similar,25%,55%,19%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE ARAUCA,50,Similar,11,Similar,23%,44%,30%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE ARAUCA,45,Mayor,8,Mayor,31%,54%,15%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE ARAUCA,49,Similar,10,Similar,20%,53%,26%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE ARAUCA,54,Menor,10,Similar,10%,45%,39%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+ARMENIA,55,,11,,10%,41%,42%,7%,32%,45%,28%,44%,57%,29%,36%,46%,45%,27%,23%,51%,27%,51%,40%,45%,34%,57%,52%,45%,37%,N.D.,56%,34%,44%,43%,Ciencias Naturales
+OFICIALES URBANOS DE ARMENIA,54,Similar,10,Similar,12%,43%,40%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE ARMENIA,56,Similar,9,Mayor,2%,47%,45%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE ARMENIA,62,Menor,10,Similar,3%,22%,54%,21%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE ARMENIA,51,Mayor,10,Similar,17%,51%,29%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE ARMENIA,57,Similar,10,Similar,6%,34%,49%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE ARMENIA,61,Menor,8,Mayor,0%,24%,63%,13%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+ATLANTICO,46,,10,,32%,50%,17%,1%,50%,59%,44%,57%,68%,47%,48%,61%,59%,47%,42%,66%,44%,64%,54%,59%,53%,68%,63%,60%,53%,N.D.,67%,50%,56%,58%,Ciencias Naturales
+OFICIALES URBANOS DE ATLANTICO,46,Similar,9,Similar,32%,51%,17%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE ATLANTICO,43,Similar,8,Mayor,43%,48%,9%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE ATLANTICO,56,Menor,10,Similar,7%,43%,41%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE ATLANTICO,43,Similar,8,Mayor,43%,50%,7%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE ATLANTICO,45,Similar,9,Similar,35%,50%,14%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE ATLANTICO,53,Menor,10,Similar,11%,50%,37%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE ATLANTICO,66,Menor,7,Mayor,0%,6%,62%,32%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+BARRANCABERMEJA,53,,11,,15%,46%,32%,7%,36%,49%,32%,49%,60%,35%,39%,52%,49%,34%,29%,56%,30%,54%,45%,48%,41%,60%,52%,47%,41%,N.D.,60%,39%,47%,47%,Ciencias Naturales
+OFICIALES URBANOS DE BARRANCABERMEJA,51,Similar,10,Similar,17%,51%,29%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE BARRANCABERMEJA,48,Mayor,9,Mayor,24%,56%,20%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE BARRANCABERMEJA,64,Menor,11,Similar,2%,20%,50%,27%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE BARRANCABERMEJA,49,Mayor,10,Similar,22%,53%,23%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE BARRANCABERMEJA,58,Menor,11,Similar,4%,36%,47%,13%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE BARRANCABERMEJA,70,Menor,6,Mayor,0%,2%,48%,50%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+BARRANQUILLA,51,,11,,18%,47%,32%,4%,41%,51%,34%,50%,62%,36%,41%,53%,51%,35%,31%,57%,34%,57%,44%,51%,43%,62%,54%,51%,43%,N.D.,61%,40%,47%,49%,Ciencias Naturales
+OFICIALES URBANOS DE BARRANQUILLA,50,Similar,10,Similar,19%,50%,29%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE BARRANQUILLA,55,Menor,12,Similar,13%,37%,41%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE BARRANQUILLA,43,Mayor,8,Mayor,45%,49%,6%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE BARRANQUILLA,48,Similar,9,Mayor,25%,53%,20%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE BARRANQUILLA,55,Menor,10,Similar,9%,40%,44%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE BARRANQUILLA,66,Menor,8,Mayor,2%,9%,60%,29%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+BELLO,51,,10,,15%,49%,33%,2%,38%,51%,33%,49%,62%,34%,41%,53%,52%,34%,29%,58%,33%,56%,44%,51%,42%,63%,55%,52%,43%,N.D.,61%,41%,47%,49%,Ciencias Naturales
+OFICIALES URBANOS DE BELLO,51,Similar,9,Similar,15%,52%,31%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE BELLO,50,Similar,10,Similar,20%,46%,34%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE BELLO,53,Similar,11,Similar,16%,42%,38%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE BELLO,48,Similar,9,Similar,23%,53%,23%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE BELLO,54,Similar,10,Similar,8%,45%,43%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+BOGOTA,53,,10,,10%,47%,39%,4%,35%,49%,31%,46%,59%,30%,38%,52%,48%,29%,24%,54%,29%,54%,42%,48%,38%,61%,52%,48%,39%,N.D.,59%,37%,45%,46%,Ciencias Naturales
+OFICIALES URBANOS DE BOGOTA,51,Similar,9,Similar,13%,56%,30%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE BOGOTA,49,Mayor,8,Mayor,17%,63%,19%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE BOGOTA,57,Menor,10,Similar,6%,35%,52%,8%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE BOGOTA,46,Mayor,8,Mayor,30%,50%,20%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE BOGOTA,49,Mayor,9,Similar,19%,59%,22%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE BOGOTA,54,Similar,9,Similar,8%,46%,42%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+BOLIVAR,45,,9,,39%,48%,13%,1%,55%,60%,47%,61%,69%,53%,53%,63%,62%,53%,46%,68%,47%,66%,57%,61%,56%,70%,65%,62%,57%,N.D.,70%,55%,57%,62%,Ciencias Naturales
+OFICIALES URBANOS DE BOLIVAR,45,Similar,9,Similar,36%,50%,14%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE BOLIVAR,42,Similar,8,Similar,50%,44%,5%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE BOLIVAR,56,Menor,11,Menor,11%,38%,43%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE BOLIVAR,41,Mayor,7,Mayor,54%,42%,4%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE BOLIVAR,44,Similar,9,Similar,39%,49%,12%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE BOLIVAR,57,Menor,11,Menor,7%,36%,47%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+BOYACA,52,,10,,13%,51%,34%,2%,37%,50%,33%,50%,61%,34%,38%,52%,49%,35%,27%,58%,32%,55%,44%,49%,41%,63%,56%,51%,42%,N.D.,60%,39%,46%,49%,Ciencias Naturales
+OFICIALES URBANOS DE BOYACA,52,Similar,9,Similar,12%,52%,34%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE BOYACA,50,Similar,9,Similar,17%,56%,26%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE BOYACA,59,Menor,9,Similar,3%,30%,57%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE BOYACA,49,Similar,9,Similar,21%,56%,23%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE BOYACA,51,Similar,9,Similar,13%,53%,32%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE BOYACA,58,Menor,9,Similar,4%,35%,53%,8%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE BOYACA,66,Menor,6,Mayor,0%,3%,76%,21%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+BUCARAMANGA,57,,11,,7%,37%,46%,10%,28%,43%,25%,40%,54%,25%,32%,43%,41%,24%,20%,48%,25%,49%,37%,40%,32%,53%,46%,41%,32%,N.D.,53%,29%,39%,38%,Ciencias Naturales
+OFICIALES URBANOS DE BUCARAMANGA,56,Similar,10,Similar,8%,41%,44%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE BUCARAMANGA,49,Mayor,8,Mayor,13%,59%,28%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE BUCARAMANGA,61,Menor,11,Similar,5%,24%,51%,20%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE BUCARAMANGA,51,Mayor,9,Mayor,14%,53%,31%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE BUCARAMANGA,59,Similar,10,Similar,4%,30%,53%,13%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE BUCARAMANGA,69,Menor,9,Mayor,0%,8%,37%,55%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+BUENAVENTURA,44,,9,,41%,47%,12%,1%,55%,63%,48%,62%,70%,52%,55%,64%,63%,53%,48%,68%,49%,67%,59%,63%,58%,71%,66%,62%,57%,N.D.,71%,55%,60%,63%,Ciencias Naturales
+OFICIALES URBANOS DE BUENAVENTURA,43,Similar,8,Similar,41%,49%,10%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE BUENAVENTURA,40,Mayor,7,Mayor,60%,35%,5%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE BUENAVENTURA,48,Menor,11,Menor,28%,48%,22%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE BUENAVENTURA,38,Mayor,6,Mayor,70%,30%,0%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE BUENAVENTURA,43,Similar,8,Similar,45%,47%,8%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE BUENAVENTURA,51,Menor,10,Similar,15%,52%,30%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+BUGA,53,,10,,11%,50%,37%,2%,37%,50%,32%,49%,60%,33%,42%,50%,49%,32%,26%,54%,35%,56%,44%,50%,40%,59%,56%,49%,41%,N.D.,61%,38%,46%,47%,Ciencias Naturales
+OFICIALES URBANOS DE BUGA,53,Similar,10,Similar,10%,49%,39%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE BUGA,49,Mayor,9,Similar,15%,61%,25%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE BUGA,51,Similar,10,Similar,14%,54%,31%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE BUGA,50,Similar,9,Similar,12%,71%,18%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE BUGA,52,Similar,10,Similar,11%,51%,35%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE BUGA,55,Similar,10,Similar,8%,39%,48%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+CALDAS,49,,9,,20%,56%,23%,1%,42%,55%,37%,54%,66%,40%,45%,57%,56%,41%,34%,64%,38%,60%,50%,56%,47%,67%,62%,58%,49%,N.D.,65%,47%,50%,57%,Ciencias Naturales
+OFICIALES URBANOS DE CALDAS,50,Similar,9,Similar,19%,55%,25%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE CALDAS,47,Similar,8,Similar,23%,61%,16%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE CALDAS,56,Menor,11,Menor,12%,34%,47%,8%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE CALDAS,47,Similar,8,Similar,23%,63%,14%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE CALDAS,48,Similar,9,Similar,21%,57%,21%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE CALDAS,55,Menor,10,Similar,9%,44%,42%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+CALI,49,,10,,21%,52%,26%,2%,50%,55%,62%,24%,56%,51%,49%,N.D.,36%,65%,49%,55%,58%,48%,51%,66%,40%,54%,60%,54%,45%,52%,49%,45%,N.D.,45%,Ciencias Naturales
+OFICIALES URBANOS DE CALI,49,Similar,10,Similar,21%,52%,25%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE CALI,48,Similar,9,Similar,22%,56%,22%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE CALI,50,Similar,10,Similar,20%,51%,27%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE CALI,55,Menor,0,Mayor,0%,100%,0%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE CALI,47,Similar,9,Similar,27%,54%,18%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE CALI,52,Similar,10,Similar,14%,49%,34%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+CAQUETA,47,,9,,24%,58%,17%,0%,46%,57%,40%,58%,67%,47%,48%,60%,59%,48%,37%,66%,41%,63%,53%,60%,49%,69%,63%,59%,53%,N.D.,69%,50%,52%,59%,Ciencias Naturales
+OFICIALES URBANOS DE CAQUETA,48,Similar,9,Similar,23%,57%,20%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE CAQUETA,45,Similar,7,Mayor,29%,62%,9%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE CAQUETA,52,Menor,7,Mayor,0%,78%,22%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE CAQUETA,45,Similar,7,Mayor,28%,62%,10%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE CAQUETA,47,Similar,9,Similar,24%,58%,18%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+CARTAGENA,49,,11,,25%,47%,25%,3%,45%,54%,38%,53%,64%,42%,45%,57%,55%,41%,37%,61%,38%,60%,49%,55%,49%,65%,59%,56%,48%,N.D.,64%,45%,51%,53%,Ciencias Naturales
+OFICIALES URBANOS DE CARTAGENA,47,Similar,10,Similar,29%,51%,19%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE CARTAGENA,43,Mayor,9,Mayor,47%,43%,10%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE CARTAGENA,55,Menor,11,Similar,12%,40%,40%,8%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE CARTAGENA,42,Mayor,8,Mayor,57%,37%,7%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE CARTAGENA,46,Similar,10,Similar,32%,50%,17%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE CARTAGENA,55,Menor,11,Similar,9%,40%,43%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE CARTAGENA,64,Menor,9,Mayor,1%,16%,55%,28%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+CARTAGO,50,,10,,18%,49%,30%,2%,40%,51%,36%,51%,63%,38%,43%,56%,54%,34%,31%,58%,36%,59%,47%,55%,43%,63%,58%,54%,47%,N.D.,64%,43%,46%,52%,Ciencias Naturales
+OFICIALES URBANOS DE CARTAGO,50,Similar,10,Similar,19%,50%,29%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE CARTAGO,50,Similar,10,Similar,20%,49%,31%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE CARTAGO,52,Similar,10,Similar,15%,46%,39%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE CARTAGO,48,Similar,9,Similar,23%,54%,22%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE CARTAGO,53,Similar,10,Similar,14%,44%,39%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+CASANARE,50,,10,,16%,53%,28%,2%,41%,53%,35%,52%,63%,39%,42%,55%,53%,38%,32%,59%,34%,58%,47%,51%,45%,65%,57%,53%,46%,N.D.,64%,44%,48%,51%,Ciencias Naturales
+OFICIALES URBANOS DE CASANARE,51,Similar,9,Similar,15%,54%,29%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE CASANARE,49,Similar,10,Similar,23%,51%,23%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE CASANARE,50,Similar,12,Menor,24%,43%,29%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE CASANARE,49,Similar,11,Similar,24%,51%,22%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE CASANARE,50,Similar,9,Similar,16%,54%,28%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE CASANARE,54,Menor,9,Similar,10%,48%,39%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+CAUCA,45,,9,,33%,52%,13%,1%,48%,59%,44%,60%,69%,50%,52%,64%,61%,49%,44%,69%,46%,64%,55%,60%,53%,70%,65%,61%,56%,N.D.,70%,54%,55%,63%,Ciencias Naturales
+OFICIALES URBANOS DE CAUCA,47,Similar,10,Similar,30%,51%,18%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE CAUCA,44,Similar,8,Similar,37%,54%,9%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE CAUCA,48,Similar,11,Menor,28%,47%,22%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE CAUCA,43,Similar,8,Similar,41%,52%,7%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE CAUCA,46,Similar,9,Similar,32%,53%,14%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE CAUCA,53,Menor,11,Menor,14%,42%,38%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+CESAR,47,,9,,27%,54%,18%,1%,49%,58%,42%,57%,66%,47%,48%,60%,58%,47%,39%,65%,43%,63%,53%,57%,52%,68%,62%,58%,51%,N.D.,67%,49%,53%,59%,Ciencias Naturales
+OFICIALES URBANOS DE CESAR,48,Similar,9,Similar,25%,54%,20%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE CESAR,45,Similar,9,Similar,34%,54%,12%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE CESAR,52,Menor,11,Menor,18%,41%,36%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE CESAR,44,Similar,8,Similar,37%,55%,8%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE CESAR,47,Similar,9,Similar,27%,54%,18%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE CESAR,55,Menor,11,Menor,10%,40%,43%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+CHIA,56,,10,,7%,41%,46%,6%,31%,44%,27%,41%,57%,26%,33%,47%,43%,27%,21%,49%,26%,51%,39%,42%,31%,57%,50%,44%,35%,N.D.,54%,32%,40%,41%,Ciencias Naturales
+OFICIALES URBANOS DE CHIA,53,Similar,9,Similar,10%,49%,38%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE CHIA,53,Similar,9,Similar,9%,51%,38%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE CHIA,59,Similar,9,Similar,3%,32%,55%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE CHIA,54,Similar,10,Similar,7%,46%,44%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE CHIA,55,Similar,9,Similar,8%,44%,44%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE CHIA,63,Menor,10,Similar,2%,20%,57%,20%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+CHOCO,40,,7,,63%,33%,4%,0%,62%,69%,59%,69%,73%,66%,62%,71%,69%,57%,60%,73%,61%,71%,67%,67%,66%,73%,69%,68%,65%,N.D.,74%,66%,66%,69%,Ciencias Naturales
+OFICIALES URBANOS DE CHOCO,41,Similar,8,Similar,55%,39%,5%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE CHOCO,38,Similar,6,Similar,73%,25%,2%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE CHOCO,51,Menor,9,Menor,17%,50%,33%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE CHOCO,38,Similar,7,Similar,72%,24%,3%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE CHOCO,40,Similar,7,Similar,60%,35%,4%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+CIENAGA,44,,9,,40%,47%,12%,0%,55%,63%,47%,61%,70%,52%,53%,65%,62%,52%,47%,67%,50%,67%,56%,63%,57%,71%,64%,64%,57%,N.D.,70%,56%,57%,63%,Ciencias Naturales
+OFICIALES URBANOS DE CIENAGA,44,Similar,9,Similar,42%,48%,9%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE CIENAGA,43,Similar,8,Similar,46%,45%,9%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE CIENAGA,48,Menor,10,Similar,28%,46%,26%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE CIENAGA,40,Mayor,6,Mayor,63%,35%,2%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE CIENAGA,43,Similar,9,Similar,43%,47%,9%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE CIENAGA,52,Menor,9,Similar,11%,50%,39%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+CORDOBA,47,,10,,29%,52%,18%,1%,50%,57%,43%,58%,67%,48%,48%,61%,58%,47%,40%,65%,42%,63%,53%,57%,52%,68%,63%,57%,52%,N.D.,67%,50%,54%,58%,Ciencias Naturales
+OFICIALES URBANOS DE CORDOBA,48,Similar,10,Similar,25%,53%,20%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE CORDOBA,45,Similar,9,Similar,34%,53%,13%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE CORDOBA,55,Menor,13,Menor,16%,33%,42%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE CORDOBA,44,Similar,8,Mayor,37%,53%,10%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE CORDOBA,47,Similar,10,Similar,27%,52%,20%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE CORDOBA,61,Menor,9,Similar,2%,25%,58%,15%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+CUCUTA,53,,11,,13%,46%,37%,5%,37%,48%,31%,46%,60%,32%,37%,50%,48%,31%,27%,56%,30%,53%,42%,47%,39%,59%,53%,48%,39%,N.D.,59%,36%,45%,46%,Ciencias Naturales
+OFICIALES URBANOS DE CUCUTA,53,Similar,10,Similar,12%,47%,37%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE CUCUTA,49,Mayor,9,Mayor,18%,59%,22%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE CUCUTA,53,Similar,11,Similar,15%,42%,37%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE CUCUTA,55,Similar,0,Mayor,0%,100%,0%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE CUCUTA,51,Similar,10,Similar,16%,52%,30%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE CUCUTA,58,Menor,10,Similar,5%,32%,53%,11%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE CUCUTA,66,Menor,8,Mayor,0%,11%,56%,33%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+CUNDINAMARCA,52,,10,,12%,51%,34%,3%,36%,49%,34%,48%,61%,34%,39%,53%,50%,33%,26%,57%,31%,55%,44%,49%,40%,63%,55%,51%,43%,N.D.,60%,40%,46%,48%,Ciencias Naturales
+OFICIALES URBANOS DE CUNDINAMARCA,51,Similar,9,Similar,14%,55%,30%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE CUNDINAMARCA,50,Similar,9,Similar,15%,56%,28%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE CUNDINAMARCA,58,Menor,10,Similar,5%,34%,53%,8%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE CUNDINAMARCA,48,Mayor,9,Similar,25%,54%,21%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE CUNDINAMARCA,50,Similar,9,Similar,16%,57%,26%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE CUNDINAMARCA,55,Similar,9,Similar,7%,45%,44%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE CUNDINAMARCA,65,Menor,7,Mayor,0%,10%,68%,21%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+DOS QUEBRADAS,53,,9,,9%,50%,38%,3%,35%,49%,32%,46%,60%,28%,38%,49%,48%,31%,25%,55%,29%,54%,42%,48%,37%,61%,53%,47%,40%,N.D.,59%,36%,44%,46%,Ciencias Naturales
+OFICIALES URBANOS DE DOS QUEBRADAS,53,Similar,9,Similar,9%,53%,36%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE DOS QUEBRADAS,51,Similar,9,Similar,17%,59%,20%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE DOS QUEBRADAS,59,Menor,10,Similar,6%,31%,54%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE DOS QUEBRADAS,51,Similar,9,Similar,14%,57%,27%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE DOS QUEBRADAS,54,Similar,9,Similar,8%,48%,41%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+DUITAMA,57,,10,,5%,39%,49%,7%,30%,43%,26%,40%,55%,23%,31%,45%,39%,25%,19%,49%,24%,50%,36%,39%,32%,57%,48%,44%,33%,N.D.,53%,33%,40%,39%,Ciencias Naturales
+OFICIALES URBANOS DE DUITAMA,55,Similar,9,Similar,5%,43%,48%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE DUITAMA,55,Similar,10,Similar,5%,49%,41%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE DUITAMA,60,Similar,10,Similar,3%,29%,55%,13%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE DUITAMA,53,Mayor,9,Similar,9%,49%,40%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE DUITAMA,59,Similar,9,Similar,2%,31%,56%,11%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+ENVIGADO,56,,10,,7%,39%,48%,6%,29%,43%,27%,41%,56%,24%,32%,46%,44%,21%,21%,48%,27%,51%,38%,43%,32%,58%,50%,43%,35%,N.D.,54%,34%,40%,40%,Ciencias Naturales
+OFICIALES URBANOS DE ENVIGADO,53,Similar,9,Similar,9%,49%,39%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE ENVIGADO,49,Mayor,9,Similar,21%,51%,28%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE ENVIGADO,60,Menor,9,Similar,4%,25%,61%,11%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE ENVIGADO,55,Similar,10,Similar,8%,43%,44%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE ENVIGADO,61,Menor,9,Similar,3%,18%,65%,14%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+FACATATIVA,54,,10,,9%,45%,42%,4%,32%,47%,32%,45%,58%,29%,36%,50%,45%,29%,23%,53%,27%,50%,40%,45%,36%,58%,49%,46%,37%,N.D.,57%,36%,43%,45%,Ciencias Naturales
+OFICIALES URBANOS DE FACATATIVA,53,Similar,9,Similar,9%,49%,39%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE FACATATIVA,53,Similar,9,Similar,9%,52%,38%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE FACATATIVA,57,Similar,10,Similar,7%,35%,49%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE FACATATIVA,52,Similar,9,Similar,11%,54%,34%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE FACATATIVA,57,Similar,10,Similar,6%,37%,50%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE FACATATIVA,67,Menor,6,Mayor,0%,8%,67%,25%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+FLORENCIA,52,,10,,14%,52%,32%,3%,37%,51%,35%,50%,62%,34%,41%,52%,52%,34%,28%,59%,33%,58%,46%,50%,42%,63%,53%,51%,44%,N.D.,62%,39%,47%,48%,Ciencias Naturales
+OFICIALES URBANOS DE FLORENCIA,51,Similar,9,Similar,12%,56%,31%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE FLORENCIA,45,Mayor,9,Similar,30%,59%,11%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE FLORENCIA,55,Similar,12,Menor,15%,30%,45%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE FLORENCIA,46,Mayor,8,Mayor,26%,61%,13%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE FLORENCIA,50,Similar,9,Similar,16%,57%,26%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE FLORENCIA,57,Menor,10,Similar,5%,40%,48%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE FLORENCIA,68,Menor,9,Similar,0%,0%,50%,50%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+FLORIDABLANCA,57,,10,,6%,35%,50%,9%,28%,40%,24%,40%,54%,23%,33%,44%,41%,22%,20%,49%,23%,48%,36%,40%,32%,51%,45%,43%,30%,N.D.,53%,29%,40%,38%,Ciencias Naturales
+OFICIALES URBANOS DE FLORIDABLANCA,56,Similar,10,Similar,7%,42%,47%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE FLORIDABLANCA,55,Similar,10,Similar,7%,48%,41%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE FLORIDABLANCA,61,Menor,10,Similar,4%,21%,57%,18%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE FLORIDABLANCA,54,Similar,10,Similar,9%,46%,41%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE FLORIDABLANCA,58,Similar,10,Similar,4%,32%,53%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE FLORIDABLANCA,66,Menor,8,Mayor,2%,7%,65%,26%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+FUNZA,54,,9,,8%,45%,44%,3%,32%,46%,33%,44%,60%,27%,35%,51%,47%,27%,22%,54%,29%,53%,42%,43%,36%,60%,51%,48%,38%,N.D.,57%,35%,42%,44%,Ciencias Naturales
+OFICIALES URBANOS DE FUNZA,52,Similar,9,Similar,11%,52%,35%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE FUNZA,53,Similar,11,Menor,11%,45%,37%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE FUNZA,56,Similar,9,Similar,6%,40%,50%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE FUNZA,54,Similar,9,Similar,8%,45%,44%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+FUSAGASUGA,52,,10,,12%,51%,34%,3%,38%,51%,35%,48%,60%,32%,38%,52%,49%,31%,28%,56%,32%,56%,44%,49%,40%,62%,57%,49%,43%,N.D.,60%,38%,45%,48%,Ciencias Naturales
+OFICIALES URBANOS DE FUSAGASUGA,50,Similar,9,Similar,16%,57%,26%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE FUSAGASUGA,53,Similar,9,Similar,8%,51%,38%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE FUSAGASUGA,56,Menor,10,Similar,7%,41%,45%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE FUSAGASUGA,50,Similar,9,Similar,16%,58%,25%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE FUSAGASUGA,55,Similar,10,Similar,8%,42%,45%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GIRARDOT,50,,10,,18%,51%,29%,1%,41%,55%,36%,53%,64%,36%,43%,55%,52%,39%,30%,60%,36%,58%,45%,55%,42%,66%,59%,53%,48%,N.D.,62%,44%,53%,52%,Ciencias Naturales
+OFICIALES URBANOS DE GIRARDOT,47,Similar,9,Similar,23%,57%,19%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE GIRARDOT,45,Mayor,9,Similar,42%,47%,8%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE GIRARDOT,53,Similar,9,Similar,11%,45%,42%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE GIRARDOT,46,Mayor,9,Similar,28%,55%,16%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE GIRARDOT,52,Similar,9,Similar,12%,49%,37%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GIRON,54,,10,,10%,46%,39%,5%,32%,48%,30%,45%,60%,30%,37%,49%,46%,32%,26%,55%,29%,54%,40%,45%,37%,60%,52%,47%,37%,N.D.,58%,35%,44%,45%,Ciencias Naturales
+OFICIALES URBANOS DE GIRON,53,Similar,10,Similar,10%,47%,39%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE GIRON,52,Similar,10,Similar,15%,54%,28%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE GIRON,60,Menor,10,Similar,2%,29%,51%,17%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE GIRON,52,Similar,10,Similar,13%,50%,35%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE GIRON,57,Similar,10,Similar,5%,39%,47%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GUAINIA,44,,9,,43%,46%,11%,1%,52%,60%,44%,63%,71%,58%,53%,68%,71%,42%,50%,74%,45%,57%,63%,64%,60%,72%,66%,56%,59%,N.D.,72%,60%,51%,69%,Ciencias Naturales
+OFICIALES URBANOS DE GUAINIA,45,Similar,10,Similar,37%,46%,16%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE GUAINIA,41,Similar,6,Mayor,52%,45%,3%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE GUAINIA,41,Similar,8,Similar,60%,34%,6%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE GUAINIA,48,Menor,9,Similar,18%,63%,19%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GUAVIARE,48,,9,,23%,57%,20%,1%,43%,56%,39%,56%,64%,44%,48%,59%,58%,43%,34%,66%,39%,61%,52%,60%,49%,69%,64%,59%,52%,N.D.,68%,50%,51%,57%,Ciencias Naturales
+OFICIALES URBANOS DE GUAVIARE,49,Similar,9,Similar,16%,57%,26%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE GUAVIARE,45,Similar,8,Similar,35%,55%,10%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE GUAVIARE,47,Similar,9,Similar,24%,59%,16%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE GUAVIARE,45,Similar,8,Similar,32%,58%,9%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE GUAVIARE,48,Similar,9,Similar,23%,57%,19%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE GUAVIARE,52,Menor,9,Similar,11%,51%,35%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+HUILA,50,,9,,16%,55%,28%,2%,39%,52%,36%,52%,64%,38%,41%,53%,53%,39%,31%,60%,34%,59%,47%,52%,43%,66%,58%,53%,47%,N.D.,62%,43%,47%,53%,Ciencias Naturales
+OFICIALES URBANOS DE HUILA,51,Similar,9,Similar,15%,54%,29%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE HUILA,49,Similar,9,Similar,18%,58%,23%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE HUILA,58,Menor,10,Similar,5%,32%,53%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE HUILA,48,Similar,8,Similar,21%,59%,18%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE HUILA,50,Similar,9,Similar,16%,56%,27%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE HUILA,54,Menor,10,Similar,10%,46%,40%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE HUILA,68,Menor,6,Mayor,0%,3%,61%,36%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+IBAGUE,53,,10,,12%,49%,36%,4%,36%,49%,31%,48%,61%,31%,39%,52%,49%,33%,26%,56%,31%,55%,43%,49%,40%,61%,54%,49%,40%,N.D.,61%,37%,47%,47%,Ciencias Naturales
+OFICIALES URBANOS DE IBAGUE,51,Similar,9,Similar,13%,53%,32%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE IBAGUE,49,Mayor,9,Similar,18%,58%,22%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE IBAGUE,58,Menor,10,Similar,5%,31%,54%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE IBAGUE,48,Mayor,10,Similar,20%,60%,20%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE IBAGUE,50,Similar,9,Similar,17%,56%,27%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE IBAGUE,54,Similar,10,Similar,8%,45%,42%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE IBAGUE,62,Menor,9,Similar,2%,21%,58%,19%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+IPIALES,56,,10,,7%,42%,47%,5%,33%,44%,31%,43%,56%,27%,34%,45%,43%,27%,23%,53%,28%,49%,39%,41%,36%,55%,53%,46%,35%,N.D.,56%,33%,45%,42%,Ciencias Naturales
+OFICIALES URBANOS DE IPIALES,57,Similar,9,Similar,3%,37%,55%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE IPIALES,51,Mayor,9,Similar,13%,57%,29%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE IPIALES,54,Similar,11,Similar,12%,44%,39%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE IPIALES,48,Mayor,9,Similar,26%,47%,28%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE IPIALES,54,Similar,9,Similar,7%,46%,44%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE IPIALES,59,Similar,9,Similar,3%,29%,58%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+ITAGUI,53,,10,,12%,46%,39%,3%,34%,49%,30%,47%,60%,30%,37%,50%,49%,30%,25%,54%,31%,56%,43%,48%,36%,61%,53%,48%,39%,N.D.,60%,38%,45%,46%,Ciencias Naturales
+OFICIALES URBANOS DE ITAGUI,53,Similar,9,Similar,11%,49%,38%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE ITAGUI,49,Mayor,10,Similar,22%,50%,26%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE ITAGUI,56,Similar,11,Similar,11%,32%,51%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE ITAGUI,50,Similar,9,Similar,17%,55%,27%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE ITAGUI,54,Similar,10,Similar,10%,44%,43%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE ITAGUI,67,Menor,6,Mayor,0%,3%,74%,23%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+JAMUNDI,51,,10,,17%,51%,31%,2%,41%,52%,34%,51%,63%,38%,43%,53%,51%,37%,31%,60%,35%,58%,45%,53%,43%,64%,58%,54%,46%,N.D.,63%,40%,50%,52%,Ciencias Naturales
+OFICIALES URBANOS DE JAMUNDI,52,Similar,10,Similar,14%,51%,34%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE JAMUNDI,48,Similar,9,Similar,24%,54%,21%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE JAMUNDI,54,Similar,10,Similar,7%,43%,46%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE JAMUNDI,46,Mayor,8,Mayor,17%,67%,17%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE JAMUNDI,49,Similar,9,Similar,20%,54%,25%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE JAMUNDI,54,Similar,10,Similar,9%,43%,45%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+LA ESTRELLA,53,,10,,13%,43%,41%,4%,32%,47%,31%,47%,60%,30%,37%,52%,48%,29%,25%,54%,31%,55%,42%,47%,36%,60%,53%,46%,41%,N.D.,57%,39%,43%,45%,Ciencias Naturales
+OFICIALES URBANOS DE LA ESTRELLA,48,Mayor,9,Similar,23%,54%,23%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE LA ESTRELLA,58,Menor,9,Similar,4%,32%,58%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE LA ESTRELLA,47,Mayor,9,Similar,28%,54%,18%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE LA ESTRELLA,54,Similar,10,Similar,10%,42%,44%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE LA ESTRELLA,62,Menor,7,Mayor,0%,21%,70%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+LA GUAJIRA,45,,9,,35%,50%,15%,1%,51%,61%,45%,60%,69%,53%,52%,63%,63%,46%,45%,69%,44%,62%,57%,60%,57%,71%,65%,59%,54%,N.D.,69%,56%,53%,63%,Ciencias Naturales
+OFICIALES URBANOS DE LA GUAJIRA,47,Similar,9,Similar,25%,56%,18%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE LA GUAJIRA,41,Mayor,7,Mayor,56%,40%,4%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE LA GUAJIRA,53,Menor,10,Similar,12%,46%,40%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE LA GUAJIRA,39,Mayor,7,Mayor,61%,37%,2%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE LA GUAJIRA,46,Similar,9,Similar,31%,54%,15%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE LA GUAJIRA,54,Menor,10,Similar,9%,43%,44%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+LORICA,48,,10,,26%,51%,21%,2%,48%,57%,41%,55%,65%,46%,48%,59%,55%,43%,39%,63%,39%,63%,54%,56%,51%,67%,63%,53%,49%,N.D.,64%,49%,51%,57%,Ciencias Naturales
+OFICIALES URBANOS DE LORICA,47,Similar,9,Similar,26%,54%,19%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE LORICA,46,Similar,9,Similar,31%,52%,17%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE LORICA,59,Menor,10,Similar,4%,31%,53%,12%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE LORICA,46,Similar,9,Similar,34%,50%,17%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE LORICA,47,Similar,9,Similar,26%,55%,18%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE LORICA,59,Menor,10,Similar,4%,31%,53%,12%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+MAGANGUE,48,,10,,26%,52%,20%,2%,48%,55%,43%,56%,65%,46%,48%,59%,57%,43%,39%,64%,39%,62%,53%,55%,52%,70%,62%,57%,51%,N.D.,66%,47%,52%,57%,Ciencias Naturales
+OFICIALES URBANOS DE MAGANGUE,48,Similar,9,Similar,25%,54%,20%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE MAGANGUE,45,Similar,9,Similar,36%,53%,12%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE MAGANGUE,54,Menor,11,Similar,12%,43%,38%,8%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE MAGANGUE,47,Similar,9,Similar,28%,54%,17%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE MAGANGUE,56,Menor,11,Similar,7%,39%,44%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+MAGDALENA,44,,9,,40%,49%,11%,0%,55%,62%,47%,61%,69%,54%,53%,65%,63%,53%,47%,68%,48%,67%,58%,62%,57%,71%,66%,64%,58%,N.D.,70%,56%,57%,63%,Ciencias Naturales
+OFICIALES URBANOS DE MAGDALENA,45,Similar,9,Similar,35%,51%,13%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE MAGDALENA,42,Similar,8,Similar,47%,47%,6%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE MAGDALENA,51,Menor,12,Menor,25%,38%,34%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE MAGDALENA,43,Similar,8,Similar,47%,46%,7%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE MAGDALENA,44,Similar,9,Similar,40%,49%,11%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE MAGDALENA,54,Menor,10,Similar,12%,42%,43%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+MAICAO,47,,10,,30%,51%,17%,1%,49%,59%,43%,57%,68%,49%,49%,62%,60%,40%,42%,66%,43%,60%,56%,57%,54%,68%,62%,57%,52%,N.D.,68%,51%,52%,60%,Ciencias Naturales
+OFICIALES URBANOS DE MAICAO,48,Similar,9,Similar,22%,57%,20%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE MAICAO,39,Mayor,6,Mayor,65%,35%,1%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE MAICAO,57,Menor,11,Similar,6%,37%,44%,13%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE MAICAO,42,Mayor,8,Mayor,54%,39%,8%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE MAICAO,48,Similar,9,Similar,22%,58%,19%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE MAICAO,57,Menor,11,Similar,6%,37%,44%,13%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+MALAMBO,48,,10,,26%,49%,23%,2%,47%,58%,38%,53%,65%,45%,47%,58%,55%,43%,39%,63%,39%,61%,51%,57%,50%,65%,58%,58%,50%,N.D.,65%,46%,54%,56%,Ciencias Naturales
+OFICIALES URBANOS DE MALAMBO,46,Similar,9,Similar,30%,54%,15%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE MALAMBO,46,Similar,7,Mayor,20%,70%,9%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE MALAMBO,50,Similar,11,Similar,23%,41%,33%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE MALAMBO,47,Similar,10,Similar,27%,50%,21%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE MALAMBO,60,Menor,10,Similar,4%,26%,60%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+MANIZALES,54,,11,,11%,44%,39%,6%,34%,48%,31%,46%,58%,29%,37%,48%,47%,28%,24%,53%,30%,53%,41%,47%,38%,59%,52%,46%,37%,N.D.,57%,35%,43%,44%,Ciencias Naturales
+OFICIALES URBANOS DE MANIZALES,53,Similar,10,Similar,13%,49%,35%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE MANIZALES,48,Mayor,9,Mayor,24%,54%,21%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE MANIZALES,61,Menor,10,Similar,3%,23%,58%,17%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE MANIZALES,47,Mayor,6,Mayor,17%,78%,6%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE MANIZALES,49,Mayor,9,Mayor,20%,57%,21%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE MANIZALES,56,Similar,10,Similar,8%,38%,46%,8%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE MANIZALES,64,Menor,7,Mayor,0%,13%,67%,20%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+MEDELLIN,51,,10,,18%,50%,30%,3%,41%,53%,35%,51%,63%,36%,42%,55%,53%,36%,31%,58%,35%,58%,46%,53%,44%,63%,58%,53%,45%,N.D.,63%,43%,48%,52%,Ciencias Naturales
+OFICIALES URBANOS DE MEDELLIN,49,Similar,10,Similar,20%,53%,25%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE MEDELLIN,48,Similar,9,Similar,23%,54%,22%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE MEDELLIN,56,Menor,11,Similar,10%,35%,47%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE MEDELLIN,47,Mayor,9,Similar,28%,55%,17%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE MEDELLIN,52,Similar,10,Similar,13%,48%,36%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE MEDELLIN,63,Menor,9,Similar,2%,18%,61%,18%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+META,50,,10,,18%,53%,27%,2%,39%,53%,37%,53%,64%,38%,43%,55%,54%,38%,31%,61%,36%,58%,48%,54%,44%,66%,59%,54%,47%,N.D.,63%,44%,49%,53%,Ciencias Naturales
+OFICIALES URBANOS DE META,50,Similar,9,Similar,17%,56%,26%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE META,49,Similar,10,Similar,21%,51%,26%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE META,53,Similar,11,Similar,14%,44%,38%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE META,44,Mayor,8,Mayor,38%,50%,12%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE META,50,Similar,9,Similar,18%,55%,25%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE META,56,Menor,9,Similar,6%,43%,46%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+MONTERIA,53,,11,,13%,46%,36%,5%,38%,47%,31%,48%,58%,34%,39%,49%,48%,32%,28%,54%,30%,54%,43%,47%,41%,59%,53%,44%,38%,N.D.,57%,38%,45%,46%,Ciencias Naturales
+OFICIALES URBANOS DE MONTERIA,53,Similar,10,Similar,12%,48%,35%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE MONTERIA,48,Mayor,9,Mayor,20%,57%,22%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE MONTERIA,57,Menor,11,Similar,9%,34%,47%,11%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE MONTERIA,48,Mayor,9,Mayor,23%,56%,20%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE MONTERIA,52,Similar,10,Similar,14%,51%,32%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE MONTERIA,59,Menor,10,Similar,5%,29%,52%,14%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE MONTERIA,61,Menor,9,Mayor,4%,16%,67%,12%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+MOSQUERA,55,,10,,7%,44%,44%,5%,30%,47%,29%,44%,58%,27%,35%,48%,43%,25%,21%,50%,27%,51%,38%,45%,34%,59%,50%,44%,35%,N.D.,55%,34%,42%,42%,Ciencias Naturales
+OFICIALES URBANOS DE MOSQUERA,53,Similar,9,Similar,8%,52%,37%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE MOSQUERA,58,Similar,10,Similar,4%,31%,56%,8%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE MOSQUERA,47,Mayor,8,Mayor,24%,62%,13%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE MOSQUERA,55,Similar,9,Similar,6%,45%,45%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE MOSQUERA,65,Menor,8,Mayor,0%,14%,68%,18%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+NARIÑO,49,,10,,21%,52%,26%,1%,43%,53%,38%,54%,64%,41%,43%,56%,54%,41%,35%,62%,39%,60%,49%,52%,46%,66%,59%,55%,47%,N.D.,63%,45%,49%,55%,Ciencias Naturales
+OFICIALES URBANOS DE NARIÑO,50,Similar,10,Similar,19%,50%,28%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE NARIÑO,48,Similar,9,Similar,23%,54%,22%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE NARIÑO,46,Similar,11,Similar,35%,44%,17%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE NARIÑO,45,Mayor,9,Similar,39%,47%,14%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE NARIÑO,51,Similar,10,Similar,16%,53%,29%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE NARIÑO,32,Mayor,0,Mayor,100%,0%,0%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+NEIVA,54,,11,,12%,46%,36%,6%,34%,47%,31%,47%,59%,31%,37%,48%,48%,32%,26%,55%,30%,51%,42%,46%,38%,59%,53%,48%,38%,N.D.,58%,36%,44%,46%,Ciencias Naturales
+OFICIALES URBANOS DE NEIVA,52,Similar,10,Similar,13%,50%,35%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE NEIVA,49,Mayor,9,Mayor,21%,58%,20%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE NEIVA,59,Menor,12,Similar,7%,33%,43%,17%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE NEIVA,50,Mayor,10,Similar,18%,54%,26%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE NEIVA,56,Similar,11,Similar,7%,41%,43%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE NEIVA,68,Menor,8,Mayor,0%,11%,56%,33%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+NORTE DE SANTANDER,51,,10,,15%,51%,30%,4%,40%,51%,35%,50%,63%,37%,39%,52%,51%,37%,30%,59%,33%,57%,46%,50%,43%,62%,55%,52%,43%,N.D.,62%,40%,46%,51%,Ciencias Naturales
+OFICIALES URBANOS DE NORTE DE SANTANDER,52,Similar,10,Similar,12%,51%,34%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE NORTE DE SANTANDER,47,Mayor,8,Mayor,25%,58%,16%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE NORTE DE SANTANDER,57,Menor,11,Similar,9%,37%,42%,12%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE NORTE DE SANTANDER,46,Mayor,8,Mayor,27%,62%,11%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE NORTE DE SANTANDER,51,Similar,10,Similar,15%,52%,30%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE NORTE DE SANTANDER,58,Menor,10,Similar,6%,35%,47%,12%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PALMIRA,54,,10,,10%,44%,42%,4%,35%,46%,30%,45%,59%,30%,37%,48%,47%,29%,25%,54%,29%,52%,42%,45%,37%,57%,50%,43%,37%,N.D.,57%,35%,43%,44%,Ciencias Naturales
+OFICIALES URBANOS DE PALMIRA,55,Similar,10,Similar,10%,43%,43%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE PALMIRA,52,Similar,9,Similar,10%,52%,36%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE PALMIRA,54,Similar,10,Similar,11%,43%,43%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE PALMIRA,53,Similar,10,Similar,11%,46%,39%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE PALMIRA,56,Similar,9,Similar,6%,37%,52%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PASTO,55,,10,,6%,44%,45%,5%,31%,45%,29%,44%,57%,26%,35%,46%,45%,26%,22%,53%,27%,52%,39%,41%,35%,56%,51%,43%,34%,N.D.,55%,33%,41%,42%,Ciencias Naturales
+OFICIALES URBANOS DE PASTO,55,Similar,10,Similar,6%,44%,44%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE PASTO,52,Similar,8,Mayor,9%,58%,30%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE PASTO,59,Menor,9,Similar,2%,29%,60%,8%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE PASTO,50,Mayor,9,Similar,14%,61%,20%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE PASTO,53,Similar,9,Similar,8%,51%,38%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE PASTO,60,Menor,9,Similar,3%,29%,59%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PEREIRA,52,,10,,12%,50%,34%,3%,36%,50%,32%,48%,60%,32%,38%,52%,51%,32%,27%,57%,31%,56%,43%,51%,40%,63%,55%,51%,43%,N.D.,61%,41%,46%,47%,Ciencias Naturales
+OFICIALES URBANOS DE PEREIRA,51,Similar,9,Similar,13%,54%,31%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE PEREIRA,50,Similar,10,Similar,16%,55%,27%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE PEREIRA,58,Menor,10,Similar,6%,30%,53%,11%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE PEREIRA,45,Mayor,5,Mayor,17%,83%,0%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE PEREIRA,48,Mayor,9,Similar,19%,59%,22%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE PEREIRA,54,Similar,10,Similar,9%,45%,42%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE PEREIRA,63,Menor,9,Similar,2%,18%,58%,23%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PIEDECUESTA,54,,10,,8%,45%,42%,5%,33%,46%,30%,45%,60%,27%,35%,47%,45%,28%,24%,53%,27%,52%,43%,47%,35%,57%,52%,46%,35%,N.D.,58%,33%,44%,42%,Ciencias Naturales
+OFICIALES URBANOS DE PIEDECUESTA,54,Similar,10,Similar,7%,46%,42%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE PIEDECUESTA,52,Similar,9,Similar,13%,53%,32%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE PIEDECUESTA,58,Menor,10,Similar,6%,29%,55%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE PIEDECUESTA,52,Similar,9,Similar,11%,53%,33%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE PIEDECUESTA,58,Menor,9,Similar,4%,35%,54%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE PIEDECUESTA,69,Menor,5,Mayor,0%,0%,53%,47%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PITALITO,56,,10,,5%,42%,45%,7%,30%,44%,26%,42%,56%,26%,33%,42%,42%,27%,20%,51%,24%,49%,38%,43%,33%,57%,48%,44%,32%,N.D.,54%,30%,38%,40%,Ciencias Naturales
+OFICIALES URBANOS DE PITALITO,59,Similar,10,Similar,3%,34%,53%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE PITALITO,52,Mayor,9,Similar,9%,53%,35%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE PITALITO,53,Similar,10,Similar,7%,55%,36%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE PITALITO,56,Similar,10,Similar,5%,41%,46%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE PITALITO,54,Similar,10,Similar,6%,53%,37%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+POPAYAN,53,,10,,12%,49%,35%,3%,36%,49%,32%,48%,61%,34%,39%,50%,49%,35%,27%,55%,32%,55%,43%,50%,40%,61%,53%,49%,42%,N.D.,59%,39%,45%,48%,Ciencias Naturales
+OFICIALES URBANOS DE POPAYAN,54,Similar,10,Similar,8%,49%,39%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE POPAYAN,49,Mayor,9,Similar,21%,56%,22%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE POPAYAN,50,Similar,11,Similar,23%,48%,26%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE POPAYAN,45,Mayor,9,Similar,39%,48%,13%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE POPAYAN,51,Similar,9,Similar,14%,55%,29%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE POPAYAN,57,Menor,10,Similar,6%,33%,53%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE POPAYAN,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PUTUMAYO,49,,10,,21%,54%,23%,1%,42%,55%,39%,55%,64%,42%,43%,58%,57%,42%,34%,62%,38%,61%,50%,54%,46%,66%,59%,55%,49%,N.D.,64%,46%,52%,55%,Ciencias Naturales
+OFICIALES URBANOS DE PUTUMAYO,51,Similar,10,Similar,15%,54%,29%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE PUTUMAYO,45,Mayor,8,Mayor,32%,56%,12%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE PUTUMAYO,52,Similar,10,Similar,12%,50%,38%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE PUTUMAYO,45,Mayor,8,Mayor,34%,54%,12%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE PUTUMAYO,50,Similar,9,Similar,18%,56%,25%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE PUTUMAYO,60,Menor,9,Similar,2%,28%,59%,11%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+QUIBDO,44,,9,,41%,48%,11%,0%,56%,62%,48%,63%,69%,54%,55%,66%,64%,54%,48%,68%,50%,66%,59%,61%,57%,72%,65%,61%,58%,N.D.,70%,56%,60%,64%,Ciencias Naturales
+OFICIALES URBANOS DE QUIBDO,44,Similar,9,Similar,41%,49%,10%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE QUIBDO,43,Similar,6,Mayor,36%,58%,6%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE QUIBDO,43,Similar,9,Similar,47%,38%,14%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE QUIBDO,41,Similar,6,Mayor,53%,41%,6%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE QUIBDO,42,Similar,8,Similar,50%,44%,6%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE QUIBDO,48,Menor,9,Similar,22%,56%,21%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+QUINDIO,50,,10,,18%,50%,30%,2%,40%,52%,37%,52%,63%,37%,41%,55%,53%,38%,32%,58%,36%,59%,47%,53%,44%,65%,59%,54%,46%,N.D.,63%,42%,47%,52%,Ciencias Naturales
+OFICIALES URBANOS DE QUINDIO,50,Similar,10,Similar,19%,51%,29%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE QUINDIO,50,Similar,9,Similar,19%,52%,29%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE QUINDIO,61,Menor,9,Similar,3%,21%,63%,13%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE QUINDIO,49,Similar,9,Similar,21%,53%,25%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE QUINDIO,55,Menor,10,Similar,9%,41%,45%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+RIOHACHA,47,,10,,27%,52%,19%,2%,48%,58%,41%,58%,67%,48%,47%,62%,59%,44%,39%,65%,40%,61%,54%,56%,54%,68%,61%,58%,49%,N.D.,68%,50%,53%,59%,Ciencias Naturales
+OFICIALES URBANOS DE RIOHACHA,48,Similar,9,Similar,24%,57%,18%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE RIOHACHA,41,Mayor,7,Mayor,53%,44%,3%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE RIOHACHA,55,Menor,11,Similar,10%,39%,42%,8%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE RIOHACHA,41,Mayor,6,Mayor,57%,40%,3%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE RIOHACHA,46,Similar,9,Similar,31%,55%,13%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE RIOHACHA,54,Menor,10,Similar,10%,47%,37%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+RIONEGRO,54,,10,,11%,44%,40%,5%,33%,46%,31%,46%,60%,28%,35%,51%,44%,29%,25%,53%,30%,52%,41%,46%,36%,57%,52%,48%,37%,N.D.,56%,38%,44%,44%,Ciencias Naturales
+OFICIALES URBANOS DE RIONEGRO,54,Similar,10,Similar,9%,46%,41%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE RIONEGRO,50,Mayor,9,Similar,16%,52%,31%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE RIONEGRO,60,Menor,11,Similar,6%,27%,52%,14%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE RIONEGRO,51,Similar,9,Similar,15%,50%,34%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE RIONEGRO,54,Similar,10,Similar,10%,44%,41%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE RIONEGRO,65,Menor,7,Mayor,2%,6%,72%,19%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+RISARALDA,47,,10,,27%,52%,20%,1%,45%,56%,40%,56%,67%,44%,47%,61%,58%,44%,39%,64%,42%,62%,52%,59%,53%,67%,63%,59%,52%,N.D.,67%,52%,53%,57%,Ciencias Naturales
+OFICIALES URBANOS DE RISARALDA,49,Similar,10,Similar,21%,54%,24%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE RISARALDA,44,Similar,9,Similar,42%,46%,11%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE RISARALDA,56,Menor,9,Similar,4%,39%,50%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE RISARALDA,41,Mayor,8,Mayor,50%,43%,7%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE RISARALDA,46,Similar,9,Similar,30%,52%,17%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE RISARALDA,53,Menor,9,Similar,11%,53%,34%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+SABANETA,56,,10,,7%,41%,47%,6%,28%,44%,27%,41%,59%,24%,35%,45%,46%,27%,19%,51%,26%,53%,37%,44%,33%,55%,49%,46%,34%,N.D.,55%,33%,41%,41%,Ciencias Naturales
+OFICIALES URBANOS DE SABANETA,55,Similar,9,Similar,5%,48%,42%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE SABANETA,53,Similar,10,Similar,14%,45%,38%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE SABANETA,60,Menor,9,Similar,5%,24%,61%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE SABANETA,56,Similar,10,Similar,7%,41%,46%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE SABANETA,63,Menor,10,Similar,0%,27%,64%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+SAHAGUN,52,,10,,15%,50%,32%,3%,40%,51%,35%,51%,61%,39%,40%,53%,49%,36%,30%,55%,33%,56%,48%,48%,46%,60%,56%,50%,43%,N.D.,59%,39%,46%,50%,Ciencias Naturales
+OFICIALES URBANOS DE SAHAGUN,52,Similar,10,Similar,12%,51%,33%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE SAHAGUN,48,Mayor,9,Similar,22%,54%,24%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE SAHAGUN,60,Menor,11,Similar,4%,30%,53%,14%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE SAHAGUN,49,Similar,9,Similar,18%,59%,23%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE SAHAGUN,52,Similar,10,Similar,15%,48%,34%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE SAHAGUN,60,Menor,11,Similar,4%,30%,53%,14%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+SAN ANDRES,46,,11,,35%,43%,20%,2%,47%,54%,38%,57%,65%,47%,51%,61%,60%,46%,43%,69%,40%,57%,55%,56%,51%,67%,64%,59%,58%,N.D.,68%,53%,57%,60%,Ciencias Naturales
+OFICIALES URBANOS DE SAN ANDRES,49,Similar,10,Similar,26%,47%,24%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE SAN ANDRES,42,Mayor,8,Mayor,52%,40%,7%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE SAN ANDRES,54,Menor,11,Similar,12%,42%,42%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE SAN ANDRES,43,Similar,9,Mayor,47%,45%,7%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE SAN ANDRES,49,Similar,11,Similar,27%,41%,30%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+SANTA MARTA,49,,10,,24%,50%,25%,2%,45%,56%,38%,54%,65%,41%,45%,58%,56%,40%,34%,60%,38%,59%,49%,55%,48%,65%,60%,56%,48%,N.D.,64%,46%,50%,54%,Ciencias Naturales
+OFICIALES URBANOS DE SANTA MARTA,48,Similar,9,Similar,25%,53%,21%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE SANTA MARTA,45,Mayor,8,Mayor,35%,54%,11%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE SANTA MARTA,54,Menor,11,Similar,13%,37%,44%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE SANTA MARTA,41,Mayor,7,Mayor,48%,46%,5%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE SANTA MARTA,46,Similar,9,Similar,29%,54%,16%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE SANTA MARTA,55,Menor,10,Similar,10%,41%,44%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE SANTA MARTA,46,Similar,19,Menor,50%,25%,25%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+SANTANDER,52,,10,,14%,51%,33%,3%,37%,49%,34%,50%,62%,35%,39%,52%,50%,35%,29%,58%,32%,56%,45%,50%,40%,62%,55%,51%,43%,N.D.,61%,40%,46%,49%,Ciencias Naturales
+OFICIALES URBANOS DE SANTANDER,53,Similar,10,Similar,12%,50%,35%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE SANTANDER,50,Similar,9,Similar,17%,56%,25%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE SANTANDER,55,Similar,12,Menor,13%,36%,43%,8%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE SANTANDER,49,Similar,9,Similar,21%,56%,22%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE SANTANDER,51,Similar,10,Similar,14%,53%,30%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE SANTANDER,58,Menor,9,Similar,3%,35%,53%,8%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+SINCELEJO,51,,11,,18%,47%,30%,5%,41%,51%,33%,49%,62%,37%,41%,52%,51%,36%,31%,58%,33%,58%,45%,50%,43%,62%,57%,51%,43%,N.D.,60%,40%,47%,49%,Ciencias Naturales
+OFICIALES URBANOS DE SINCELEJO,50,Similar,10,Similar,18%,52%,28%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE SINCELEJO,46,Mayor,9,Mayor,31%,55%,14%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE SINCELEJO,57,Menor,12,Similar,12%,27%,47%,14%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE SINCELEJO,44,Mayor,8,Mayor,38%,53%,8%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE SINCELEJO,50,Similar,10,Similar,18%,52%,27%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE SINCELEJO,59,Menor,11,Similar,7%,27%,51%,15%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+SOACHA,51,,9,,13%,54%,32%,2%,38%,52%,34%,49%,63%,34%,40%,55%,51%,33%,28%,58%,34%,57%,44%,53%,41%,64%,55%,52%,43%,N.D.,62%,41%,49%,51%,Ciencias Naturales
+OFICIALES URBANOS DE SOACHA,50,Similar,9,Similar,16%,58%,25%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE SOACHA,47,Mayor,8,Similar,24%,60%,16%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE SOACHA,53,Similar,9,Similar,9%,49%,40%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE SOACHA,49,Similar,9,Similar,17%,60%,22%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE SOACHA,53,Similar,9,Similar,10%,51%,37%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+SOGAMOSO,56,,9,,5%,40%,49%,6%,29%,44%,28%,42%,57%,25%,32%,45%,42%,26%,20%,49%,25%,49%,37%,43%,33%,58%,50%,43%,34%,N.D.,54%,32%,41%,39%,Ciencias Naturales
+OFICIALES URBANOS DE SOGAMOSO,55,Similar,9,Similar,5%,45%,47%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE SOGAMOSO,52,Mayor,9,Similar,16%,48%,35%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE SOGAMOSO,59,Similar,10,Similar,5%,31%,54%,11%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE SOGAMOSO,52,Mayor,9,Similar,11%,53%,34%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE SOGAMOSO,57,Similar,9,Similar,3%,36%,54%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+SOLEDAD,50,,11,,23%,48%,27%,3%,44%,54%,38%,52%,64%,40%,44%,55%,54%,38%,35%,61%,37%,59%,47%,55%,47%,64%,58%,54%,46%,N.D.,63%,43%,51%,52%,Ciencias Naturales
+OFICIALES URBANOS DE SOLEDAD,50,Similar,10,Similar,20%,52%,27%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE SOLEDAD,50,Similar,11,Similar,26%,44%,26%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE SOLEDAD,47,Similar,10,Similar,29%,50%,20%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE SOLEDAD,55,Menor,10,Similar,9%,42%,44%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+SUCRE,47,,10,,30%,50%,18%,1%,49%,57%,43%,58%,67%,49%,48%,60%,58%,48%,41%,65%,43%,63%,54%,57%,52%,68%,63%,57%,52%,N.D.,66%,51%,52%,58%,Ciencias Naturales
+OFICIALES URBANOS DE SUCRE,48,Similar,10,Similar,24%,52%,23%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE SUCRE,43,Mayor,8,Mayor,41%,50%,9%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE SUCRE,55,Menor,11,Similar,13%,34%,44%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE SUCRE,42,Mayor,8,Mayor,47%,47%,5%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE SUCRE,48,Similar,10,Similar,26%,52%,21%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE SUCRE,58,Menor,10,Similar,6%,30%,53%,12%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+TOLIMA,47,,9,,26%,54%,19%,1%,45%,58%,41%,57%,68%,45%,47%,59%,57%,45%,38%,65%,41%,62%,51%,58%,49%,68%,63%,59%,52%,N.D.,67%,49%,53%,58%,Ciencias Naturales
+OFICIALES URBANOS DE TOLIMA,48,Similar,9,Similar,23%,55%,20%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE TOLIMA,45,Similar,9,Similar,31%,55%,13%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE TOLIMA,51,Menor,11,Menor,20%,43%,34%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE TOLIMA,44,Similar,8,Similar,38%,53%,8%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE TOLIMA,47,Similar,9,Similar,26%,56%,18%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE TOLIMA,55,Menor,10,Similar,9%,40%,46%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+TULUA,52,,10,,14%,50%,33%,2%,39%,51%,33%,49%,61%,33%,40%,52%,53%,34%,28%,58%,32%,56%,46%,51%,41%,64%,56%,52%,43%,N.D.,63%,40%,47%,50%,Ciencias Naturales
+OFICIALES URBANOS DE TULUA,51,Similar,9,Similar,15%,54%,29%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE TULUA,47,Mayor,9,Similar,26%,57%,17%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE TULUA,57,Menor,9,Similar,5%,36%,53%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE TULUA,47,Mayor,8,Mayor,20%,65%,15%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE TULUA,50,Similar,9,Similar,18%,55%,27%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE TULUA,56,Menor,9,Similar,6%,39%,49%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+TUMACO,42,,9,,51%,41%,8%,0%,58%,64%,52%,64%,71%,59%,59%,67%,66%,58%,51%,71%,55%,69%,61%,64%,61%,72%,69%,65%,61%,N.D.,70%,59%,63%,66%,Ciencias Naturales
+OFICIALES URBANOS DE TUMACO,43,Similar,8,Similar,47%,45%,8%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE TUMACO,40,Similar,7,Mayor,63%,34%,3%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE TUMACO,51,Menor,12,Menor,26%,40%,29%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE TUMACO,40,Similar,7,Mayor,60%,36%,4%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE TUMACO,42,Similar,8,Similar,51%,41%,8%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE TUMACO,55,Menor,10,Similar,9%,43%,42%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+TUNJA,57,,10,,6%,36%,50%,8%,28%,41%,26%,39%,55%,23%,32%,44%,40%,22%,19%,49%,24%,46%,36%,39%,30%,55%,46%,41%,33%,N.D.,53%,31%,38%,38%,Ciencias Naturales
+OFICIALES URBANOS DE TUNJA,56,Similar,10,Similar,7%,40%,47%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE TUNJA,51,Mayor,9,Similar,6%,64%,27%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE TUNJA,60,Similar,10,Similar,4%,26%,58%,13%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE TUNJA,52,Mayor,9,Similar,14%,51%,33%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE TUNJA,59,Similar,9,Similar,3%,31%,58%,8%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE TUNJA,66,Menor,8,Mayor,0%,10%,59%,32%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+TURBO,43,,8,,46%,47%,7%,0%,57%,64%,48%,64%,71%,57%,56%,66%,66%,54%,50%,71%,51%,67%,60%,63%,60%,72%,70%,65%,61%,N.D.,71%,58%,64%,65%,Ciencias Naturales
+OFICIALES URBANOS DE TURBO,42,Similar,8,Similar,47%,46%,6%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE TURBO,42,Similar,8,Similar,49%,45%,6%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE TURBO,48,Menor,9,Similar,24%,59%,16%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE TURBO,39,Mayor,7,Similar,63%,34%,3%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE TURBO,42,Similar,8,Similar,47%,47%,6%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE TURBO,48,Menor,9,Similar,26%,54%,18%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+URIBIA,40,,7,,61%,36%,2%,0%,64%,64%,57%,69%,74%,71%,66%,76%,74%,53%,60%,75%,54%,67%,70%,69%,70%,74%,72%,65%,61%,N.D.,75%,67%,55%,73%,Ciencias Naturales
+OFICIALES URBANOS DE URIBIA,42,Similar,8,Similar,48%,45%,7%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE URIBIA,39,Similar,6,Similar,68%,32%,0%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE URIBIA,39,Similar,6,Similar,65%,34%,1%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE URIBIA,44,Menor,9,Menor,46%,44%,10%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+VALLE DEL CAUCA,49,,10,,22%,52%,24%,2%,42%,55%,38%,54%,64%,40%,44%,57%,55%,41%,35%,61%,38%,61%,49%,55%,47%,65%,61%,56%,49%,N.D.,64%,45%,50%,55%,Ciencias Naturales
+OFICIALES URBANOS DE VALLE DEL CAUCA,49,Similar,10,Similar,22%,52%,25%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE VALLE DEL CAUCA,48,Similar,9,Similar,24%,56%,19%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE VALLE DEL CAUCA,54,Menor,10,Similar,11%,43%,42%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE VALLE DEL CAUCA,46,Similar,8,Mayor,25%,64%,11%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE VALLE DEL CAUCA,49,Similar,10,Similar,23%,53%,23%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE VALLE DEL CAUCA,54,Menor,10,Similar,10%,45%,41%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+VALLEDUPAR,52,,11,,16%,47%,31%,5%,40%,50%,33%,49%,61%,36%,40%,52%,50%,35%,30%,56%,34%,56%,44%,49%,43%,61%,53%,49%,42%,N.D.,59%,40%,45%,49%,Ciencias Naturales
+OFICIALES URBANOS DE VALLEDUPAR,52,Similar,10,Similar,14%,51%,31%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE VALLEDUPAR,45,Mayor,9,Mayor,31%,57%,11%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE VALLEDUPAR,55,Similar,12,Similar,16%,34%,40%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE VALLEDUPAR,44,Mayor,7,Mayor,27%,70%,3%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE VALLEDUPAR,49,Similar,10,Similar,20%,54%,24%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE VALLEDUPAR,59,Menor,11,Similar,6%,29%,51%,14%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+VAUPES,43,,8,,43%,50%,6%,0%,50%,62%,49%,62%,77%,60%,59%,69%,70%,49%,49%,77%,49%,55%,62%,64%,60%,75%,69%,60%,54%,N.D.,70%,61%,55%,71%,Ciencias Naturales
+OFICIALES URBANOS DE VAUPES,45,Similar,8,Similar,29%,61%,9%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE VAUPES,39,Mayor,6,Mayor,68%,31%,1%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE VAUPES,36,Mayor,0,Mayor,100%,0%,0%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE VAUPES,42,Similar,8,Similar,47%,47%,6%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE VAUPES,45,Similar,8,Similar,27%,64%,8%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+VICHADA,45,,8,,32%,55%,13%,0%,47%,58%,49%,61%,67%,60%,47%,64%,68%,48%,47%,70%,45%,61%,59%,63%,59%,72%,64%,57%,56%,N.D.,70%,57%,54%,65%,Ciencias Naturales
+OFICIALES URBANOS DE VICHADA,47,Similar,8,Similar,23%,58%,19%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE VICHADA,42,Similar,7,Similar,45%,50%,5%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE VICHADA,41,Mayor,5,Mayor,45%,55%,0%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE VICHADA,47,Similar,9,Similar,28%,55%,18%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+VILLAVICENCIO,52,,10,,13%,48%,35%,4%,36%,51%,32%,48%,60%,33%,40%,51%,51%,33%,28%,57%,31%,55%,45%,49%,40%,61%,54%,50%,40%,N.D.,60%,39%,47%,47%,Ciencias Naturales
+OFICIALES URBANOS DE VILLAVICENCIO,52,Similar,9,Similar,12%,52%,34%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE VILLAVICENCIO,53,Similar,10,Similar,10%,48%,40%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE VILLAVICENCIO,53,Similar,12,Menor,17%,38%,36%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE VILLAVICENCIO,49,Similar,4,Mayor,0%,100%,0%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE VILLAVICENCIO,49,Similar,9,Similar,21%,55%,23%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE VILLAVICENCIO,55,Similar,10,Similar,7%,44%,43%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE VILLAVICENCIO,67,Menor,8,Mayor,2%,4%,60%,34%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+YOPAL,53,,10,,10%,49%,36%,4%,35%,49%,32%,48%,59%,31%,38%,50%,48%,33%,26%,55%,29%,54%,44%,48%,40%,61%,54%,50%,40%,N.D.,60%,37%,44%,46%,Ciencias Naturales
+OFICIALES URBANOS DE YOPAL,52,Similar,9,Similar,10%,53%,34%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE YOPAL,49,Mayor,9,Similar,20%,54%,26%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE YOPAL,60,Menor,10,Similar,4%,28%,54%,14%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 1 DE YOPAL,47,Mayor,10,Similar,33%,33%,33%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE YOPAL,51,Similar,9,Similar,13%,56%,30%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE YOPAL,59,Menor,9,Similar,3%,29%,57%,11%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE YOPAL,66,Menor,10,Similar,7%,0%,60%,33%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+YUMBO,49,,9,,21%,53%,26%,0%,46%,57%,38%,54%,66%,41%,45%,58%,58%,42%,36%,63%,39%,62%,51%,57%,45%,67%,62%,56%,49%,N.D.,67%,43%,52%,53%,Ciencias Naturales
+OFICIALES URBANOS DE YUMBO,49,Similar,9,Similar,21%,50%,28%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE YUMBO,48,Similar,8,Similar,19%,60%,20%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE YUMBO,47,Similar,9,Similar,26%,58%,17%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE YUMBO,47,Similar,9,Similar,26%,53%,20%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE YUMBO,51,Similar,9,Similar,15%,51%,33%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+ZIPAQUIRA,55,,9,,6%,42%,48%,5%,29%,45%,28%,43%,58%,27%,35%,49%,44%,25%,20%,53%,26%,49%,38%,41%,34%,59%,50%,45%,34%,N.D.,55%,32%,43%,41%,Ciencias Naturales
+OFICIALES URBANOS DE ZIPAQUIRA,54,Similar,9,Similar,8%,49%,41%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+OFICIALES RURALES DE ZIPAQUIRA,51,Mayor,9,Similar,10%,58%,30%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+PRIVADOS DE ZIPAQUIRA,59,Menor,9,Similar,3%,27%,61%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 2 DE ZIPAQUIRA,48,Mayor,8,Similar,16%,64%,20%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 3 DE ZIPAQUIRA,57,Similar,9,Similar,4%,38%,52%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales
+GC 4 DE ZIPAQUIRA,63,Menor,7,Mayor,0%,10%,78%,12%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Ciencias Naturales

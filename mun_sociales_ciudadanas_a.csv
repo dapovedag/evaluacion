@@ -1,0 +1,663 @@
+pai_et_municipios,promedio,comparacion_psyc,desviacion,comparacion_dsyc,desempeno_1,desempeno_2,desempeno_3,desempeno_4,aprendizaje_1,aprendizaje_2,aprendizaje_3,aprendizaje_4,aprendizaje_5,aprendizaje_6,Competencia
+AMAZONAS,43,,10,,48%,38%,12%,1%,51%,65%,65%,68%,62%,65%,Sociales y Ciudadanas
+OFICIALES URBANOS DE AMAZONAS,44,Similar,10,Similar,42%,43%,14%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE AMAZONAS,38,Mayor,7,Mayor,72%,26%,2%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE AMAZONAS,56,Menor,10,Similar,12%,38%,36%,14%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE AMAZONAS,38,Mayor,7,Mayor,70%,27%,2%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE AMAZONAS,43,Similar,10,Similar,48%,40%,12%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE AMAZONAS,57,Menor,10,Similar,10%,38%,38%,15%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+ANTIOQUIA,47,,11,,33%,44%,21%,2%,44%,59%,60%,63%,59%,58%,Sociales y Ciudadanas
+OFICIALES URBANOS DE ANTIOQUIA,48,Similar,11,Similar,28%,46%,24%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE ANTIOQUIA,43,Mayor,10,Similar,46%,42%,12%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE ANTIOQUIA,55,Menor,12,Similar,12%,35%,45%,8%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE ANTIOQUIA,40,Mayor,9,Mayor,57%,36%,6%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE ANTIOQUIA,46,Similar,11,Similar,35%,45%,18%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE ANTIOQUIA,53,Menor,11,Similar,14%,43%,39%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE ANTIOQUIA,61,Menor,12,Similar,7%,19%,54%,20%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+APARTADO,47,,11,,32%,45%,20%,3%,42%,59%,59%,60%,60%,56%,Sociales y Ciudadanas
+OFICIALES URBANOS DE APARTADO,47,Similar,11,Similar,30%,49%,19%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE APARTADO,43,Mayor,9,Mayor,50%,41%,10%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE APARTADO,54,Menor,13,Menor,21%,29%,38%,11%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE APARTADO,40,Mayor,9,Mayor,64%,30%,6%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE APARTADO,46,Similar,10,Similar,34%,49%,16%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE APARTADO,57,Menor,11,Similar,9%,33%,46%,11%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+ARAUCA,47,,11,,31%,45%,22%,3%,40%,58%,59%,59%,58%,57%,Sociales y Ciudadanas
+OFICIALES URBANOS DE ARAUCA,48,Similar,11,Similar,28%,45%,24%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE ARAUCA,44,Similar,9,Mayor,39%,47%,13%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE ARAUCA,50,Similar,13,Menor,27%,36%,30%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE ARAUCA,42,Mayor,9,Mayor,45%,48%,6%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE ARAUCA,47,Similar,11,Similar,32%,45%,21%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE ARAUCA,54,Menor,11,Similar,12%,40%,39%,8%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+ARMENIA,54,,12,,15%,37%,39%,8%,31%,47%,51%,53%,50%,47%,Sociales y Ciudadanas
+OFICIALES URBANOS DE ARMENIA,53,Similar,12,Similar,18%,39%,37%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE ARMENIA,57,Similar,10,Mayor,6%,45%,39%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE ARMENIA,61,Menor,12,Similar,5%,26%,49%,21%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE ARMENIA,49,Mayor,11,Similar,24%,44%,29%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE ARMENIA,57,Similar,12,Similar,10%,33%,45%,11%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE ARMENIA,60,Menor,10,Mayor,3%,26%,61%,11%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+ATLANTICO,44,,11,,44%,39%,16%,2%,48%,63%,62%,64%,62%,61%,Sociales y Ciudadanas
+OFICIALES URBANOS DE ATLANTICO,44,Similar,11,Similar,45%,39%,15%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE ATLANTICO,41,Similar,10,Similar,54%,37%,9%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE ATLANTICO,55,Menor,12,Similar,13%,37%,40%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE ATLANTICO,40,Mayor,9,Mayor,60%,31%,9%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE ATLANTICO,43,Similar,10,Similar,47%,39%,13%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE ATLANTICO,52,Menor,11,Similar,16%,44%,34%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE ATLANTICO,63,Menor,9,Mayor,3%,13%,63%,22%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+BARRANCABERMEJA,51,,12,,24%,39%,30%,6%,37%,52%,55%,62%,53%,49%,Sociales y Ciudadanas
+OFICIALES URBANOS DE BARRANCABERMEJA,49,Similar,12,Similar,26%,42%,29%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE BARRANCABERMEJA,45,Mayor,10,Mayor,39%,44%,16%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE BARRANCABERMEJA,61,Menor,11,Similar,4%,25%,48%,23%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE BARRANCABERMEJA,47,Mayor,11,Similar,32%,43%,22%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE BARRANCABERMEJA,57,Menor,12,Similar,10%,33%,44%,13%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE BARRANCABERMEJA,68,Menor,7,Mayor,0%,4%,58%,38%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+BARRANQUILLA,50,,12,,26%,39%,30%,5%,37%,53%,55%,58%,55%,51%,Sociales y Ciudadanas
+OFICIALES URBANOS DE BARRANQUILLA,49,Similar,12,Similar,29%,41%,27%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE BARRANQUILLA,55,Menor,13,Similar,17%,34%,39%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE BARRANQUILLA,42,Mayor,11,Similar,49%,38%,13%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE BARRANQUILLA,46,Mayor,11,Similar,37%,42%,20%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE BARRANQUILLA,55,Menor,12,Similar,13%,36%,41%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE BARRANQUILLA,67,Menor,10,Mayor,2%,8%,57%,34%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+BELLO,51,,11,,21%,42%,33%,4%,36%,52%,54%,60%,53%,52%,Sociales y Ciudadanas
+OFICIALES URBANOS DE BELLO,50,Similar,11,Similar,21%,45%,31%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE BELLO,49,Similar,12,Similar,34%,32%,32%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE BELLO,53,Similar,12,Similar,19%,36%,38%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE BELLO,48,Similar,11,Similar,29%,45%,24%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE BELLO,54,Similar,11,Similar,12%,40%,42%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+BOGOTA,53,,11,,16%,43%,36%,5%,33%,49%,52%,61%,51%,50%,Sociales y Ciudadanas
+OFICIALES URBANOS DE BOGOTA,50,Similar,10,Similar,20%,49%,29%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE BOGOTA,46,Mayor,9,Mayor,30%,54%,14%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE BOGOTA,57,Menor,11,Similar,9%,34%,47%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE BOGOTA,47,Mayor,8,Mayor,30%,60%,10%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE BOGOTA,47,Mayor,10,Similar,28%,51%,21%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE BOGOTA,53,Similar,11,Similar,13%,43%,39%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+BOLIVAR,43,,11,,51%,35%,12%,2%,52%,65%,64%,61%,64%,64%,Sociales y Ciudadanas
+OFICIALES URBANOS DE BOLIVAR,43,Similar,11,Similar,48%,38%,13%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE BOLIVAR,39,Mayor,9,Mayor,64%,31%,5%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE BOLIVAR,56,Menor,13,Menor,14%,33%,39%,13%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE BOLIVAR,39,Mayor,8,Mayor,65%,30%,4%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE BOLIVAR,42,Similar,10,Similar,52%,36%,11%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE BOLIVAR,57,Menor,12,Similar,10%,33%,42%,15%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+BOYACA,50,,11,,22%,45%,29%,3%,37%,54%,56%,61%,55%,54%,Sociales y Ciudadanas
+OFICIALES URBANOS DE BOYACA,50,Similar,11,Similar,21%,46%,30%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE BOYACA,47,Similar,10,Similar,30%,48%,22%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE BOYACA,59,Menor,11,Similar,6%,28%,50%,16%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE BOYACA,46,Mayor,10,Similar,34%,47%,19%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE BOYACA,49,Similar,11,Similar,24%,47%,27%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE BOYACA,57,Menor,11,Similar,8%,34%,47%,11%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE BOYACA,66,Menor,10,Similar,0%,15%,56%,29%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+BUCARAMANGA,55,,12,,13%,36%,40%,10%,29%,44%,48%,52%,48%,44%,Sociales y Ciudadanas
+OFICIALES URBANOS DE BUCARAMANGA,54,Similar,11,Similar,15%,41%,37%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE BUCARAMANGA,45,Mayor,11,Similar,34%,44%,21%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE BUCARAMANGA,60,Menor,12,Similar,8%,24%,47%,20%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE BUCARAMANGA,49,Mayor,11,Similar,23%,48%,27%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE BUCARAMANGA,58,Similar,12,Similar,9%,31%,47%,13%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE BUCARAMANGA,69,Menor,10,Mayor,1%,7%,43%,48%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+BUENAVENTURA,43,,11,,49%,37%,13%,1%,51%,65%,64%,64%,64%,61%,Sociales y Ciudadanas
+OFICIALES URBANOS DE BUENAVENTURA,42,Similar,10,Similar,51%,37%,11%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE BUENAVENTURA,39,Mayor,9,Mayor,66%,30%,4%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE BUENAVENTURA,48,Menor,12,Similar,30%,42%,24%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE BUENAVENTURA,36,Mayor,6,Mayor,80%,19%,1%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE BUENAVENTURA,41,Similar,10,Similar,54%,37%,9%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE BUENAVENTURA,51,Menor,11,Similar,19%,45%,31%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+BUGA,51,,11,,20%,45%,31%,5%,33%,52%,54%,53%,54%,52%,Sociales y Ciudadanas
+OFICIALES URBANOS DE BUGA,52,Similar,11,Similar,18%,44%,33%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE BUGA,47,Mayor,9,Mayor,26%,57%,15%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE BUGA,49,Similar,11,Similar,29%,42%,21%,8%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE BUGA,45,Mayor,8,Mayor,29%,59%,12%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE BUGA,51,Similar,11,Similar,20%,47%,29%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE BUGA,54,Similar,11,Similar,18%,33%,42%,8%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+CALDAS,48,,11,,28%,47%,23%,2%,42%,58%,60%,63%,59%,58%,Sociales y Ciudadanas
+OFICIALES URBANOS DE CALDAS,49,Similar,11,Similar,26%,47%,25%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE CALDAS,46,Similar,10,Similar,34%,50%,16%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE CALDAS,55,Menor,12,Similar,12%,39%,40%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE CALDAS,45,Similar,9,Mayor,37%,50%,12%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE CALDAS,47,Similar,11,Similar,29%,48%,22%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE CALDAS,53,Menor,12,Similar,15%,40%,38%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+CALI,48,,11,,28%,43%,27%,2%,52%,43%,58%,57%,45%,58%,Sociales y Ciudadanas
+OFICIALES URBANOS DE CALI,48,Similar,11,Similar,28%,43%,26%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE CALI,47,Similar,11,Similar,28%,48%,23%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE CALI,49,Similar,11,Similar,26%,42%,29%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE CALI,50,Similar,0,Mayor,0%,100%,0%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE CALI,46,Similar,11,Similar,35%,44%,19%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE CALI,51,Similar,11,Similar,20%,42%,35%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+CAQUETA,46,,10,,35%,47%,17%,1%,44%,62%,62%,60%,61%,61%,Sociales y Ciudadanas
+OFICIALES URBANOS DE CAQUETA,46,Similar,10,Similar,31%,48%,19%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE CAQUETA,43,Similar,9,Similar,46%,44%,10%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE CAQUETA,50,Menor,9,Similar,11%,78%,0%,11%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE CAQUETA,42,Mayor,9,Similar,48%,44%,8%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE CAQUETA,46,Similar,10,Similar,33%,48%,18%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+CARTAGENA,47,,12,,36%,37%,23%,4%,42%,57%,58%,61%,59%,57%,Sociales y Ciudadanas
+OFICIALES URBANOS DE CARTAGENA,45,Similar,11,Similar,40%,40%,18%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE CARTAGENA,41,Mayor,10,Mayor,58%,32%,10%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE CARTAGENA,54,Menor,13,Similar,19%,32%,38%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE CARTAGENA,41,Mayor,10,Mayor,52%,37%,11%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE CARTAGENA,44,Similar,11,Similar,44%,39%,15%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE CARTAGENA,55,Menor,12,Similar,15%,34%,42%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE CARTAGENA,64,Menor,10,Mayor,1%,16%,58%,25%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+CARTAGO,50,,12,,23%,46%,27%,4%,37%,54%,56%,64%,57%,52%,Sociales y Ciudadanas
+OFICIALES URBANOS DE CARTAGO,50,Similar,12,Similar,23%,46%,27%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE CARTAGO,47,Similar,11,Similar,29%,49%,22%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE CARTAGO,52,Similar,11,Similar,21%,49%,25%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE CARTAGO,47,Similar,11,Similar,29%,48%,21%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE CARTAGO,53,Similar,12,Similar,17%,44%,33%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+CASANARE,49,,11,,26%,46%,25%,3%,40%,57%,58%,61%,57%,56%,Sociales y Ciudadanas
+OFICIALES URBANOS DE CASANARE,49,Similar,11,Similar,24%,47%,27%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE CASANARE,46,Similar,11,Similar,35%,44%,18%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE CASANARE,49,Similar,13,Menor,31%,39%,24%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE CASANARE,46,Similar,12,Similar,36%,45%,17%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE CASANARE,49,Similar,11,Similar,26%,47%,25%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE CASANARE,53,Menor,11,Similar,14%,43%,38%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+CAUCA,43,,10,,46%,41%,12%,1%,49%,65%,66%,66%,61%,64%,Sociales y Ciudadanas
+OFICIALES URBANOS DE CAUCA,45,Similar,11,Similar,40%,42%,16%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE CAUCA,42,Similar,9,Similar,52%,40%,8%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE CAUCA,47,Menor,12,Menor,38%,35%,23%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE CAUCA,40,Similar,8,Mayor,57%,38%,6%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE CAUCA,44,Similar,10,Similar,44%,42%,14%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE CAUCA,52,Menor,12,Menor,22%,36%,35%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+CESAR,45,,11,,38%,45%,15%,1%,47%,62%,62%,63%,62%,61%,Sociales y Ciudadanas
+OFICIALES URBANOS DE CESAR,46,Similar,11,Similar,35%,47%,17%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE CESAR,42,Similar,10,Similar,47%,42%,10%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE CESAR,50,Menor,13,Menor,28%,38%,28%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE CESAR,42,Similar,10,Similar,50%,41%,8%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE CESAR,45,Similar,11,Similar,38%,45%,15%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE CESAR,54,Menor,12,Similar,16%,41%,33%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+CHIA,55,,11,,12%,37%,44%,8%,29%,44%,49%,58%,48%,44%,Sociales y Ciudadanas
+OFICIALES URBANOS DE CHIA,52,Similar,11,Similar,17%,39%,41%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE CHIA,53,Similar,11,Similar,15%,44%,35%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE CHIA,58,Similar,11,Similar,7%,32%,49%,11%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE CHIA,54,Similar,11,Similar,16%,39%,39%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE CHIA,54,Similar,11,Similar,13%,39%,42%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE CHIA,63,Menor,11,Similar,3%,18%,59%,20%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+CHOCO,38,,9,,69%,25%,5%,1%,62%,72%,70%,69%,68%,70%,Sociales y Ciudadanas
+OFICIALES URBANOS DE CHOCO,40,Similar,9,Similar,62%,31%,7%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE CHOCO,36,Similar,8,Similar,79%,18%,3%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE CHOCO,52,Menor,11,Menor,17%,39%,44%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE CHOCO,36,Similar,9,Similar,79%,17%,4%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE CHOCO,39,Similar,9,Similar,67%,27%,6%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+CIENAGA,43,,11,,49%,36%,14%,1%,50%,64%,64%,68%,66%,63%,Sociales y Ciudadanas
+OFICIALES URBANOS DE CIENAGA,42,Similar,10,Similar,52%,36%,12%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE CIENAGA,40,Similar,9,Mayor,58%,33%,9%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE CIENAGA,48,Menor,12,Similar,32%,38%,27%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE CIENAGA,37,Mayor,7,Mayor,71%,27%,2%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE CIENAGA,42,Similar,10,Similar,52%,36%,11%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE CIENAGA,53,Menor,12,Similar,15%,40%,41%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+CORDOBA,44,,11,,43%,41%,15%,1%,48%,63%,62%,62%,62%,63%,Sociales y Ciudadanas
+OFICIALES URBANOS DE CORDOBA,45,Similar,11,Similar,39%,43%,17%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE CORDOBA,42,Similar,10,Similar,50%,40%,10%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE CORDOBA,55,Menor,14,Menor,20%,28%,41%,11%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE CORDOBA,41,Similar,9,Mayor,54%,38%,8%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE CORDOBA,45,Similar,11,Similar,40%,42%,16%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE CORDOBA,60,Menor,10,Similar,5%,26%,56%,14%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+CUCUTA,51,,12,,21%,41%,32%,6%,35%,51%,54%,56%,54%,49%,Sociales y Ciudadanas
+OFICIALES URBANOS DE CUCUTA,51,Similar,12,Similar,21%,42%,32%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE CUCUTA,46,Mayor,11,Similar,35%,46%,18%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE CUCUTA,52,Similar,13,Similar,21%,38%,33%,8%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE CUCUTA,46,Mayor,0,Mayor,0%,100%,0%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE CUCUTA,49,Similar,11,Similar,27%,44%,27%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE CUCUTA,57,Menor,12,Similar,9%,34%,45%,12%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE CUCUTA,65,Menor,10,Mayor,2%,17%,50%,32%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+CUNDINAMARCA,51,,11,,20%,45%,31%,4%,36%,52%,55%,62%,53%,53%,Sociales y Ciudadanas
+OFICIALES URBANOS DE CUNDINAMARCA,50,Similar,10,Similar,22%,48%,28%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE CUNDINAMARCA,49,Similar,11,Similar,26%,48%,25%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE CUNDINAMARCA,57,Menor,11,Similar,9%,34%,47%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE CUNDINAMARCA,45,Mayor,10,Similar,38%,45%,17%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE CUNDINAMARCA,48,Similar,10,Similar,25%,49%,24%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE CUNDINAMARCA,54,Similar,11,Similar,13%,42%,39%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE CUNDINAMARCA,64,Menor,9,Mayor,1%,17%,58%,24%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+DOS QUEBRADAS,53,,11,,14%,46%,37%,4%,32%,48%,53%,62%,52%,51%,Sociales y Ciudadanas
+OFICIALES URBANOS DE DOS QUEBRADAS,52,Similar,10,Similar,14%,48%,36%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE DOS QUEBRADAS,49,Mayor,9,Mayor,19%,56%,25%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE DOS QUEBRADAS,58,Menor,12,Similar,8%,34%,46%,12%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE DOS QUEBRADAS,50,Similar,10,Similar,19%,51%,28%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE DOS QUEBRADAS,53,Similar,11,Similar,12%,45%,39%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+DUITAMA,55,,11,,10%,39%,42%,8%,30%,44%,49%,55%,49%,45%,Sociales y Ciudadanas
+OFICIALES URBANOS DE DUITAMA,54,Similar,11,Similar,11%,44%,39%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE DUITAMA,53,Similar,11,Similar,15%,45%,35%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE DUITAMA,58,Similar,11,Similar,8%,29%,49%,15%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE DUITAMA,52,Similar,11,Similar,17%,47%,32%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE DUITAMA,58,Similar,11,Similar,5%,34%,49%,12%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+ENVIGADO,56,,11,,10%,37%,45%,8%,29%,42%,48%,55%,44%,43%,Sociales y Ciudadanas
+OFICIALES URBANOS DE ENVIGADO,53,Similar,10,Similar,13%,44%,39%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE ENVIGADO,49,Mayor,10,Similar,16%,56%,26%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE ENVIGADO,60,Menor,10,Similar,5%,26%,54%,15%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE ENVIGADO,55,Similar,11,Similar,11%,41%,42%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE ENVIGADO,62,Menor,10,Similar,3%,20%,58%,19%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+FACATATIVA,54,,11,,14%,41%,40%,6%,30%,46%,50%,56%,49%,50%,Sociales y Ciudadanas
+OFICIALES URBANOS DE FACATATIVA,53,Similar,11,Similar,15%,42%,38%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE FACATATIVA,52,Similar,10,Similar,15%,49%,33%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE FACATATIVA,56,Similar,11,Similar,11%,35%,45%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE FACATATIVA,51,Similar,10,Similar,19%,46%,32%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE FACATATIVA,57,Similar,11,Similar,9%,36%,47%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE FACATATIVA,63,Menor,8,Mayor,0%,25%,50%,25%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+FLORENCIA,51,,11,,21%,43%,32%,4%,35%,52%,54%,58%,53%,52%,Sociales y Ciudadanas
+OFICIALES URBANOS DE FLORENCIA,51,Similar,11,Similar,19%,46%,31%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE FLORENCIA,44,Mayor,10,Similar,43%,42%,13%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE FLORENCIA,55,Menor,13,Menor,17%,31%,41%,11%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE FLORENCIA,44,Mayor,9,Mayor,39%,53%,8%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE FLORENCIA,49,Similar,11,Similar,26%,45%,27%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE FLORENCIA,57,Menor,11,Similar,6%,39%,46%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE FLORENCIA,71,Menor,1,Mayor,0%,0%,25%,75%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+FLORIDABLANCA,56,,12,,10%,36%,43%,10%,28%,42%,47%,54%,48%,41%,Sociales y Ciudadanas
+OFICIALES URBANOS DE FLORIDABLANCA,54,Similar,11,Similar,12%,41%,41%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE FLORIDABLANCA,51,Mayor,12,Similar,23%,43%,31%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE FLORIDABLANCA,60,Menor,11,Similar,5%,26%,49%,19%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE FLORIDABLANCA,52,Mayor,11,Similar,16%,45%,35%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE FLORIDABLANCA,57,Similar,11,Similar,8%,34%,47%,11%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE FLORIDABLANCA,65,Menor,10,Mayor,1%,16%,52%,30%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+FUNZA,53,,11,,13%,42%,41%,4%,32%,46%,52%,54%,50%,52%,Sociales y Ciudadanas
+OFICIALES URBANOS DE FUNZA,51,Similar,10,Similar,14%,50%,33%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE FUNZA,50,Similar,12,Similar,22%,40%,34%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE FUNZA,55,Similar,11,Similar,10%,37%,48%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE FUNZA,53,Similar,11,Similar,13%,42%,41%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+FUSAGASUGA,52,,11,,19%,42%,34%,4%,34%,51%,55%,61%,51%,49%,Sociales y Ciudadanas
+OFICIALES URBANOS DE FUSAGASUGA,49,Similar,11,Similar,23%,46%,28%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE FUSAGASUGA,53,Similar,11,Similar,14%,41%,39%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE FUSAGASUGA,55,Similar,12,Similar,14%,35%,43%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE FUSAGASUGA,49,Similar,11,Similar,23%,46%,29%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE FUSAGASUGA,54,Similar,11,Similar,15%,37%,41%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GIRARDOT,49,,11,,28%,42%,27%,3%,39%,56%,57%,65%,57%,54%,Sociales y Ciudadanas
+OFICIALES URBANOS DE GIRARDOT,45,Mayor,10,Similar,37%,44%,18%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE GIRARDOT,42,Mayor,10,Similar,45%,47%,8%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE GIRARDOT,53,Menor,11,Similar,17%,40%,38%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE GIRARDOT,44,Mayor,10,Similar,41%,43%,16%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE GIRARDOT,51,Similar,11,Similar,20%,42%,33%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GIRON,52,,12,,18%,42%,35%,5%,32%,50%,53%,61%,53%,47%,Sociales y Ciudadanas
+OFICIALES URBANOS DE GIRON,52,Similar,11,Similar,18%,44%,34%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE GIRON,50,Similar,11,Similar,22%,47%,30%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE GIRON,59,Menor,12,Similar,9%,28%,46%,18%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE GIRON,51,Similar,12,Similar,20%,44%,32%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE GIRON,55,Similar,12,Similar,13%,39%,39%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GUAINIA,42,,10,,53%,36%,10%,0%,54%,68%,71%,72%,58%,67%,Sociales y Ciudadanas
+OFICIALES URBANOS DE GUAINIA,44,Similar,11,Similar,43%,41%,15%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE GUAINIA,39,Similar,7,Mayor,69%,29%,2%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE GUAINIA,38,Mayor,8,Mayor,69%,27%,4%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE GUAINIA,47,Menor,10,Similar,29%,50%,20%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GUAVIARE,46,,10,,32%,48%,19%,1%,43%,61%,62%,62%,61%,58%,Sociales y Ciudadanas
+OFICIALES URBANOS DE GUAVIARE,49,Similar,10,Similar,22%,52%,24%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE GUAVIARE,42,Mayor,9,Similar,48%,41%,11%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE GUAVIARE,46,Similar,12,Menor,37%,45%,16%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE GUAVIARE,43,Similar,9,Similar,45%,43%,12%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE GUAVIARE,46,Similar,10,Similar,31%,49%,19%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE GUAVIARE,51,Menor,12,Menor,21%,45%,29%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+HUILA,48,,11,,28%,47%,22%,2%,40%,58%,60%,61%,57%,59%,Sociales y Ciudadanas
+OFICIALES URBANOS DE HUILA,48,Similar,11,Similar,26%,49%,23%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE HUILA,46,Similar,10,Similar,33%,47%,18%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE HUILA,57,Menor,12,Similar,9%,32%,46%,13%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE HUILA,45,Similar,10,Similar,35%,50%,14%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE HUILA,47,Similar,11,Similar,30%,48%,21%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE HUILA,52,Menor,12,Similar,16%,44%,34%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE HUILA,69,Menor,7,Mayor,0%,0%,61%,39%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+IBAGUE,51,,12,,20%,43%,33%,5%,34%,51%,53%,60%,53%,48%,Sociales y Ciudadanas
+OFICIALES URBANOS DE IBAGUE,50,Similar,11,Similar,22%,46%,29%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE IBAGUE,46,Mayor,10,Mayor,34%,48%,17%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE IBAGUE,58,Menor,12,Similar,9%,30%,48%,13%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE IBAGUE,45,Mayor,12,Similar,40%,40%,20%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE IBAGUE,48,Similar,10,Mayor,28%,48%,23%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE IBAGUE,54,Similar,11,Similar,14%,40%,39%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE IBAGUE,63,Menor,11,Similar,4%,19%,53%,24%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+IPIALES,53,,11,,14%,43%,38%,6%,34%,49%,52%,56%,51%,53%,Sociales y Ciudadanas
+OFICIALES URBANOS DE IPIALES,55,Similar,11,Similar,9%,41%,43%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE IPIALES,48,Mayor,11,Similar,22%,55%,20%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE IPIALES,51,Similar,12,Similar,22%,38%,36%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE IPIALES,45,Mayor,10,Similar,30%,57%,13%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE IPIALES,52,Similar,11,Similar,15%,46%,34%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE IPIALES,57,Menor,12,Similar,8%,32%,49%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+ITAGUI,53,,11,,15%,42%,39%,5%,32%,48%,52%,60%,53%,49%,Sociales y Ciudadanas
+OFICIALES URBANOS DE ITAGUI,53,Similar,11,Similar,15%,43%,39%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE ITAGUI,48,Mayor,11,Similar,26%,50%,22%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE ITAGUI,56,Similar,12,Similar,12%,33%,46%,8%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE ITAGUI,50,Similar,11,Similar,20%,47%,29%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE ITAGUI,54,Similar,11,Similar,13%,41%,41%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE ITAGUI,66,Menor,7,Mayor,0%,11%,70%,20%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+JAMUNDI,50,,11,,25%,44%,28%,3%,37%,54%,56%,61%,53%,51%,Sociales y Ciudadanas
+OFICIALES URBANOS DE JAMUNDI,51,Similar,11,Similar,21%,41%,35%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE JAMUNDI,46,Mayor,10,Similar,33%,47%,19%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE JAMUNDI,54,Menor,11,Similar,12%,42%,38%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE JAMUNDI,41,Mayor,8,Mayor,33%,67%,0%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE JAMUNDI,48,Similar,11,Similar,29%,46%,24%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE JAMUNDI,54,Menor,11,Similar,15%,39%,40%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+LA ESTRELLA,54,,11,,14%,41%,39%,6%,31%,46%,50%,57%,50%,47%,Sociales y Ciudadanas
+OFICIALES URBANOS DE LA ESTRELLA,49,Mayor,10,Similar,23%,49%,26%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE LA ESTRELLA,59,Menor,10,Similar,5%,32%,52%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE LA ESTRELLA,47,Mayor,10,Similar,27%,53%,19%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE LA ESTRELLA,55,Similar,11,Similar,12%,39%,44%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE LA ESTRELLA,61,Menor,10,Similar,3%,27%,49%,21%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+LA GUAJIRA,43,,11,,48%,37%,14%,1%,52%,65%,65%,64%,64%,66%,Sociales y Ciudadanas
+OFICIALES URBANOS DE LA GUAJIRA,45,Similar,10,Similar,41%,43%,15%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE LA GUAJIRA,38,Mayor,9,Mayor,66%,28%,6%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE LA GUAJIRA,51,Menor,12,Similar,21%,38%,37%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE LA GUAJIRA,36,Mayor,8,Mayor,76%,20%,3%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE LA GUAJIRA,43,Similar,10,Similar,44%,42%,13%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE LA GUAJIRA,53,Menor,12,Similar,18%,38%,39%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+LORICA,45,,11,,42%,40%,16%,2%,47%,63%,62%,58%,61%,63%,Sociales y Ciudadanas
+OFICIALES URBANOS DE LORICA,45,Similar,11,Similar,41%,42%,16%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE LORICA,42,Similar,10,Similar,50%,39%,10%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE LORICA,58,Menor,12,Similar,9%,31%,47%,13%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE LORICA,43,Similar,10,Similar,48%,40%,11%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE LORICA,44,Similar,10,Similar,45%,41%,13%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE LORICA,58,Menor,12,Similar,9%,31%,47%,13%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+MAGANGUE,45,,11,,41%,41%,16%,2%,47%,62%,61%,62%,62%,62%,Sociales y Ciudadanas
+OFICIALES URBANOS DE MAGANGUE,45,Similar,11,Similar,42%,42%,15%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE MAGANGUE,42,Similar,10,Similar,52%,38%,10%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE MAGANGUE,53,Menor,12,Similar,15%,44%,34%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE MAGANGUE,44,Similar,10,Similar,45%,41%,13%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE MAGANGUE,56,Menor,12,Similar,10%,41%,40%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+MAGDALENA,42,,10,,51%,37%,11%,1%,51%,66%,65%,63%,66%,65%,Sociales y Ciudadanas
+OFICIALES URBANOS DE MAGDALENA,43,Similar,10,Similar,47%,39%,12%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE MAGDALENA,40,Similar,9,Similar,58%,35%,7%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE MAGDALENA,50,Menor,13,Menor,26%,38%,31%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE MAGDALENA,41,Similar,9,Similar,56%,37%,7%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE MAGDALENA,42,Similar,10,Similar,52%,37%,10%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE MAGDALENA,53,Menor,12,Menor,12%,44%,39%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+MAICAO,45,,12,,41%,40%,17%,2%,47%,61%,63%,62%,61%,60%,Sociales y Ciudadanas
+OFICIALES URBANOS DE MAICAO,46,Similar,11,Similar,34%,46%,19%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE MAICAO,37,Mayor,8,Mayor,72%,26%,2%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE MAICAO,58,Menor,12,Similar,12%,27%,45%,15%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE MAICAO,39,Mayor,10,Mayor,64%,28%,7%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE MAICAO,46,Similar,11,Similar,33%,47%,19%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE MAICAO,58,Menor,12,Similar,12%,27%,45%,15%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+MALAMBO,46,,12,,37%,40%,20%,3%,46%,60%,60%,58%,59%,58%,Sociales y Ciudadanas
+OFICIALES URBANOS DE MALAMBO,44,Similar,10,Mayor,43%,42%,14%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE MALAMBO,43,Similar,9,Mayor,49%,41%,11%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE MALAMBO,49,Similar,13,Similar,30%,37%,28%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE MALAMBO,45,Similar,11,Similar,39%,40%,19%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE MALAMBO,59,Menor,11,Similar,5%,29%,50%,16%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+MANIZALES,53,,12,,18%,41%,35%,6%,34%,49%,53%,60%,51%,51%,Sociales y Ciudadanas
+OFICIALES URBANOS DE MANIZALES,51,Similar,11,Similar,19%,45%,32%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE MANIZALES,45,Mayor,10,Mayor,41%,43%,15%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE MANIZALES,60,Menor,11,Similar,6%,25%,53%,15%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE MANIZALES,45,Mayor,8,Mayor,28%,67%,6%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE MANIZALES,47,Mayor,10,Mayor,32%,48%,19%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE MANIZALES,55,Similar,11,Similar,12%,38%,42%,8%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE MANIZALES,62,Menor,10,Mayor,4%,15%,63%,19%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+MEDELLIN,50,,11,,22%,44%,30%,4%,37%,52%,55%,62%,54%,52%,Sociales y Ciudadanas
+OFICIALES URBANOS DE MEDELLIN,49,Similar,11,Similar,24%,47%,26%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE MEDELLIN,48,Similar,11,Similar,28%,43%,25%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE MEDELLIN,56,Menor,12,Similar,12%,33%,46%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE MEDELLIN,46,Mayor,10,Similar,32%,48%,19%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE MEDELLIN,52,Similar,11,Similar,16%,43%,36%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE MEDELLIN,62,Menor,11,Similar,4%,20%,55%,21%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+META,48,,11,,28%,46%,24%,2%,42%,58%,58%,63%,57%,55%,Sociales y Ciudadanas
+OFICIALES URBANOS DE META,48,Similar,11,Similar,27%,47%,24%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE META,47,Similar,11,Similar,32%,44%,22%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE META,51,Similar,12,Similar,20%,43%,32%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE META,42,Mayor,10,Similar,49%,40%,11%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE META,48,Similar,11,Similar,29%,47%,23%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE META,54,Menor,11,Similar,12%,42%,40%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+MONTERIA,51,,12,,22%,40%,32%,6%,36%,51%,54%,54%,53%,52%,Sociales y Ciudadanas
+OFICIALES URBANOS DE MONTERIA,51,Similar,12,Similar,21%,42%,32%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE MONTERIA,45,Mayor,10,Mayor,37%,44%,18%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE MONTERIA,56,Menor,12,Similar,12%,33%,42%,12%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE MONTERIA,45,Mayor,10,Mayor,40%,43%,16%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE MONTERIA,50,Similar,11,Similar,24%,44%,29%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE MONTERIA,58,Menor,12,Similar,8%,30%,47%,15%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE MONTERIA,63,Menor,10,Mayor,4%,16%,55%,24%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+MOSQUERA,54,,11,,11%,42%,41%,6%,30%,46%,50%,57%,49%,49%,Sociales y Ciudadanas
+OFICIALES URBANOS DE MOSQUERA,52,Similar,10,Similar,14%,48%,34%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE MOSQUERA,58,Menor,11,Similar,7%,31%,53%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE MOSQUERA,47,Mayor,10,Similar,29%,53%,18%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE MOSQUERA,54,Similar,11,Similar,11%,42%,41%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE MOSQUERA,64,Menor,9,Mayor,1%,14%,67%,18%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+NARIÑO,47,,11,,33%,45%,20%,2%,43%,61%,61%,61%,56%,61%,Sociales y Ciudadanas
+OFICIALES URBANOS DE NARIÑO,48,Similar,11,Similar,30%,45%,23%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE NARIÑO,45,Similar,10,Similar,38%,45%,16%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE NARIÑO,44,Similar,12,Similar,52%,30%,15%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE NARIÑO,42,Mayor,10,Similar,51%,37%,12%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE NARIÑO,48,Similar,11,Similar,28%,47%,23%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE NARIÑO,36,Mayor,0,Mayor,100%,0%,0%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+NEIVA,52,,12,,21%,39%,33%,7%,34%,50%,52%,59%,51%,51%,Sociales y Ciudadanas
+OFICIALES URBANOS DE NEIVA,50,Similar,11,Similar,23%,43%,31%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE NEIVA,46,Mayor,11,Similar,34%,47%,18%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE NEIVA,58,Menor,14,Menor,13%,26%,42%,19%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE NEIVA,47,Mayor,11,Similar,31%,44%,22%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE NEIVA,55,Similar,12,Similar,13%,35%,41%,11%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE NEIVA,71,Menor,8,Mayor,0%,0%,44%,56%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+NORTE DE SANTANDER,49,,12,,26%,43%,27%,4%,38%,55%,58%,58%,55%,54%,Sociales y Ciudadanas
+OFICIALES URBANOS DE NORTE DE SANTANDER,50,Similar,12,Similar,23%,44%,30%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE NORTE DE SANTANDER,44,Mayor,10,Mayor,39%,47%,13%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE NORTE DE SANTANDER,56,Menor,13,Similar,15%,31%,42%,13%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE NORTE DE SANTANDER,44,Mayor,10,Mayor,38%,49%,13%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE NORTE DE SANTANDER,49,Similar,11,Similar,27%,45%,26%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE NORTE DE SANTANDER,57,Menor,12,Similar,10%,32%,45%,13%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PALMIRA,52,,12,,18%,40%,37%,5%,32%,50%,53%,56%,51%,49%,Sociales y Ciudadanas
+OFICIALES URBANOS DE PALMIRA,53,Similar,12,Similar,17%,39%,38%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE PALMIRA,49,Similar,11,Similar,23%,45%,29%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE PALMIRA,53,Similar,11,Similar,16%,39%,40%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE PALMIRA,51,Similar,12,Similar,20%,41%,34%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE PALMIRA,55,Similar,11,Similar,11%,39%,44%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PASTO,53,,11,,14%,42%,37%,6%,32%,48%,52%,57%,51%,50%,Sociales y Ciudadanas
+OFICIALES URBANOS DE PASTO,54,Similar,11,Similar,14%,42%,38%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE PASTO,47,Mayor,10,Similar,25%,53%,21%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE PASTO,57,Menor,11,Similar,8%,33%,48%,11%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE PASTO,45,Mayor,11,Similar,39%,41%,20%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE PASTO,51,Similar,11,Similar,18%,48%,31%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE PASTO,58,Menor,11,Similar,7%,32%,49%,12%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PEREIRA,52,,11,,18%,43%,34%,4%,34%,51%,53%,60%,54%,52%,Sociales y Ciudadanas
+OFICIALES URBANOS DE PEREIRA,51,Similar,11,Similar,19%,46%,32%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE PEREIRA,49,Similar,11,Similar,27%,45%,26%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE PEREIRA,58,Menor,12,Similar,9%,29%,49%,14%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE PEREIRA,42,Mayor,7,Mayor,67%,33%,0%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE PEREIRA,48,Mayor,10,Similar,27%,49%,23%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE PEREIRA,54,Similar,11,Similar,13%,41%,41%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE PEREIRA,64,Menor,9,Mayor,2%,15%,58%,25%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PIEDECUESTA,53,,11,,16%,42%,36%,6%,32%,48%,51%,59%,51%,48%,Sociales y Ciudadanas
+OFICIALES URBANOS DE PIEDECUESTA,53,Similar,11,Similar,16%,42%,36%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE PIEDECUESTA,49,Mayor,10,Similar,22%,50%,26%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE PIEDECUESTA,58,Menor,11,Similar,9%,31%,48%,13%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE PIEDECUESTA,50,Similar,11,Similar,22%,47%,27%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE PIEDECUESTA,57,Menor,11,Similar,8%,35%,47%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE PIEDECUESTA,69,Menor,7,Mayor,0%,0%,53%,47%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PITALITO,53,,12,,15%,40%,38%,7%,32%,48%,52%,57%,49%,48%,Sociales y Ciudadanas
+OFICIALES URBANOS DE PITALITO,56,Similar,12,Similar,10%,36%,43%,11%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE PITALITO,49,Mayor,11,Similar,23%,47%,28%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE PITALITO,53,Similar,12,Similar,17%,37%,42%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE PITALITO,53,Similar,12,Similar,15%,40%,38%,8%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE PITALITO,54,Similar,11,Similar,15%,37%,43%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+POPAYAN,51,,12,,21%,44%,31%,4%,37%,52%,55%,57%,54%,53%,Sociales y Ciudadanas
+OFICIALES URBANOS DE POPAYAN,52,Similar,11,Similar,16%,44%,35%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE POPAYAN,46,Mayor,10,Mayor,33%,46%,19%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE POPAYAN,48,Similar,12,Similar,30%,43%,24%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE POPAYAN,44,Mayor,12,Similar,48%,26%,26%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE POPAYAN,49,Similar,11,Similar,25%,47%,26%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE POPAYAN,56,Menor,11,Similar,9%,36%,45%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE POPAYAN,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PUTUMAYO,47,,11,,30%,47%,21%,2%,41%,59%,60%,64%,59%,60%,Sociales y Ciudadanas
+OFICIALES URBANOS DE PUTUMAYO,50,Similar,11,Similar,22%,48%,27%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE PUTUMAYO,43,Mayor,9,Mayor,45%,44%,10%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE PUTUMAYO,51,Menor,14,Menor,32%,21%,41%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE PUTUMAYO,42,Mayor,9,Mayor,47%,44%,9%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE PUTUMAYO,48,Similar,11,Similar,27%,48%,23%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE PUTUMAYO,57,Menor,11,Similar,7%,33%,50%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+QUIBDO,43,,10,,46%,40%,12%,1%,49%,64%,64%,66%,64%,62%,Sociales y Ciudadanas
+OFICIALES URBANOS DE QUIBDO,43,Similar,10,Similar,46%,40%,13%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE QUIBDO,41,Similar,9,Similar,48%,42%,9%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE QUIBDO,42,Similar,11,Similar,53%,34%,10%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE QUIBDO,40,Similar,8,Mayor,65%,29%,6%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE QUIBDO,41,Similar,9,Similar,54%,37%,9%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE QUIBDO,48,Menor,11,Similar,28%,47%,21%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+QUINDIO,50,,11,,23%,45%,28%,4%,37%,55%,57%,62%,54%,53%,Sociales y Ciudadanas
+OFICIALES URBANOS DE QUINDIO,49,Similar,11,Similar,23%,47%,27%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE QUINDIO,48,Similar,11,Similar,28%,44%,27%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE QUINDIO,61,Menor,11,Similar,5%,22%,56%,18%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE QUINDIO,48,Similar,11,Similar,27%,48%,24%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE QUINDIO,55,Menor,11,Similar,11%,39%,42%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+RIOHACHA,46,,12,,38%,41%,19%,3%,46%,60%,61%,62%,61%,59%,Sociales y Ciudadanas
+OFICIALES URBANOS DE RIOHACHA,46,Similar,10,Mayor,34%,46%,19%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE RIOHACHA,39,Mayor,8,Mayor,66%,30%,4%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE RIOHACHA,55,Menor,13,Similar,17%,33%,38%,12%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE RIOHACHA,37,Mayor,7,Mayor,76%,21%,3%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE RIOHACHA,44,Similar,10,Mayor,42%,43%,14%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE RIOHACHA,53,Menor,12,Similar,17%,39%,36%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+RIONEGRO,54,,11,,14%,40%,39%,6%,33%,47%,52%,60%,49%,46%,Sociales y Ciudadanas
+OFICIALES URBANOS DE RIONEGRO,53,Similar,11,Similar,14%,41%,42%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE RIONEGRO,50,Mayor,10,Similar,21%,47%,29%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE RIONEGRO,60,Menor,12,Similar,6%,29%,47%,19%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE RIONEGRO,50,Mayor,10,Similar,21%,47%,30%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE RIONEGRO,54,Similar,11,Similar,13%,40%,41%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE RIONEGRO,64,Menor,11,Similar,4%,17%,55%,23%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+RISARALDA,46,,11,,34%,44%,20%,2%,45%,62%,61%,64%,59%,61%,Sociales y Ciudadanas
+OFICIALES URBANOS DE RISARALDA,48,Similar,11,Similar,28%,47%,23%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE RISARALDA,42,Mayor,10,Similar,50%,38%,12%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE RISARALDA,57,Menor,9,Mayor,4%,39%,50%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE RISARALDA,40,Mayor,9,Mayor,59%,36%,5%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE RISARALDA,45,Similar,11,Similar,36%,45%,18%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE RISARALDA,51,Menor,11,Similar,19%,44%,34%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+SABANETA,55,,11,,10%,37%,46%,7%,30%,44%,49%,56%,46%,44%,Sociales y Ciudadanas
+OFICIALES URBANOS DE SABANETA,54,Similar,10,Similar,10%,42%,44%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE SABANETA,53,Similar,11,Similar,13%,45%,36%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE SABANETA,59,Menor,11,Similar,7%,24%,58%,11%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE SABANETA,55,Similar,11,Similar,10%,38%,46%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE SABANETA,62,Menor,15,Menor,18%,9%,36%,36%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+SAHAGUN,49,,12,,26%,44%,25%,4%,40%,56%,58%,58%,57%,58%,Sociales y Ciudadanas
+OFICIALES URBANOS DE SAHAGUN,49,Similar,11,Similar,25%,46%,26%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE SAHAGUN,46,Similar,11,Similar,35%,44%,20%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE SAHAGUN,58,Menor,12,Similar,7%,38%,38%,17%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE SAHAGUN,46,Similar,10,Mayor,33%,47%,19%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE SAHAGUN,49,Similar,11,Similar,26%,44%,27%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE SAHAGUN,58,Menor,12,Similar,7%,38%,38%,17%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+SAN ANDRES,46,,12,,40%,36%,21%,4%,47%,60%,61%,60%,60%,60%,Sociales y Ciudadanas
+OFICIALES URBANOS DE SAN ANDRES,49,Similar,12,Similar,31%,37%,29%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE SAN ANDRES,40,Mayor,10,Mayor,57%,33%,9%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE SAN ANDRES,54,Menor,12,Similar,14%,40%,36%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE SAN ANDRES,41,Mayor,10,Mayor,52%,38%,10%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE SAN ANDRES,49,Similar,13,Similar,31%,35%,29%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+SANTA MARTA,48,,12,,32%,42%,23%,3%,42%,57%,59%,64%,60%,54%,Sociales y Ciudadanas
+OFICIALES URBANOS DE SANTA MARTA,46,Similar,11,Similar,35%,44%,20%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE SANTA MARTA,42,Mayor,10,Mayor,47%,42%,10%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE SANTA MARTA,54,Menor,12,Similar,16%,37%,40%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE SANTA MARTA,40,Mayor,7,Mayor,59%,39%,2%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE SANTA MARTA,45,Similar,10,Mayor,40%,43%,16%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE SANTA MARTA,54,Menor,11,Similar,14%,40%,40%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE SANTA MARTA,46,Similar,18,Menor,50%,25%,0%,25%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+SANTANDER,50,,11,,24%,45%,28%,4%,38%,55%,57%,59%,55%,53%,Sociales y Ciudadanas
+OFICIALES URBANOS DE SANTANDER,51,Similar,11,Similar,21%,44%,30%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE SANTANDER,47,Similar,11,Similar,30%,48%,21%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE SANTANDER,54,Menor,13,Menor,18%,34%,39%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE SANTANDER,46,Mayor,11,Similar,34%,46%,18%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE SANTANDER,49,Similar,11,Similar,25%,46%,26%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE SANTANDER,57,Menor,11,Similar,8%,35%,48%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+SINCELEJO,49,,12,,28%,40%,27%,5%,39%,54%,56%,58%,56%,54%,Sociales y Ciudadanas
+OFICIALES URBANOS DE SINCELEJO,48,Similar,11,Similar,29%,44%,24%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE SINCELEJO,43,Mayor,10,Mayor,47%,40%,12%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE SINCELEJO,56,Menor,14,Menor,16%,26%,44%,14%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE SINCELEJO,42,Mayor,9,Mayor,50%,39%,10%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE SINCELEJO,48,Similar,11,Similar,30%,43%,23%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE SINCELEJO,58,Menor,13,Similar,11%,25%,48%,16%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+SOACHA,50,,11,,20%,48%,31%,2%,36%,54%,56%,63%,55%,55%,Sociales y Ciudadanas
+OFICIALES URBANOS DE SOACHA,48,Similar,10,Similar,24%,51%,24%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE SOACHA,46,Mayor,11,Similar,38%,42%,18%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE SOACHA,53,Similar,11,Similar,14%,44%,38%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE SOACHA,48,Similar,10,Similar,26%,51%,22%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE SOACHA,52,Similar,10,Similar,16%,46%,36%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+SOGAMOSO,55,,11,,11%,39%,44%,7%,31%,44%,50%,53%,49%,47%,Sociales y Ciudadanas
+OFICIALES URBANOS DE SOGAMOSO,54,Similar,10,Similar,11%,44%,40%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE SOGAMOSO,49,Mayor,10,Similar,22%,45%,31%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE SOGAMOSO,58,Similar,11,Similar,8%,29%,51%,12%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE SOGAMOSO,50,Mayor,10,Similar,19%,50%,29%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE SOGAMOSO,56,Similar,10,Similar,8%,35%,48%,8%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+SOLEDAD,48,,12,,31%,41%,25%,3%,41%,56%,58%,60%,58%,55%,Sociales y Ciudadanas
+OFICIALES URBANOS DE SOLEDAD,48,Similar,11,Similar,29%,44%,25%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE SOLEDAD,48,Similar,13,Similar,32%,38%,25%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE SOLEDAD,45,Similar,11,Similar,38%,42%,18%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE SOLEDAD,55,Menor,12,Similar,13%,38%,42%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+SUCRE,44,,11,,45%,39%,15%,1%,48%,64%,63%,62%,62%,63%,Sociales y Ciudadanas
+OFICIALES URBANOS DE SUCRE,45,Similar,11,Similar,38%,41%,18%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE SUCRE,40,Mayor,9,Mayor,58%,35%,7%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE SUCRE,54,Menor,12,Similar,18%,32%,41%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE SUCRE,39,Mayor,8,Mayor,62%,33%,5%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE SUCRE,45,Similar,11,Similar,41%,40%,17%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE SUCRE,57,Menor,11,Similar,6%,35%,49%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+TOLIMA,46,,11,,36%,45%,18%,2%,45%,61%,62%,64%,61%,60%,Sociales y Ciudadanas
+OFICIALES URBANOS DE TOLIMA,46,Similar,11,Similar,33%,46%,20%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE TOLIMA,43,Similar,10,Similar,43%,45%,12%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE TOLIMA,50,Menor,12,Similar,26%,39%,30%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE TOLIMA,42,Mayor,9,Mayor,49%,41%,10%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE TOLIMA,45,Similar,10,Similar,36%,46%,17%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE TOLIMA,54,Menor,11,Similar,15%,39%,39%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+TULUA,50,,12,,23%,42%,30%,5%,36%,54%,55%,60%,55%,52%,Sociales y Ciudadanas
+OFICIALES URBANOS DE TULUA,49,Similar,11,Similar,24%,45%,28%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE TULUA,44,Mayor,10,Mayor,43%,42%,14%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE TULUA,57,Menor,12,Similar,9%,34%,46%,11%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE TULUA,43,Mayor,10,Mayor,51%,42%,5%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE TULUA,48,Similar,11,Similar,28%,44%,26%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE TULUA,56,Menor,11,Similar,11%,37%,43%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+TUMACO,41,,10,,59%,31%,8%,1%,55%,68%,65%,66%,68%,67%,Sociales y Ciudadanas
+OFICIALES URBANOS DE TUMACO,41,Similar,10,Similar,57%,34%,8%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE TUMACO,37,Mayor,8,Mayor,71%,26%,3%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE TUMACO,52,Menor,13,Menor,24%,32%,36%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE TUMACO,37,Mayor,8,Mayor,73%,26%,2%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE TUMACO,41,Similar,10,Similar,59%,33%,8%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE TUMACO,56,Menor,11,Similar,13%,26%,55%,6%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+TUNJA,56,,11,,9%,37%,44%,10%,27%,41%,47%,55%,46%,44%,Sociales y Ciudadanas
+OFICIALES URBANOS DE TUNJA,55,Similar,11,Similar,11%,42%,40%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE TUNJA,49,Mayor,11,Similar,24%,52%,21%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE TUNJA,60,Menor,11,Similar,6%,25%,52%,16%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE TUNJA,51,Mayor,11,Similar,19%,49%,29%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE TUNJA,58,Similar,10,Similar,6%,33%,51%,11%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE TUNJA,68,Menor,9,Mayor,0%,11%,51%,38%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+TURBO,42,,10,,49%,40%,10%,1%,52%,66%,65%,64%,66%,64%,Sociales y Ciudadanas
+OFICIALES URBANOS DE TURBO,42,Similar,10,Similar,48%,41%,11%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE TURBO,41,Similar,9,Similar,54%,38%,7%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE TURBO,49,Menor,10,Similar,25%,49%,25%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE TURBO,38,Mayor,8,Mayor,69%,27%,3%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE TURBO,42,Similar,9,Similar,50%,41%,8%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE TURBO,50,Menor,11,Similar,26%,42%,30%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+URIBIA,37,,8,,74%,23%,3%,0%,63%,73%,73%,69%,68%,76%,Sociales y Ciudadanas
+OFICIALES URBANOS DE URIBIA,41,Menor,10,Menor,58%,34%,8%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE URIBIA,35,Similar,6,Mayor,82%,18%,1%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE URIBIA,36,Similar,7,Similar,78%,20%,1%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE URIBIA,41,Menor,11,Menor,54%,34%,11%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+VALLE DEL CAUCA,48,,11,,30%,45%,23%,3%,40%,58%,59%,62%,58%,56%,Sociales y Ciudadanas
+OFICIALES URBANOS DE VALLE DEL CAUCA,48,Similar,11,Similar,29%,44%,23%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE VALLE DEL CAUCA,46,Similar,10,Similar,33%,47%,19%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE VALLE DEL CAUCA,53,Menor,12,Similar,17%,39%,37%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE VALLE DEL CAUCA,44,Mayor,10,Similar,39%,45%,15%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE VALLE DEL CAUCA,47,Similar,11,Similar,31%,45%,22%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE VALLE DEL CAUCA,54,Menor,12,Similar,15%,40%,38%,8%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+VALLEDUPAR,50,,12,,25%,40%,30%,5%,37%,53%,55%,55%,55%,52%,Sociales y Ciudadanas
+OFICIALES URBANOS DE VALLEDUPAR,50,Similar,12,Similar,23%,44%,29%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE VALLEDUPAR,43,Mayor,10,Mayor,46%,42%,12%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE VALLEDUPAR,54,Menor,13,Similar,21%,30%,40%,9%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE VALLEDUPAR,44,Mayor,8,Mayor,40%,53%,7%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE VALLEDUPAR,47,Similar,11,Similar,31%,45%,22%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE VALLEDUPAR,59,Menor,12,Similar,9%,27%,51%,13%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+VAUPES,41,,9,,52%,40%,9%,0%,53%,66%,72%,59%,62%,71%,Sociales y Ciudadanas
+OFICIALES URBANOS DE VAUPES,45,Menor,9,Similar,37%,50%,13%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE VAUPES,36,Mayor,6,Mayor,78%,22%,0%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE VAUPES,31,Mayor,0,Mayor,100%,0%,0%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE VAUPES,40,Similar,8,Similar,57%,38%,6%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE VAUPES,46,Menor,9,Similar,33%,48%,19%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+VICHADA,43,,10,,48%,39%,13%,0%,53%,66%,65%,62%,59%,68%,Sociales y Ciudadanas
+OFICIALES URBANOS DE VICHADA,46,Similar,10,Similar,33%,48%,18%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE VICHADA,38,Mayor,9,Similar,71%,25%,4%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE VICHADA,36,Mayor,6,Mayor,83%,17%,1%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE VICHADA,45,Similar,10,Similar,37%,46%,17%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+VILLAVICENCIO,51,,11,,21%,43%,31%,5%,35%,52%,54%,62%,54%,50%,Sociales y Ciudadanas
+OFICIALES URBANOS DE VILLAVICENCIO,50,Similar,11,Similar,21%,46%,31%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE VILLAVICENCIO,52,Similar,12,Similar,21%,42%,32%,5%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE VILLAVICENCIO,52,Similar,13,Menor,22%,36%,33%,10%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE VILLAVICENCIO,48,Similar,2,Mayor,0%,100%,0%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE VILLAVICENCIO,47,Mayor,10,Similar,30%,48%,21%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE VILLAVICENCIO,54,Similar,11,Similar,14%,40%,39%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE VILLAVICENCIO,66,Menor,10,Similar,2%,10%,53%,35%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+YOPAL,52,,11,,19%,43%,33%,5%,34%,50%,53%,57%,52%,50%,Sociales y Ciudadanas
+OFICIALES URBANOS DE YOPAL,51,Similar,11,Similar,19%,46%,31%,4%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE YOPAL,47,Mayor,10,Similar,32%,46%,22%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE YOPAL,60,Menor,12,Similar,9%,25%,48%,18%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 1 DE YOPAL,46,Mayor,8,Mayor,17%,67%,17%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE YOPAL,49,Similar,10,Similar,23%,47%,27%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE YOPAL,59,Menor,11,Similar,7%,29%,50%,14%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE YOPAL,69,Menor,11,Similar,0%,7%,60%,33%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+YUMBO,47,,11,,30%,46%,22%,1%,39%,59%,60%,65%,58%,57%,Sociales y Ciudadanas
+OFICIALES URBANOS DE YUMBO,48,Similar,11,Similar,29%,46%,24%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE YUMBO,46,Similar,9,Mayor,34%,48%,19%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE YUMBO,45,Similar,10,Similar,38%,44%,18%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE YUMBO,45,Similar,10,Similar,35%,47%,17%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE YUMBO,50,Similar,11,Similar,23%,44%,31%,2%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+ZIPAQUIRA,54,,11,,15%,40%,40%,6%,31%,47%,51%,56%,50%,47%,Sociales y Ciudadanas
+OFICIALES URBANOS DE ZIPAQUIRA,51,Similar,11,Similar,18%,45%,34%,3%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+OFICIALES RURALES DE ZIPAQUIRA,48,Mayor,10,Similar,26%,49%,25%,1%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+PRIVADOS DE ZIPAQUIRA,58,Menor,11,Similar,7%,30%,52%,11%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 2 DE ZIPAQUIRA,46,Mayor,10,Similar,32%,48%,19%,0%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 3 DE ZIPAQUIRA,55,Similar,11,Similar,12%,39%,43%,7%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas
+GC 4 DE ZIPAQUIRA,62,Menor,7,Mayor,0%,22%,66%,12%,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Sociales y Ciudadanas

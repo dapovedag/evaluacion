@@ -1,0 +1,663 @@
+pai_et_municipios,promedio,comparacion_ping,desviacion,comparacion_ding,desempeno_a_minus,desempeno_a1,desempeno_a2,desempeno_b1,desempeno_b_plus,Competencia
+AMAZONAS,46,,10,,64%,24%,8%,3%,1%,Inglés
+OFICIALES URBANOS DE AMAZONAS,46,Similar,9,Similar,60%,28%,9%,3%,0%,Inglés
+OFICIALES RURALES DE AMAZONAS,41,Mayor,7,Mayor,84%,14%,1%,1%,0%,Inglés
+PRIVADOS DE AMAZONAS,61,Menor,12,Menor,17%,21%,36%,21%,5%,Inglés
+GC 1 DE AMAZONAS,41,Mayor,8,Mayor,82%,14%,3%,1%,0%,Inglés
+GC 2 DE AMAZONAS,45,Similar,9,Similar,66%,25%,7%,2%,0%,Inglés
+GC 3 DE AMAZONAS,61,Menor,12,Menor,15%,23%,35%,23%,4%,Inglés
+ANTIOQUIA,47,,11,,56%,27%,11%,5%,1%,Inglés
+OFICIALES URBANOS DE ANTIOQUIA,49,Similar,11,Similar,50%,30%,13%,5%,1%,Inglés
+OFICIALES RURALES DE ANTIOQUIA,43,Mayor,9,Mayor,73%,21%,5%,1%,0%,Inglés
+PRIVADOS DE ANTIOQUIA,61,Menor,14,Menor,20%,24%,24%,22%,10%,Inglés
+GC 1 DE ANTIOQUIA,41,Mayor,8,Mayor,83%,15%,2%,0%,0%,Inglés
+GC 2 DE ANTIOQUIA,46,Similar,10,Similar,62%,26%,9%,3%,0%,Inglés
+GC 3 DE ANTIOQUIA,56,Menor,12,Similar,25%,34%,23%,14%,4%,Inglés
+GC 4 DE ANTIOQUIA,74,Menor,14,Menor,2%,9%,22%,30%,37%,Inglés
+APARTADO,49,,11,,52%,28%,12%,7%,1%,Inglés
+OFICIALES URBANOS DE APARTADO,48,Similar,10,Similar,53%,30%,11%,5%,1%,Inglés
+OFICIALES RURALES DE APARTADO,44,Mayor,7,Mayor,69%,27%,3%,0%,0%,Inglés
+PRIVADOS DE APARTADO,56,Menor,16,Menor,31%,20%,22%,21%,5%,Inglés
+GC 1 DE APARTADO,41,Mayor,7,Mayor,78%,20%,2%,0%,0%,Inglés
+GC 2 DE APARTADO,47,Similar,10,Similar,59%,29%,9%,3%,0%,Inglés
+GC 3 DE APARTADO,61,Menor,12,Similar,11%,28%,28%,26%,6%,Inglés
+ARAUCA,49,,10,,50%,32%,13%,5%,1%,Inglés
+OFICIALES URBANOS DE ARAUCA,50,Similar,10,Similar,46%,33%,15%,5%,1%,Inglés
+OFICIALES RURALES DE ARAUCA,46,Similar,8,Mayor,62%,31%,6%,1%,0%,Inglés
+PRIVADOS DE ARAUCA,52,Similar,13,Menor,41%,24%,20%,11%,3%,Inglés
+GC 1 DE ARAUCA,44,Mayor,7,Mayor,68%,30%,3%,0%,0%,Inglés
+GC 2 DE ARAUCA,48,Similar,10,Similar,51%,32%,13%,4%,0%,Inglés
+GC 3 DE ARAUCA,57,Menor,12,Menor,24%,31%,24%,16%,3%,Inglés
+ARMENIA,58,,12,,20%,32%,24%,18%,6%,Inglés
+OFICIALES URBANOS DE ARMENIA,56,Similar,11,Similar,23%,35%,24%,15%,3%,Inglés
+OFICIALES RURALES DE ARMENIA,63,Menor,13,Similar,9%,34%,13%,36%,8%,Inglés
+PRIVADOS DE ARMENIA,69,Menor,13,Similar,4%,15%,26%,34%,21%,Inglés
+GC 2 DE ARMENIA,53,Mayor,10,Mayor,32%,41%,17%,9%,1%,Inglés
+GC 3 DE ARMENIA,61,Similar,12,Similar,14%,27%,27%,24%,8%,Inglés
+GC 4 DE ARMENIA,68,Menor,11,Similar,3%,11%,39%,21%,26%,Inglés
+ATLANTICO,47,,11,,58%,28%,8%,5%,1%,Inglés
+OFICIALES URBANOS DE ATLANTICO,47,Similar,10,Similar,59%,29%,8%,3%,1%,Inglés
+OFICIALES RURALES DE ATLANTICO,44,Similar,9,Mayor,70%,24%,5%,1%,0%,Inglés
+PRIVADOS DE ATLANTICO,62,Menor,15,Menor,18%,25%,20%,26%,12%,Inglés
+GC 1 DE ATLANTICO,43,Mayor,7,Mayor,76%,21%,3%,0%,0%,Inglés
+GC 2 DE ATLANTICO,46,Similar,9,Mayor,62%,28%,7%,3%,0%,Inglés
+GC 3 DE ATLANTICO,57,Menor,12,Similar,27%,31%,23%,15%,5%,Inglés
+GC 4 DE ATLANTICO,77,Menor,10,Similar,1%,1%,9%,52%,38%,Inglés
+BARRANCABERMEJA,53,,13,,39%,30%,15%,12%,4%,Inglés
+OFICIALES URBANOS DE BARRANCABERMEJA,50,Similar,11,Mayor,43%,33%,15%,7%,1%,Inglés
+OFICIALES RURALES DE BARRANCABERMEJA,46,Mayor,9,Mayor,59%,30%,8%,3%,0%,Inglés
+PRIVADOS DE BARRANCABERMEJA,68,Menor,13,Similar,7%,16%,22%,38%,18%,Inglés
+GC 2 DE BARRANCABERMEJA,48,Mayor,10,Mayor,52%,32%,11%,4%,1%,Inglés
+GC 3 DE BARRANCABERMEJA,61,Menor,13,Similar,16%,27%,23%,25%,8%,Inglés
+GC 4 DE BARRANCABERMEJA,79,Menor,10,Mayor,0%,0%,8%,46%,46%,Inglés
+BARRANQUILLA,54,,14,,35%,30%,17%,13%,5%,Inglés
+OFICIALES URBANOS DE BARRANQUILLA,52,Similar,12,Mayor,39%,33%,16%,10%,2%,Inglés
+PRIVADOS DE BARRANQUILLA,62,Menor,15,Similar,20%,22%,20%,24%,14%,Inglés
+GC 1 DE BARRANQUILLA,43,Mayor,8,Mayor,74%,23%,4%,0%,0%,Inglés
+GC 2 DE BARRANQUILLA,49,Mayor,10,Mayor,50%,33%,12%,5%,1%,Inglés
+GC 3 DE BARRANQUILLA,61,Menor,14,Similar,18%,27%,23%,23%,10%,Inglés
+GC 4 DE BARRANQUILLA,82,Menor,9,Mayor,0%,0%,3%,29%,68%,Inglés
+BELLO,54,,12,,34%,32%,19%,12%,3%,Inglés
+OFICIALES URBANOS DE BELLO,52,Similar,11,Similar,37%,35%,18%,9%,1%,Inglés
+OFICIALES RURALES DE BELLO,49,Mayor,10,Mayor,49%,32%,9%,9%,0%,Inglés
+PRIVADOS DE BELLO,57,Similar,14,Menor,28%,25%,22%,18%,6%,Inglés
+GC 2 DE BELLO,49,Mayor,11,Similar,48%,32%,13%,6%,1%,Inglés
+GC 3 DE BELLO,58,Menor,12,Similar,21%,32%,24%,18%,5%,Inglés
+BOGOTA,57,,13,,24%,31%,22%,17%,5%,Inglés
+OFICIALES URBANOS DE BOGOTA,53,Mayor,11,Mayor,33%,38%,20%,9%,1%,Inglés
+OFICIALES RURALES DE BOGOTA,48,Mayor,9,Mayor,50%,36%,12%,2%,0%,Inglés
+PRIVADOS DE BOGOTA,63,Menor,13,Similar,12%,22%,26%,29%,11%,Inglés
+GC 1 DE BOGOTA,49,Mayor,10,Mayor,40%,30%,30%,0%,0%,Inglés
+GC 2 DE BOGOTA,50,Mayor,10,Mayor,44%,37%,14%,4%,1%,Inglés
+GC 3 DE BOGOTA,58,Similar,12,Similar,20%,32%,25%,18%,4%,Inglés
+BOLIVAR,44,,10,,70%,20%,6%,3%,1%,Inglés
+OFICIALES URBANOS DE BOLIVAR,44,Similar,9,Similar,69%,23%,6%,2%,0%,Inglés
+OFICIALES RURALES DE BOLIVAR,41,Similar,7,Mayor,83%,15%,2%,0%,0%,Inglés
+PRIVADOS DE BOLIVAR,59,Menor,14,Menor,22%,29%,21%,21%,7%,Inglés
+GC 1 DE BOLIVAR,40,Mayor,7,Mayor,85%,14%,1%,0%,0%,Inglés
+GC 2 DE BOLIVAR,44,Similar,9,Similar,72%,21%,5%,2%,0%,Inglés
+GC 3 DE BOLIVAR,61,Menor,13,Menor,15%,29%,22%,25%,8%,Inglés
+BOYACA,50,,10,,42%,36%,15%,6%,1%,Inglés
+OFICIALES URBANOS DE BOYACA,50,Similar,10,Similar,42%,37%,15%,5%,0%,Inglés
+OFICIALES RURALES DE BOYACA,48,Similar,9,Similar,52%,35%,12%,2%,0%,Inglés
+PRIVADOS DE BOYACA,63,Menor,11,Similar,7%,27%,29%,30%,7%,Inglés
+GC 1 DE BOYACA,46,Mayor,8,Mayor,61%,30%,8%,1%,0%,Inglés
+GC 2 DE BOYACA,49,Similar,9,Similar,45%,37%,14%,4%,0%,Inglés
+GC 3 DE BOYACA,60,Menor,11,Similar,13%,32%,28%,22%,4%,Inglés
+GC 4 DE BOYACA,72,Menor,9,Similar,0%,9%,15%,50%,26%,Inglés
+BUCARAMANGA,59,,14,,21%,29%,22%,19%,8%,Inglés
+OFICIALES URBANOS DE BUCARAMANGA,56,Similar,12,Mayor,26%,34%,23%,13%,4%,Inglés
+OFICIALES RURALES DE BUCARAMANGA,47,Mayor,7,Mayor,56%,39%,5%,0%,0%,Inglés
+PRIVADOS DE BUCARAMANGA,67,Menor,14,Similar,9%,16%,20%,36%,19%,Inglés
+GC 2 DE BUCARAMANGA,51,Mayor,10,Mayor,39%,39%,16%,6%,1%,Inglés
+GC 3 DE BUCARAMANGA,62,Similar,13,Similar,13%,25%,26%,26%,10%,Inglés
+GC 4 DE BUCARAMANGA,80,Menor,12,Mayor,1%,1%,7%,43%,48%,Inglés
+BUENAVENTURA,45,,11,,66%,21%,8%,4%,1%,Inglés
+OFICIALES URBANOS DE BUENAVENTURA,45,Similar,9,Mayor,68%,22%,7%,2%,0%,Inglés
+OFICIALES RURALES DE BUENAVENTURA,40,Mayor,7,Mayor,87%,11%,2%,1%,0%,Inglés
+PRIVADOS DE BUENAVENTURA,51,Menor,13,Menor,47%,25%,16%,10%,2%,Inglés
+GC 1 DE BUENAVENTURA,39,Mayor,6,Mayor,93%,6%,1%,0%,0%,Inglés
+GC 2 DE BUENAVENTURA,44,Similar,9,Mayor,73%,20%,6%,2%,0%,Inglés
+GC 3 DE BUENAVENTURA,55,Menor,13,Menor,30%,31%,22%,13%,4%,Inglés
+BUGA,54,,11,,30%,37%,23%,9%,2%,Inglés
+OFICIALES URBANOS DE BUGA,54,Similar,11,Similar,28%,37%,24%,9%,2%,Inglés
+OFICIALES RURALES DE BUGA,48,Mayor,9,Mayor,48%,38%,11%,3%,0%,Inglés
+PRIVADOS DE BUGA,54,Similar,11,Similar,28%,40%,19%,13%,0%,Inglés
+GC 1 DE BUGA,48,Mayor,7,Mayor,47%,41%,12%,0%,0%,Inglés
+GC 2 DE BUGA,53,Similar,11,Similar,30%,37%,23%,8%,2%,Inglés
+GC 3 DE BUGA,56,Similar,11,Similar,23%,37%,25%,12%,3%,Inglés
+CALDAS,49,,10,,48%,33%,13%,5%,1%,Inglés
+OFICIALES URBANOS DE CALDAS,50,Similar,10,Similar,44%,35%,15%,6%,1%,Inglés
+OFICIALES RURALES DE CALDAS,46,Similar,8,Mayor,59%,32%,8%,2%,0%,Inglés
+PRIVADOS DE CALDAS,62,Menor,14,Menor,15%,22%,26%,27%,9%,Inglés
+GC 1 DE CALDAS,44,Mayor,7,Mayor,69%,28%,3%,1%,0%,Inglés
+GC 2 DE CALDAS,49,Similar,10,Similar,50%,34%,12%,4%,0%,Inglés
+GC 3 DE CALDAS,57,Menor,13,Menor,23%,34%,22%,16%,4%,Inglés
+CALI,51,,12,,43%,30%,18%,8%,1%,Inglés
+OFICIALES URBANOS DE CALI,50,Similar,12,Similar,43%,30%,18%,8%,1%,Inglés
+OFICIALES RURALES DE CALI,48,Similar,11,Similar,52%,27%,16%,5%,0%,Inglés
+PRIVADOS DE CALI,51,Similar,12,Similar,42%,30%,18%,9%,1%,Inglés
+GC 1 DE CALI,52,Similar,0,Mayor,0%,100%,0%,0%,0%,Inglés
+GC 2 DE CALI,47,Mayor,11,Similar,54%,29%,13%,4%,1%,Inglés
+GC 3 DE CALI,54,Similar,12,Similar,32%,31%,23%,12%,2%,Inglés
+CAQUETA,46,,9,,61%,30%,8%,2%,0%,Inglés
+OFICIALES URBANOS DE CAQUETA,47,Similar,9,Similar,57%,32%,10%,2%,0%,Inglés
+OFICIALES RURALES DE CAQUETA,43,Similar,7,Mayor,75%,23%,1%,1%,0%,Inglés
+PRIVADOS DE CAQUETA,52,Menor,7,Mayor,33%,44%,22%,0%,0%,Inglés
+GC 1 DE CAQUETA,42,Mayor,7,Mayor,77%,21%,1%,0%,0%,Inglés
+GC 2 DE CAQUETA,46,Similar,9,Similar,59%,31%,8%,2%,0%,Inglés
+CARTAGENA,51,,12,,46%,29%,14%,9%,3%,Inglés
+OFICIALES URBANOS DE CARTAGENA,48,Similar,10,Mayor,53%,31%,11%,4%,1%,Inglés
+OFICIALES RURALES DE CARTAGENA,43,Mayor,9,Mayor,71%,24%,4%,1%,0%,Inglés
+PRIVADOS DE CARTAGENA,58,Menor,14,Menor,24%,27%,21%,19%,8%,Inglés
+GC 1 DE CARTAGENA,44,Mayor,9,Mayor,65%,28%,7%,0%,0%,Inglés
+GC 2 DE CARTAGENA,47,Mayor,10,Mayor,57%,30%,10%,4%,0%,Inglés
+GC 3 DE CARTAGENA,59,Menor,13,Similar,20%,29%,23%,20%,7%,Inglés
+GC 4 DE CARTAGENA,78,Menor,11,Similar,2%,1%,8%,45%,44%,Inglés
+CARTAGO,53,,12,,37%,33%,18%,10%,2%,Inglés
+OFICIALES URBANOS DE CARTAGO,52,Similar,12,Similar,38%,33%,18%,10%,2%,Inglés
+OFICIALES RURALES DE CARTAGO,50,Similar,12,Similar,53%,18%,16%,12%,2%,Inglés
+PRIVADOS DE CARTAGO,58,Menor,13,Similar,19%,34%,25%,18%,5%,Inglés
+GC 2 DE CARTAGO,49,Mayor,10,Mayor,52%,30%,12%,5%,1%,Inglés
+GC 3 DE CARTAGO,57,Menor,12,Similar,21%,35%,25%,16%,3%,Inglés
+CASANARE,49,,10,,46%,35%,13%,5%,1%,Inglés
+OFICIALES URBANOS DE CASANARE,50,Similar,10,Similar,44%,37%,13%,4%,1%,Inglés
+OFICIALES RURALES DE CASANARE,48,Similar,10,Similar,55%,30%,10%,4%,1%,Inglés
+PRIVADOS DE CASANARE,52,Similar,16,Menor,51%,10%,16%,19%,4%,Inglés
+GC 1 DE CASANARE,47,Similar,10,Similar,58%,28%,9%,5%,0%,Inglés
+GC 2 DE CASANARE,49,Similar,10,Similar,46%,37%,13%,4%,1%,Inglés
+GC 3 DE CASANARE,54,Menor,12,Menor,32%,32%,22%,13%,3%,Inglés
+CAUCA,45,,9,,67%,25%,6%,2%,0%,Inglés
+OFICIALES URBANOS DE CAUCA,46,Similar,10,Similar,59%,28%,9%,3%,0%,Inglés
+OFICIALES RURALES DE CAUCA,43,Similar,8,Similar,74%,22%,3%,1%,0%,Inglés
+PRIVADOS DE CAUCA,48,Similar,12,Menor,54%,26%,12%,7%,2%,Inglés
+GC 1 DE CAUCA,42,Similar,8,Similar,78%,19%,2%,1%,0%,Inglés
+GC 2 DE CAUCA,45,Similar,9,Similar,64%,27%,7%,2%,0%,Inglés
+GC 3 DE CAUCA,56,Menor,13,Menor,29%,28%,21%,18%,4%,Inglés
+CESAR,47,,10,,58%,29%,10%,3%,0%,Inglés
+OFICIALES URBANOS DE CESAR,47,Similar,9,Similar,55%,32%,10%,3%,0%,Inglés
+OFICIALES RURALES DE CESAR,44,Similar,9,Similar,68%,24%,7%,1%,0%,Inglés
+PRIVADOS DE CESAR,54,Menor,13,Menor,35%,28%,21%,13%,3%,Inglés
+GC 1 DE CESAR,42,Mayor,8,Mayor,76%,20%,3%,0%,0%,Inglés
+GC 2 DE CESAR,47,Similar,9,Similar,58%,30%,10%,2%,0%,Inglés
+GC 3 DE CESAR,57,Menor,13,Menor,22%,31%,26%,16%,4%,Inglés
+CHIA,61,,14,,15%,26%,26%,22%,11%,Inglés
+OFICIALES URBANOS DE CHIA,56,Mayor,11,Mayor,23%,37%,26%,12%,2%,Inglés
+OFICIALES RURALES DE CHIA,56,Mayor,12,Mayor,25%,35%,24%,12%,4%,Inglés
+PRIVADOS DE CHIA,68,Menor,13,Similar,6%,16%,26%,33%,19%,Inglés
+GC 2 DE CHIA,56,Mayor,12,Mayor,25%,34%,24%,12%,4%,Inglés
+GC 3 DE CHIA,60,Similar,12,Mayor,17%,29%,27%,21%,6%,Inglés
+GC 4 DE CHIA,77,Menor,13,Similar,1%,5%,18%,32%,44%,Inglés
+CHOCO,41,,8,,82%,14%,3%,1%,0%,Inglés
+OFICIALES URBANOS DE CHOCO,42,Similar,8,Similar,77%,18%,4%,1%,0%,Inglés
+OFICIALES RURALES DE CHOCO,38,Similar,7,Similar,90%,9%,1%,0%,0%,Inglés
+PRIVADOS DE CHOCO,53,Menor,13,Menor,35%,29%,24%,6%,6%,Inglés
+GC 1 DE CHOCO,40,Similar,8,Similar,87%,11%,2%,0%,0%,Inglés
+GC 2 DE CHOCO,41,Similar,8,Similar,81%,15%,3%,1%,0%,Inglés
+CIENAGA,45,,10,,64%,25%,8%,3%,1%,Inglés
+OFICIALES URBANOS DE CIENAGA,45,Similar,9,Similar,67%,25%,6%,2%,0%,Inglés
+OFICIALES RURALES DE CIENAGA,41,Mayor,7,Mayor,83%,15%,2%,0%,0%,Inglés
+PRIVADOS DE CIENAGA,51,Menor,13,Menor,41%,33%,16%,7%,3%,Inglés
+GC 1 DE CIENAGA,39,Mayor,6,Mayor,91%,9%,0%,0%,0%,Inglés
+GC 2 DE CIENAGA,44,Similar,9,Similar,68%,24%,6%,2%,0%,Inglés
+GC 3 DE CIENAGA,56,Menor,11,Similar,21%,40%,24%,11%,5%,Inglés
+CORDOBA,45,,10,,64%,26%,7%,3%,1%,Inglés
+OFICIALES URBANOS DE CORDOBA,46,Similar,9,Similar,59%,30%,8%,2%,0%,Inglés
+OFICIALES RURALES DE CORDOBA,43,Similar,8,Mayor,73%,22%,4%,1%,0%,Inglés
+PRIVADOS DE CORDOBA,58,Menor,15,Menor,28%,22%,22%,20%,8%,Inglés
+GC 1 DE CORDOBA,42,Similar,7,Mayor,76%,20%,3%,0%,0%,Inglés
+GC 2 DE CORDOBA,46,Similar,9,Similar,61%,28%,8%,3%,0%,Inglés
+GC 3 DE CORDOBA,64,Menor,12,Menor,8%,22%,31%,28%,12%,Inglés
+CUCUTA,54,,12,,33%,34%,19%,11%,3%,Inglés
+OFICIALES URBANOS DE CUCUTA,53,Similar,11,Similar,33%,37%,19%,10%,2%,Inglés
+OFICIALES RURALES DE CUCUTA,46,Mayor,9,Mayor,57%,33%,8%,2%,0%,Inglés
+PRIVADOS DE CUCUTA,57,Similar,14,Menor,29%,28%,20%,18%,6%,Inglés
+GC 1 DE CUCUTA,34,Mayor,0,Mayor,100%,0%,0%,0%,0%,Inglés
+GC 2 DE CUCUTA,51,Similar,10,Mayor,41%,37%,15%,6%,1%,Inglés
+GC 3 DE CUCUTA,61,Menor,12,Similar,13%,29%,28%,24%,6%,Inglés
+GC 4 DE CUCUTA,73,Menor,12,Similar,2%,5%,17%,49%,28%,Inglés
+CUNDINAMARCA,53,,12,,36%,34%,17%,10%,3%,Inglés
+OFICIALES URBANOS DE CUNDINAMARCA,50,Similar,10,Mayor,41%,38%,15%,5%,0%,Inglés
+OFICIALES RURALES DE CUNDINAMARCA,49,Mayor,10,Mayor,45%,37%,13%,4%,1%,Inglés
+PRIVADOS DE CUNDINAMARCA,64,Menor,13,Similar,11%,21%,26%,29%,13%,Inglés
+GC 1 DE CUNDINAMARCA,45,Mayor,8,Mayor,66%,28%,5%,1%,0%,Inglés
+GC 2 DE CUNDINAMARCA,49,Mayor,9,Mayor,47%,37%,12%,3%,0%,Inglés
+GC 3 DE CUNDINAMARCA,57,Menor,12,Similar,22%,33%,25%,17%,4%,Inglés
+GC 4 DE CUNDINAMARCA,78,Menor,9,Mayor,0%,1%,8%,52%,39%,Inglés
+DOS QUEBRADAS,56,,11,,24%,37%,23%,14%,3%,Inglés
+OFICIALES URBANOS DE DOS QUEBRADAS,55,Similar,11,Similar,25%,39%,23%,11%,2%,Inglés
+OFICIALES RURALES DE DOS QUEBRADAS,48,Mayor,8,Mayor,42%,47%,8%,2%,0%,Inglés
+PRIVADOS DE DOS QUEBRADAS,64,Menor,12,Similar,7%,23%,25%,37%,8%,Inglés
+GC 2 DE DOS QUEBRADAS,51,Mayor,9,Mayor,36%,42%,17%,5%,0%,Inglés
+GC 3 DE DOS QUEBRADAS,57,Similar,12,Similar,20%,35%,24%,16%,4%,Inglés
+DUITAMA,57,,12,,23%,33%,24%,15%,4%,Inglés
+OFICIALES URBANOS DE DUITAMA,55,Similar,10,Mayor,25%,38%,26%,9%,2%,Inglés
+OFICIALES RURALES DE DUITAMA,51,Mayor,9,Mayor,42%,34%,17%,7%,1%,Inglés
+PRIVADOS DE DUITAMA,63,Menor,13,Similar,12%,24%,24%,29%,10%,Inglés
+GC 2 DE DUITAMA,51,Mayor,9,Mayor,38%,38%,19%,5%,1%,Inglés
+GC 3 DE DUITAMA,61,Menor,12,Similar,11%,30%,29%,23%,7%,Inglés
+ENVIGADO,64,,14,,12%,22%,24%,27%,15%,Inglés
+OFICIALES URBANOS DE ENVIGADO,58,Mayor,12,Mayor,18%,32%,27%,19%,4%,Inglés
+OFICIALES RURALES DE ENVIGADO,54,Mayor,13,Similar,31%,33%,21%,10%,5%,Inglés
+PRIVADOS DE ENVIGADO,73,Menor,12,Mayor,2%,9%,21%,39%,29%,Inglés
+GC 3 DE ENVIGADO,61,Similar,13,Similar,14%,26%,27%,25%,8%,Inglés
+GC 4 DE ENVIGADO,79,Menor,11,Mayor,1%,3%,9%,39%,48%,Inglés
+FACATATIVA,56,,11,,23%,36%,24%,14%,3%,Inglés
+OFICIALES URBANOS DE FACATATIVA,53,Similar,10,Similar,28%,40%,24%,8%,0%,Inglés
+OFICIALES RURALES DE FACATATIVA,53,Similar,9,Mayor,26%,43%,25%,6%,0%,Inglés
+PRIVADOS DE FACATATIVA,62,Menor,13,Menor,13%,26%,26%,27%,9%,Inglés
+GC 2 DE FACATATIVA,52,Mayor,9,Mayor,34%,42%,19%,5%,0%,Inglés
+GC 3 DE FACATATIVA,60,Menor,12,Similar,12%,31%,30%,21%,5%,Inglés
+GC 4 DE FACATATIVA,74,Menor,5,Mayor,0%,0%,8%,58%,33%,Inglés
+FLORENCIA,53,,12,,39%,30%,17%,12%,2%,Inglés
+OFICIALES URBANOS DE FLORENCIA,52,Similar,11,Similar,39%,34%,17%,8%,1%,Inglés
+OFICIALES RURALES DE FLORENCIA,44,Mayor,7,Mayor,72%,25%,3%,1%,0%,Inglés
+PRIVADOS DE FLORENCIA,61,Menor,15,Menor,23%,16%,24%,32%,5%,Inglés
+GC 1 DE FLORENCIA,45,Mayor,7,Mayor,69%,26%,5%,0%,0%,Inglés
+GC 2 DE FLORENCIA,50,Similar,10,Mayor,46%,34%,14%,6%,0%,Inglés
+GC 3 DE FLORENCIA,60,Menor,12,Similar,18%,24%,27%,27%,4%,Inglés
+GC 4 DE FLORENCIA,85,Menor,11,Similar,0%,0%,0%,25%,75%,Inglés
+FLORIDABLANCA,59,,13,,17%,31%,26%,19%,7%,Inglés
+OFICIALES URBANOS DE FLORIDABLANCA,56,Similar,11,Mayor,22%,38%,26%,12%,2%,Inglés
+OFICIALES RURALES DE FLORIDABLANCA,50,Mayor,9,Mayor,44%,34%,18%,3%,0%,Inglés
+PRIVADOS DE FLORIDABLANCA,68,Menor,12,Similar,5%,14%,26%,37%,18%,Inglés
+GC 2 DE FLORIDABLANCA,53,Mayor,10,Mayor,28%,43%,22%,7%,1%,Inglés
+GC 3 DE FLORIDABLANCA,61,Similar,13,Similar,14%,27%,28%,24%,8%,Inglés
+GC 4 DE FLORIDABLANCA,75,Menor,9,Mayor,0%,2%,18%,43%,36%,Inglés
+FUNZA,57,,11,,21%,32%,28%,16%,2%,Inglés
+OFICIALES URBANOS DE FUNZA,52,Mayor,10,Similar,32%,41%,20%,6%,0%,Inglés
+OFICIALES RURALES DE FUNZA,52,Mayor,11,Similar,35%,38%,20%,7%,0%,Inglés
+PRIVADOS DE FUNZA,61,Menor,11,Similar,12%,26%,34%,24%,4%,Inglés
+GC 3 DE FUNZA,57,Similar,11,Similar,21%,32%,28%,16%,2%,Inglés
+FUSAGASUGA,55,,12,,29%,34%,22%,12%,3%,Inglés
+OFICIALES URBANOS DE FUSAGASUGA,52,Similar,10,Mayor,34%,38%,19%,7%,1%,Inglés
+OFICIALES RURALES DE FUSAGASUGA,51,Mayor,9,Mayor,36%,42%,18%,3%,1%,Inglés
+PRIVADOS DE FUSAGASUGA,60,Menor,12,Similar,17%,23%,29%,25%,6%,Inglés
+GC 2 DE FUSAGASUGA,52,Similar,10,Mayor,36%,38%,18%,7%,1%,Inglés
+GC 3 DE FUSAGASUGA,59,Menor,12,Similar,19%,29%,28%,19%,4%,Inglés
+GIRARDOT,53,,12,,35%,33%,19%,12%,2%,Inglés
+OFICIALES URBANOS DE GIRARDOT,50,Similar,10,Mayor,44%,37%,14%,5%,0%,Inglés
+OFICIALES RURALES DE GIRARDOT,44,Mayor,10,Mayor,74%,18%,5%,3%,0%,Inglés
+PRIVADOS DE GIRARDOT,58,Menor,12,Similar,21%,30%,25%,20%,4%,Inglés
+GC 2 DE GIRARDOT,48,Mayor,9,Mayor,54%,33%,10%,4%,0%,Inglés
+GC 3 DE GIRARDOT,57,Menor,12,Similar,23%,33%,23%,17%,3%,Inglés
+GIRON,54,,11,,32%,34%,22%,10%,2%,Inglés
+OFICIALES URBANOS DE GIRON,53,Similar,11,Similar,33%,36%,21%,8%,2%,Inglés
+OFICIALES RURALES DE GIRON,50,Mayor,10,Similar,49%,28%,16%,5%,1%,Inglés
+PRIVADOS DE GIRON,62,Menor,11,Similar,10%,25%,31%,29%,5%,Inglés
+GC 2 DE GIRON,51,Similar,11,Similar,39%,35%,17%,6%,2%,Inglés
+GC 3 DE GIRON,58,Menor,11,Similar,20%,32%,29%,17%,3%,Inglés
+GUAINIA,43,,9,,70%,23%,6%,1%,0%,Inglés
+OFICIALES URBANOS DE GUAINIA,44,Similar,10,Similar,65%,26%,7%,1%,0%,Inglés
+OFICIALES RURALES DE GUAINIA,41,Similar,7,Mayor,85%,14%,1%,0%,0%,Inglés
+GC 1 DE GUAINIA,39,Mayor,7,Mayor,88%,10%,2%,0%,0%,Inglés
+GC 2 DE GUAINIA,47,Menor,9,Similar,53%,35%,10%,2%,1%,Inglés
+GUAVIARE,46,,9,,59%,30%,9%,2%,0%,Inglés
+OFICIALES URBANOS DE GUAVIARE,48,Similar,9,Similar,51%,35%,11%,3%,0%,Inglés
+OFICIALES RURALES DE GUAVIARE,43,Similar,7,Mayor,73%,23%,4%,0%,0%,Inglés
+PRIVADOS DE GUAVIARE,48,Similar,12,Menor,59%,23%,13%,3%,2%,Inglés
+GC 1 DE GUAVIARE,43,Similar,7,Mayor,72%,26%,2%,0%,0%,Inglés
+GC 2 DE GUAVIARE,46,Similar,9,Similar,61%,30%,8%,2%,0%,Inglés
+GC 3 DE GUAVIARE,53,Menor,11,Menor,32%,35%,23%,8%,2%,Inglés
+HUILA,49,,10,,45%,37%,13%,4%,1%,Inglés
+OFICIALES URBANOS DE HUILA,50,Similar,10,Similar,43%,38%,14%,4%,0%,Inglés
+OFICIALES RURALES DE HUILA,47,Similar,8,Mayor,52%,37%,9%,2%,0%,Inglés
+PRIVADOS DE HUILA,63,Menor,13,Menor,11%,27%,26%,28%,8%,Inglés
+GC 1 DE HUILA,46,Similar,8,Mayor,58%,37%,5%,0%,0%,Inglés
+GC 2 DE HUILA,49,Similar,9,Similar,47%,37%,12%,3%,0%,Inglés
+GC 3 DE HUILA,55,Menor,11,Similar,26%,36%,22%,14%,2%,Inglés
+GC 4 DE HUILA,82,Menor,10,Similar,0%,0%,0%,50%,50%,Inglés
+IBAGUE,55,,12,,31%,32%,20%,13%,4%,Inglés
+OFICIALES URBANOS DE IBAGUE,53,Similar,11,Similar,35%,36%,19%,9%,2%,Inglés
+OFICIALES RURALES DE IBAGUE,47,Mayor,9,Mayor,58%,33%,7%,2%,0%,Inglés
+PRIVADOS DE IBAGUE,64,Menor,13,Similar,11%,22%,26%,30%,12%,Inglés
+GC 1 DE IBAGUE,45,Mayor,9,Mayor,70%,20%,10%,0%,0%,Inglés
+GC 2 DE IBAGUE,50,Mayor,9,Mayor,44%,37%,14%,4%,0%,Inglés
+GC 3 DE IBAGUE,58,Similar,12,Similar,22%,30%,25%,18%,4%,Inglés
+GC 4 DE IBAGUE,73,Menor,12,Similar,2%,10%,15%,41%,33%,Inglés
+IPIALES,56,,11,,25%,35%,23%,15%,2%,Inglés
+OFICIALES URBANOS DE IPIALES,58,Similar,11,Similar,19%,34%,27%,18%,2%,Inglés
+OFICIALES RURALES DE IPIALES,48,Mayor,8,Mayor,47%,42%,10%,1%,0%,Inglés
+PRIVADOS DE IPIALES,56,Similar,12,Similar,27%,30%,24%,17%,2%,Inglés
+GC 1 DE IPIALES,45,Mayor,6,Mayor,72%,26%,2%,0%,0%,Inglés
+GC 2 DE IPIALES,53,Similar,10,Similar,29%,40%,21%,9%,1%,Inglés
+GC 3 DE IPIALES,63,Menor,11,Similar,8%,23%,32%,32%,5%,Inglés
+ITAGUI,56,,13,,27%,31%,22%,15%,5%,Inglés
+OFICIALES URBANOS DE ITAGUI,55,Similar,12,Similar,28%,33%,22%,14%,3%,Inglés
+OFICIALES RURALES DE ITAGUI,50,Mayor,11,Mayor,42%,34%,17%,6%,1%,Inglés
+PRIVADOS DE ITAGUI,63,Menor,16,Menor,18%,19%,22%,25%,16%,Inglés
+GC 2 DE ITAGUI,51,Mayor,11,Mayor,38%,35%,17%,8%,1%,Inglés
+GC 3 DE ITAGUI,57,Similar,13,Similar,24%,30%,24%,17%,4%,Inglés
+GC 4 DE ITAGUI,80,Menor,10,Mayor,0%,2%,6%,33%,59%,Inglés
+JAMUNDI,53,,11,,36%,36%,19%,9%,2%,Inglés
+OFICIALES URBANOS DE JAMUNDI,54,Similar,10,Similar,28%,39%,24%,7%,1%,Inglés
+OFICIALES RURALES DE JAMUNDI,49,Mayor,9,Mayor,48%,35%,12%,4%,0%,Inglés
+PRIVADOS DE JAMUNDI,59,Menor,12,Similar,19%,31%,24%,20%,5%,Inglés
+GC 1 DE JAMUNDI,41,Mayor,8,Mayor,67%,33%,0%,0%,0%,Inglés
+GC 2 DE JAMUNDI,50,Similar,10,Similar,42%,36%,16%,5%,1%,Inglés
+GC 3 DE JAMUNDI,58,Menor,12,Similar,21%,34%,25%,16%,4%,Inglés
+LA ESTRELLA,59,,14,,24%,27%,20%,20%,9%,Inglés
+OFICIALES URBANOS DE LA ESTRELLA,51,Mayor,11,Mayor,41%,34%,17%,7%,1%,Inglés
+PRIVADOS DE LA ESTRELLA,67,Menor,13,Similar,7%,20%,24%,34%,16%,Inglés
+GC 2 DE LA ESTRELLA,48,Mayor,10,Mayor,52%,32%,12%,4%,0%,Inglés
+GC 3 DE LA ESTRELLA,60,Similar,13,Similar,17%,29%,23%,23%,8%,Inglés
+GC 4 DE LA ESTRELLA,76,Menor,12,Mayor,3%,3%,17%,43%,35%,Inglés
+LA GUAJIRA,46,,9,,63%,27%,7%,2%,0%,Inglés
+OFICIALES URBANOS DE LA GUAJIRA,47,Similar,9,Similar,56%,33%,8%,2%,0%,Inglés
+OFICIALES RURALES DE LA GUAJIRA,41,Mayor,7,Mayor,83%,15%,1%,0%,0%,Inglés
+PRIVADOS DE LA GUAJIRA,54,Menor,12,Menor,30%,36%,19%,12%,4%,Inglés
+GC 1 DE LA GUAJIRA,40,Mayor,6,Mayor,88%,11%,0%,0%,0%,Inglés
+GC 2 DE LA GUAJIRA,46,Similar,8,Similar,62%,31%,6%,2%,0%,Inglés
+GC 3 DE LA GUAJIRA,55,Menor,12,Menor,27%,36%,22%,13%,3%,Inglés
+LORICA,47,,10,,57%,29%,10%,4%,1%,Inglés
+OFICIALES URBANOS DE LORICA,48,Similar,9,Similar,54%,33%,10%,3%,0%,Inglés
+OFICIALES RURALES DE LORICA,45,Similar,8,Mayor,67%,25%,7%,1%,0%,Inglés
+PRIVADOS DE LORICA,61,Menor,12,Menor,13%,29%,26%,28%,4%,Inglés
+GC 1 DE LORICA,44,Similar,8,Mayor,69%,24%,7%,0%,0%,Inglés
+GC 2 DE LORICA,47,Similar,9,Similar,58%,31%,9%,2%,0%,Inglés
+GC 3 DE LORICA,61,Menor,12,Menor,13%,29%,26%,28%,4%,Inglés
+MAGANGUE,47,,10,,58%,27%,9%,5%,1%,Inglés
+OFICIALES URBANOS DE MAGANGUE,47,Similar,9,Similar,58%,30%,8%,4%,0%,Inglés
+OFICIALES RURALES DE MAGANGUE,43,Mayor,8,Mayor,73%,21%,5%,0%,0%,Inglés
+PRIVADOS DE MAGANGUE,56,Menor,13,Menor,29%,28%,20%,18%,5%,Inglés
+GC 2 DE MAGANGUE,46,Similar,9,Similar,63%,28%,7%,3%,0%,Inglés
+GC 3 DE MAGANGUE,59,Menor,13,Menor,19%,27%,26%,22%,6%,Inglés
+MAGDALENA,43,,9,,73%,20%,5%,2%,0%,Inglés
+OFICIALES URBANOS DE MAGDALENA,44,Similar,9,Similar,69%,23%,6%,2%,0%,Inglés
+OFICIALES RURALES DE MAGDALENA,42,Similar,7,Mayor,81%,16%,2%,0%,0%,Inglés
+PRIVADOS DE MAGDALENA,53,Menor,14,Menor,40%,27%,17%,11%,5%,Inglés
+GC 1 DE MAGDALENA,41,Similar,7,Mayor,84%,14%,2%,0%,0%,Inglés
+GC 2 DE MAGDALENA,43,Similar,9,Similar,73%,21%,4%,2%,0%,Inglés
+GC 3 DE MAGDALENA,56,Menor,13,Menor,26%,33%,20%,13%,7%,Inglés
+MAICAO,47,,10,,58%,29%,9%,3%,1%,Inglés
+OFICIALES URBANOS DE MAICAO,47,Similar,9,Similar,54%,33%,10%,2%,0%,Inglés
+OFICIALES RURALES DE MAICAO,40,Mayor,7,Mayor,85%,14%,1%,0%,0%,Inglés
+PRIVADOS DE MAICAO,59,Menor,13,Menor,22%,29%,22%,20%,6%,Inglés
+GC 1 DE MAICAO,42,Mayor,8,Mayor,76%,19%,4%,1%,0%,Inglés
+GC 2 DE MAICAO,47,Similar,9,Similar,54%,33%,10%,2%,0%,Inglés
+GC 3 DE MAICAO,59,Menor,13,Menor,22%,29%,22%,20%,6%,Inglés
+MALAMBO,48,,11,,51%,32%,11%,6%,0%,Inglés
+OFICIALES URBANOS DE MALAMBO,46,Similar,9,Mayor,58%,32%,7%,3%,0%,Inglés
+OFICIALES RURALES DE MALAMBO,44,Mayor,7,Mayor,72%,26%,3%,0%,0%,Inglés
+PRIVADOS DE MALAMBO,51,Similar,12,Similar,41%,32%,16%,10%,1%,Inglés
+GC 2 DE MALAMBO,48,Similar,10,Similar,53%,32%,10%,4%,0%,Inglés
+GC 3 DE MALAMBO,63,Menor,12,Similar,10%,24%,25%,38%,4%,Inglés
+MANIZALES,57,,13,,25%,31%,23%,16%,4%,Inglés
+OFICIALES URBANOS DE MANIZALES,55,Similar,11,Mayor,29%,34%,23%,13%,2%,Inglés
+OFICIALES RURALES DE MANIZALES,49,Mayor,11,Mayor,44%,36%,14%,5%,0%,Inglés
+PRIVADOS DE MANIZALES,66,Menor,12,Similar,6%,19%,29%,33%,14%,Inglés
+GC 1 DE MANIZALES,48,Mayor,8,Mayor,44%,39%,17%,0%,0%,Inglés
+GC 2 DE MANIZALES,50,Mayor,11,Mayor,42%,36%,16%,6%,1%,Inglés
+GC 3 DE MANIZALES,59,Similar,12,Similar,18%,30%,28%,20%,5%,Inglés
+GC 4 DE MANIZALES,75,Menor,9,Mayor,0%,4%,9%,56%,31%,Inglés
+MEDELLIN,54,,13,,36%,30%,17%,12%,4%,Inglés
+OFICIALES URBANOS DE MEDELLIN,51,Similar,12,Similar,41%,33%,16%,8%,2%,Inglés
+OFICIALES RURALES DE MEDELLIN,50,Mayor,11,Mayor,45%,33%,15%,6%,1%,Inglés
+PRIVADOS DE MEDELLIN,63,Menor,15,Menor,16%,20%,23%,27%,14%,Inglés
+GC 2 DE MEDELLIN,48,Mayor,10,Mayor,53%,31%,12%,4%,1%,Inglés
+GC 3 DE MEDELLIN,56,Similar,13,Similar,27%,31%,21%,16%,5%,Inglés
+GC 4 DE MEDELLIN,77,Menor,11,Mayor,1%,3%,12%,41%,42%,Inglés
+META,49,,10,,47%,34%,13%,5%,1%,Inglés
+OFICIALES URBANOS DE META,49,Similar,10,Similar,48%,35%,13%,4%,0%,Inglés
+OFICIALES RURALES DE META,48,Similar,11,Similar,52%,31%,11%,5%,1%,Inglés
+PRIVADOS DE META,56,Menor,13,Menor,27%,31%,22%,16%,5%,Inglés
+GC 1 DE META,42,Mayor,8,Mayor,73%,23%,3%,1%,0%,Inglés
+GC 2 DE META,48,Similar,10,Similar,50%,34%,11%,3%,0%,Inglés
+GC 3 DE META,58,Menor,12,Menor,18%,34%,26%,17%,5%,Inglés
+MONTERIA,54,,12,,34%,33%,19%,11%,3%,Inglés
+OFICIALES URBANOS DE MONTERIA,53,Similar,11,Similar,32%,36%,21%,9%,1%,Inglés
+OFICIALES RURALES DE MONTERIA,46,Mayor,8,Mayor,59%,32%,8%,1%,0%,Inglés
+PRIVADOS DE MONTERIA,61,Menor,14,Menor,17%,26%,23%,24%,10%,Inglés
+GC 1 DE MONTERIA,46,Mayor,8,Mayor,62%,29%,8%,1%,0%,Inglés
+GC 2 DE MONTERIA,51,Similar,10,Mayor,37%,37%,18%,7%,0%,Inglés
+GC 3 DE MONTERIA,63,Menor,13,Similar,11%,25%,27%,27%,9%,Inglés
+GC 4 DE MONTERIA,77,Menor,8,Mayor,0%,0%,10%,41%,49%,Inglés
+MOSQUERA,59,,12,,17%,32%,26%,18%,6%,Inglés
+OFICIALES URBANOS DE MOSQUERA,55,Mayor,10,Mayor,23%,41%,26%,9%,1%,Inglés
+PRIVADOS DE MOSQUERA,66,Menor,13,Similar,8%,18%,26%,34%,14%,Inglés
+GC 2 DE MOSQUERA,50,Mayor,9,Mayor,43%,39%,13%,4%,0%,Inglés
+GC 3 DE MOSQUERA,59,Similar,11,Similar,16%,33%,29%,18%,4%,Inglés
+GC 4 DE MOSQUERA,78,Menor,11,Similar,0%,6%,7%,40%,46%,Inglés
+NARIÑO,48,,10,,51%,34%,11%,3%,0%,Inglés
+OFICIALES URBANOS DE NARIÑO,49,Similar,10,Similar,48%,35%,13%,4%,0%,Inglés
+OFICIALES RURALES DE NARIÑO,46,Similar,9,Similar,58%,32%,8%,1%,0%,Inglés
+PRIVADOS DE NARIÑO,47,Similar,11,Similar,64%,23%,5%,9%,0%,Inglés
+GC 1 DE NARIÑO,44,Mayor,9,Similar,69%,24%,6%,1%,0%,Inglés
+GC 2 DE NARIÑO,49,Similar,10,Similar,46%,37%,13%,4%,0%,Inglés
+GC 3 DE NARIÑO,36,Mayor,0,Mayor,100%,0%,0%,0%,0%,Inglés
+NEIVA,55,,13,,30%,32%,20%,14%,4%,Inglés
+OFICIALES URBANOS DE NEIVA,54,Similar,11,Mayor,32%,36%,20%,10%,2%,Inglés
+OFICIALES RURALES DE NEIVA,46,Mayor,8,Mayor,59%,34%,5%,2%,0%,Inglés
+PRIVADOS DE NEIVA,63,Menor,14,Similar,16%,20%,23%,28%,14%,Inglés
+GC 2 DE NEIVA,50,Mayor,10,Mayor,43%,36%,14%,6%,1%,Inglés
+GC 3 DE NEIVA,59,Menor,13,Similar,19%,29%,25%,20%,7%,Inglés
+GC 4 DE NEIVA,77,Menor,7,Mayor,0%,0%,0%,56%,44%,Inglés
+NORTE DE SANTANDER,50,,11,,44%,33%,14%,7%,1%,Inglés
+OFICIALES URBANOS DE NORTE DE SANTANDER,51,Similar,11,Similar,39%,37%,16%,7%,1%,Inglés
+OFICIALES RURALES DE NORTE DE SANTANDER,45,Mayor,8,Mayor,66%,27%,6%,1%,0%,Inglés
+PRIVADOS DE NORTE DE SANTANDER,60,Menor,14,Menor,20%,24%,24%,24%,7%,Inglés
+GC 1 DE NORTE DE SANTANDER,44,Mayor,8,Mayor,73%,22%,3%,1%,0%,Inglés
+GC 2 DE NORTE DE SANTANDER,50,Similar,10,Similar,45%,35%,13%,6%,1%,Inglés
+GC 3 DE NORTE DE SANTANDER,61,Menor,13,Menor,14%,30%,26%,24%,7%,Inglés
+PALMIRA,55,,11,,26%,37%,23%,12%,2%,Inglés
+OFICIALES URBANOS DE PALMIRA,56,Similar,11,Similar,24%,37%,23%,13%,3%,Inglés
+OFICIALES RURALES DE PALMIRA,51,Mayor,9,Mayor,35%,41%,19%,4%,0%,Inglés
+PRIVADOS DE PALMIRA,56,Similar,11,Similar,24%,29%,31%,16%,1%,Inglés
+GC 2 DE PALMIRA,54,Similar,11,Similar,30%,38%,21%,10%,1%,Inglés
+GC 3 DE PALMIRA,59,Menor,11,Similar,15%,33%,29%,19%,4%,Inglés
+PASTO,56,,11,,22%,37%,25%,13%,3%,Inglés
+OFICIALES URBANOS DE PASTO,56,Similar,11,Similar,21%,38%,26%,13%,2%,Inglés
+OFICIALES RURALES DE PASTO,50,Mayor,8,Mayor,39%,45%,14%,1%,0%,Inglés
+PRIVADOS DE PASTO,62,Menor,11,Similar,10%,27%,32%,25%,7%,Inglés
+GC 1 DE PASTO,46,Mayor,8,Mayor,57%,36%,7%,0%,0%,Inglés
+GC 2 DE PASTO,53,Similar,10,Similar,28%,42%,20%,8%,1%,Inglés
+GC 3 DE PASTO,61,Menor,11,Similar,9%,28%,34%,23%,5%,Inglés
+PEREIRA,56,,13,,28%,33%,21%,14%,5%,Inglés
+OFICIALES URBANOS DE PEREIRA,54,Similar,11,Mayor,30%,35%,21%,12%,2%,Inglés
+OFICIALES RURALES DE PEREIRA,51,Mayor,11,Mayor,38%,38%,16%,6%,1%,Inglés
+PRIVADOS DE PEREIRA,67,Menor,13,Similar,7%,19%,23%,31%,19%,Inglés
+GC 1 DE PEREIRA,42,Mayor,6,Mayor,83%,17%,0%,0%,0%,Inglés
+GC 2 DE PEREIRA,50,Mayor,10,Mayor,41%,37%,15%,6%,1%,Inglés
+GC 3 DE PEREIRA,59,Similar,12,Similar,19%,31%,25%,19%,6%,Inglés
+GC 4 DE PEREIRA,75,Menor,11,Mayor,2%,6%,12%,41%,39%,Inglés
+PIEDECUESTA,55,,11,,27%,35%,23%,12%,2%,Inglés
+OFICIALES URBANOS DE PIEDECUESTA,54,Similar,11,Similar,27%,38%,23%,12%,1%,Inglés
+OFICIALES RURALES DE PIEDECUESTA,51,Mayor,9,Mayor,39%,36%,20%,4%,0%,Inglés
+PRIVADOS DE PIEDECUESTA,62,Menor,13,Menor,14%,24%,29%,25%,8%,Inglés
+GC 2 DE PIEDECUESTA,52,Similar,10,Similar,36%,38%,18%,7%,1%,Inglés
+GC 3 DE PIEDECUESTA,59,Menor,11,Similar,15%,33%,30%,18%,4%,Inglés
+GC 4 DE PIEDECUESTA,74,Menor,11,Similar,0%,7%,27%,40%,27%,Inglés
+PITALITO,55,,11,,29%,35%,20%,14%,2%,Inglés
+OFICIALES URBANOS DE PITALITO,58,Similar,11,Similar,21%,34%,22%,19%,4%,Inglés
+OFICIALES RURALES DE PITALITO,49,Mayor,9,Mayor,48%,36%,13%,3%,0%,Inglés
+PRIVADOS DE PITALITO,57,Similar,10,Similar,16%,37%,27%,18%,2%,Inglés
+GC 2 DE PITALITO,54,Similar,11,Similar,31%,34%,19%,14%,2%,Inglés
+GC 3 DE PITALITO,58,Similar,9,Mayor,11%,38%,31%,18%,2%,Inglés
+POPAYAN,53,,12,,34%,35%,19%,11%,2%,Inglés
+OFICIALES URBANOS DE POPAYAN,54,Similar,11,Similar,28%,36%,22%,12%,2%,Inglés
+OFICIALES RURALES DE POPAYAN,47,Mayor,8,Mayor,53%,39%,6%,3%,0%,Inglés
+PRIVADOS DE POPAYAN,51,Similar,13,Similar,44%,30%,14%,10%,3%,Inglés
+GC 1 DE POPAYAN,43,Mayor,7,Mayor,65%,32%,3%,0%,0%,Inglés
+GC 2 DE POPAYAN,50,Similar,10,Mayor,40%,38%,15%,6%,1%,Inglés
+GC 3 DE POPAYAN,60,Menor,12,Similar,16%,27%,29%,24%,5%,Inglés
+GC 4 DE POPAYAN,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Inglés
+PUTUMAYO,48,,10,,50%,33%,12%,4%,0%,Inglés
+OFICIALES URBANOS DE PUTUMAYO,50,Similar,10,Similar,42%,35%,16%,6%,1%,Inglés
+OFICIALES RURALES DE PUTUMAYO,45,Similar,8,Mayor,66%,29%,4%,1%,0%,Inglés
+PRIVADOS DE PUTUMAYO,55,Menor,12,Menor,38%,18%,26%,18%,0%,Inglés
+GC 1 DE PUTUMAYO,44,Mayor,8,Mayor,68%,27%,4%,1%,0%,Inglés
+GC 2 DE PUTUMAYO,49,Similar,10,Similar,47%,35%,13%,5%,0%,Inglés
+GC 3 DE PUTUMAYO,60,Menor,10,Similar,9%,34%,34%,19%,4%,Inglés
+QUIBDO,46,,10,,61%,26%,9%,3%,1%,Inglés
+OFICIALES URBANOS DE QUIBDO,46,Similar,10,Similar,61%,27%,8%,3%,1%,Inglés
+OFICIALES RURALES DE QUIBDO,43,Similar,8,Mayor,73%,24%,3%,0%,0%,Inglés
+PRIVADOS DE QUIBDO,46,Similar,13,Menor,62%,18%,14%,3%,3%,Inglés
+GC 1 DE QUIBDO,40,Mayor,5,Mayor,94%,6%,0%,0%,0%,Inglés
+GC 2 DE QUIBDO,43,Similar,8,Mayor,72%,22%,5%,1%,0%,Inglés
+GC 3 DE QUIBDO,53,Menor,11,Similar,34%,37%,18%,8%,3%,Inglés
+QUINDIO,53,,11,,34%,37%,19%,9%,2%,Inglés
+OFICIALES URBANOS DE QUINDIO,52,Similar,10,Similar,34%,39%,18%,8%,1%,Inglés
+OFICIALES RURALES DE QUINDIO,51,Similar,10,Similar,39%,37%,18%,6%,1%,Inglés
+PRIVADOS DE QUINDIO,70,Menor,11,Similar,3%,6%,31%,39%,21%,Inglés
+GC 2 DE QUINDIO,51,Similar,10,Similar,38%,40%,16%,5%,1%,Inglés
+GC 3 DE QUINDIO,58,Menor,12,Similar,21%,29%,27%,19%,5%,Inglés
+RIOHACHA,49,,12,,53%,29%,11%,6%,2%,Inglés
+OFICIALES URBANOS DE RIOHACHA,48,Similar,10,Mayor,53%,34%,10%,3%,0%,Inglés
+OFICIALES RURALES DE RIOHACHA,41,Mayor,7,Mayor,86%,12%,1%,0%,0%,Inglés
+PRIVADOS DE RIOHACHA,60,Menor,15,Menor,22%,25%,21%,22%,10%,Inglés
+GC 1 DE RIOHACHA,38,Mayor,7,Mayor,92%,7%,2%,0%,0%,Inglés
+GC 2 DE RIOHACHA,46,Similar,9,Mayor,60%,30%,7%,2%,0%,Inglés
+GC 3 DE RIOHACHA,56,Menor,14,Menor,31%,29%,20%,14%,6%,Inglés
+RIONEGRO,60,,12,,17%,30%,27%,20%,7%,Inglés
+OFICIALES URBANOS DE RIONEGRO,59,Similar,11,Similar,16%,33%,29%,19%,3%,Inglés
+OFICIALES RURALES DE RIONEGRO,54,Mayor,10,Mayor,27%,37%,25%,10%,2%,Inglés
+PRIVADOS DE RIONEGRO,70,Menor,13,Similar,4%,13%,25%,36%,22%,Inglés
+GC 2 DE RIONEGRO,55,Mayor,11,Similar,27%,38%,21%,11%,3%,Inglés
+GC 3 DE RIONEGRO,60,Similar,12,Similar,14%,29%,30%,21%,6%,Inglés
+GC 4 DE RIONEGRO,79,Menor,9,Mayor,0%,0%,9%,43%,49%,Inglés
+RISARALDA,49,,11,,46%,34%,13%,6%,1%,Inglés
+OFICIALES URBANOS DE RISARALDA,51,Similar,10,Similar,39%,38%,15%,6%,1%,Inglés
+OFICIALES RURALES DE RISARALDA,45,Mayor,9,Mayor,67%,24%,6%,2%,0%,Inglés
+PRIVADOS DE RISARALDA,66,Menor,9,Mayor,0%,21%,29%,43%,7%,Inglés
+GC 1 DE RISARALDA,41,Mayor,7,Mayor,82%,17%,2%,0%,0%,Inglés
+GC 2 DE RISARALDA,48,Similar,10,Similar,51%,34%,11%,4%,1%,Inglés
+GC 3 DE RISARALDA,56,Menor,11,Similar,21%,40%,23%,14%,2%,Inglés
+SABANETA,61,,13,,16%,25%,26%,24%,9%,Inglés
+OFICIALES URBANOS DE SABANETA,59,Similar,12,Similar,18%,27%,29%,19%,6%,Inglés
+OFICIALES RURALES DE SABANETA,55,Mayor,11,Mayor,31%,40%,14%,12%,4%,Inglés
+PRIVADOS DE SABANETA,70,Menor,12,Similar,3%,11%,27%,41%,19%,Inglés
+GC 3 DE SABANETA,61,Similar,13,Similar,17%,26%,26%,23%,9%,Inglés
+GC 4 DE SABANETA,77,Menor,11,Mayor,0%,0%,18%,45%,36%,Inglés
+SAHAGUN,50,,11,,44%,35%,14%,5%,2%,Inglés
+OFICIALES URBANOS DE SAHAGUN,50,Similar,9,Mayor,43%,39%,13%,4%,0%,Inglés
+OFICIALES RURALES DE SAHAGUN,46,Mayor,9,Mayor,58%,31%,11%,1%,0%,Inglés
+PRIVADOS DE SAHAGUN,62,Menor,12,Similar,11%,25%,32%,20%,12%,Inglés
+GC 1 DE SAHAGUN,47,Similar,9,Mayor,52%,34%,13%,1%,0%,Inglés
+GC 2 DE SAHAGUN,49,Similar,9,Mayor,46%,38%,11%,4%,0%,Inglés
+GC 3 DE SAHAGUN,62,Menor,12,Similar,11%,25%,32%,20%,12%,Inglés
+SAN ANDRES,57,,14,,26%,25%,22%,23%,5%,Inglés
+OFICIALES URBANOS DE SAN ANDRES,54,Similar,14,Similar,37%,25%,15%,20%,2%,Inglés
+OFICIALES RURALES DE SAN ANDRES,56,Similar,13,Similar,26%,28%,26%,18%,1%,Inglés
+PRIVADOS DE SAN ANDRES,66,Menor,14,Similar,9%,17%,23%,35%,15%,Inglés
+GC 2 DE SAN ANDRES,50,Mayor,12,Mayor,45%,29%,17%,9%,0%,Inglés
+GC 3 DE SAN ANDRES,63,Menor,13,Similar,12%,22%,26%,33%,8%,Inglés
+SANTA MARTA,51,,13,,44%,30%,15%,9%,3%,Inglés
+OFICIALES URBANOS DE SANTA MARTA,49,Similar,11,Mayor,48%,32%,13%,6%,1%,Inglés
+OFICIALES RURALES DE SANTA MARTA,45,Mayor,9,Mayor,66%,26%,6%,2%,0%,Inglés
+PRIVADOS DE SANTA MARTA,61,Menor,14,Similar,17%,24%,25%,24%,10%,Inglés
+GC 1 DE SANTA MARTA,42,Mayor,9,Mayor,71%,25%,2%,2%,0%,Inglés
+GC 2 DE SANTA MARTA,47,Mayor,10,Mayor,55%,30%,10%,4%,1%,Inglés
+GC 3 DE SANTA MARTA,60,Menor,13,Similar,18%,28%,25%,21%,8%,Inglés
+GC 4 DE SANTA MARTA,56,Menor,16,Menor,25%,25%,25%,25%,0%,Inglés
+SANTANDER,50,,11,,42%,36%,15%,6%,1%,Inglés
+OFICIALES URBANOS DE SANTANDER,51,Similar,10,Similar,38%,38%,17%,6%,1%,Inglés
+OFICIALES RURALES DE SANTANDER,47,Similar,9,Mayor,55%,34%,9%,2%,0%,Inglés
+PRIVADOS DE SANTANDER,58,Menor,15,Menor,26%,22%,23%,25%,5%,Inglés
+GC 1 DE SANTANDER,45,Mayor,9,Mayor,62%,30%,6%,2%,0%,Inglés
+GC 2 DE SANTANDER,49,Similar,10,Similar,45%,37%,13%,4%,1%,Inglés
+GC 3 DE SANTANDER,60,Menor,12,Similar,14%,30%,31%,21%,4%,Inglés
+SINCELEJO,52,,12,,41%,31%,15%,10%,3%,Inglés
+OFICIALES URBANOS DE SINCELEJO,50,Similar,10,Mayor,44%,34%,15%,7%,0%,Inglés
+OFICIALES RURALES DE SINCELEJO,44,Mayor,9,Mayor,68%,26%,6%,1%,0%,Inglés
+PRIVADOS DE SINCELEJO,62,Menor,15,Menor,19%,22%,20%,26%,13%,Inglés
+GC 1 DE SINCELEJO,43,Mayor,8,Mayor,74%,22%,3%,1%,0%,Inglés
+GC 2 DE SINCELEJO,50,Similar,10,Mayor,44%,34%,15%,6%,0%,Inglés
+GC 3 DE SINCELEJO,64,Menor,14,Menor,15%,20%,22%,29%,14%,Inglés
+SOACHA,53,,11,,31%,37%,22%,9%,1%,Inglés
+OFICIALES URBANOS DE SOACHA,51,Similar,10,Similar,39%,39%,17%,5%,0%,Inglés
+OFICIALES RURALES DE SOACHA,47,Mayor,8,Mayor,52%,38%,10%,0%,0%,Inglés
+PRIVADOS DE SOACHA,56,Similar,11,Similar,22%,35%,27%,15%,2%,Inglés
+GC 2 DE SOACHA,50,Similar,9,Mayor,41%,39%,16%,4%,0%,Inglés
+GC 3 DE SOACHA,55,Similar,11,Similar,26%,36%,25%,12%,1%,Inglés
+SOGAMOSO,57,,11,,19%,36%,26%,15%,4%,Inglés
+OFICIALES URBANOS DE SOGAMOSO,55,Similar,9,Mayor,22%,42%,26%,9%,1%,Inglés
+OFICIALES RURALES DE SOGAMOSO,50,Mayor,7,Mayor,36%,50%,13%,1%,0%,Inglés
+PRIVADOS DE SOGAMOSO,63,Menor,13,Menor,12%,23%,28%,28%,9%,Inglés
+GC 2 DE SOGAMOSO,52,Mayor,9,Mayor,34%,41%,19%,6%,0%,Inglés
+GC 3 DE SOGAMOSO,59,Similar,11,Similar,15%,34%,28%,18%,5%,Inglés
+SOLEDAD,51,,12,,43%,32%,15%,8%,2%,Inglés
+OFICIALES URBANOS DE SOLEDAD,50,Similar,11,Similar,43%,35%,14%,6%,1%,Inglés
+PRIVADOS DE SOLEDAD,51,Similar,13,Similar,43%,29%,15%,10%,3%,Inglés
+GC 2 DE SOLEDAD,48,Similar,10,Mayor,52%,32%,12%,4%,1%,Inglés
+GC 3 DE SOLEDAD,58,Menor,13,Similar,22%,33%,22%,18%,5%,Inglés
+SUCRE,45,,10,,65%,24%,8%,2%,0%,Inglés
+OFICIALES URBANOS DE SUCRE,46,Similar,10,Similar,59%,29%,10%,3%,0%,Inglés
+OFICIALES RURALES DE SUCRE,42,Similar,8,Mayor,80%,17%,3%,0%,0%,Inglés
+PRIVADOS DE SUCRE,58,Menor,13,Menor,24%,29%,25%,18%,4%,Inglés
+GC 1 DE SUCRE,41,Mayor,7,Mayor,83%,15%,2%,0%,0%,Inglés
+GC 2 DE SUCRE,46,Similar,9,Similar,62%,27%,9%,2%,0%,Inglés
+GC 3 DE SUCRE,62,Menor,12,Menor,9%,28%,32%,25%,6%,Inglés
+TOLIMA,47,,10,,56%,31%,9%,3%,1%,Inglés
+OFICIALES URBANOS DE TOLIMA,48,Similar,10,Similar,53%,34%,10%,3%,0%,Inglés
+OFICIALES RURALES DE TOLIMA,44,Similar,8,Mayor,68%,26%,5%,1%,0%,Inglés
+PRIVADOS DE TOLIMA,53,Menor,13,Menor,37%,27%,21%,12%,2%,Inglés
+GC 1 DE TOLIMA,43,Mayor,8,Mayor,74%,22%,4%,0%,0%,Inglés
+GC 2 DE TOLIMA,46,Similar,9,Similar,57%,32%,8%,2%,0%,Inglés
+GC 3 DE TOLIMA,57,Menor,13,Menor,24%,29%,26%,17%,4%,Inglés
+TULUA,53,,13,,37%,30%,17%,12%,3%,Inglés
+OFICIALES URBANOS DE TULUA,51,Similar,11,Mayor,44%,32%,16%,8%,1%,Inglés
+OFICIALES RURALES DE TULUA,48,Mayor,9,Mayor,54%,35%,7%,3%,0%,Inglés
+PRIVADOS DE TULUA,63,Menor,13,Similar,11%,24%,27%,27%,11%,Inglés
+GC 1 DE TULUA,47,Mayor,8,Mayor,54%,37%,7%,2%,0%,Inglés
+GC 2 DE TULUA,50,Similar,11,Mayor,47%,31%,14%,7%,1%,Inglés
+GC 3 DE TULUA,61,Menor,13,Similar,15%,28%,26%,22%,9%,Inglés
+TUMACO,42,,9,,76%,17%,5%,1%,0%,Inglés
+OFICIALES URBANOS DE TUMACO,43,Similar,9,Similar,75%,19%,5%,1%,0%,Inglés
+OFICIALES RURALES DE TUMACO,39,Similar,7,Mayor,89%,10%,1%,0%,0%,Inglés
+PRIVADOS DE TUMACO,52,Menor,13,Menor,38%,35%,16%,9%,3%,Inglés
+GC 1 DE TUMACO,39,Similar,7,Mayor,90%,9%,1%,0%,0%,Inglés
+GC 2 DE TUMACO,42,Similar,9,Similar,77%,18%,4%,1%,0%,Inglés
+GC 3 DE TUMACO,58,Menor,11,Menor,13%,42%,28%,13%,4%,Inglés
+TUNJA,60,,12,,15%,29%,27%,22%,6%,Inglés
+OFICIALES URBANOS DE TUNJA,58,Similar,11,Similar,18%,35%,28%,16%,3%,Inglés
+OFICIALES RURALES DE TUNJA,47,Mayor,7,Mayor,55%,39%,6%,0%,0%,Inglés
+PRIVADOS DE TUNJA,66,Menor,13,Similar,9%,16%,27%,34%,14%,Inglés
+GC 2 DE TUNJA,53,Mayor,10,Mayor,30%,40%,21%,8%,1%,Inglés
+GC 3 DE TUNJA,62,Similar,11,Similar,9%,27%,32%,26%,6%,Inglés
+GC 4 DE TUNJA,76,Menor,10,Mayor,1%,2%,12%,48%,36%,Inglés
+TURBO,43,,9,,75%,20%,4%,2%,0%,Inglés
+OFICIALES URBANOS DE TURBO,43,Similar,9,Similar,74%,19%,5%,2%,0%,Inglés
+OFICIALES RURALES DE TURBO,41,Similar,8,Similar,80%,17%,2%,1%,0%,Inglés
+PRIVADOS DE TURBO,49,Menor,10,Similar,48%,36%,9%,6%,0%,Inglés
+GC 1 DE TURBO,38,Mayor,7,Mayor,90%,10%,0%,0%,0%,Inglés
+GC 2 DE TURBO,42,Similar,8,Similar,77%,19%,3%,1%,0%,Inglés
+GC 3 DE TURBO,49,Menor,10,Similar,50%,31%,12%,6%,0%,Inglés
+URIBIA,41,,8,,83%,15%,2%,1%,0%,Inglés
+OFICIALES URBANOS DE URIBIA,43,Similar,8,Similar,75%,20%,3%,1%,0%,Inglés
+OFICIALES RURALES DE URIBIA,39,Similar,6,Mayor,92%,8%,0%,0%,0%,Inglés
+GC 1 DE URIBIA,40,Similar,7,Similar,88%,11%,0%,0%,0%,Inglés
+GC 2 DE URIBIA,46,Menor,9,Similar,60%,31%,6%,3%,1%,Inglés
+VALLE DEL CAUCA,50,,10,,45%,35%,13%,5%,1%,Inglés
+OFICIALES URBANOS DE VALLE DEL CAUCA,50,Similar,10,Similar,44%,36%,14%,6%,1%,Inglés
+OFICIALES RURALES DE VALLE DEL CAUCA,47,Similar,9,Similar,53%,35%,9%,3%,0%,Inglés
+PRIVADOS DE VALLE DEL CAUCA,56,Menor,12,Menor,27%,28%,26%,15%,3%,Inglés
+GC 1 DE VALLE DEL CAUCA,47,Similar,7,Mayor,52%,43%,5%,0%,0%,Inglés
+GC 2 DE VALLE DEL CAUCA,49,Similar,10,Similar,47%,35%,13%,5%,1%,Inglés
+GC 3 DE VALLE DEL CAUCA,56,Menor,12,Menor,27%,30%,24%,15%,4%,Inglés
+VALLEDUPAR,53,,13,,38%,30%,17%,11%,4%,Inglés
+OFICIALES URBANOS DE VALLEDUPAR,52,Similar,11,Mayor,39%,34%,17%,9%,1%,Inglés
+OFICIALES RURALES DE VALLEDUPAR,45,Mayor,9,Mayor,63%,29%,7%,1%,0%,Inglés
+PRIVADOS DE VALLEDUPAR,60,Menor,16,Menor,25%,20%,21%,21%,12%,Inglés
+GC 1 DE VALLEDUPAR,47,Mayor,7,Mayor,50%,42%,8%,0%,0%,Inglés
+GC 2 DE VALLEDUPAR,49,Mayor,10,Mayor,48%,33%,13%,5%,1%,Inglés
+GC 3 DE VALLEDUPAR,64,Menor,13,Similar,11%,21%,27%,28%,13%,Inglés
+VAUPES,43,,7,,72%,25%,3%,0%,0%,Inglés
+OFICIALES URBANOS DE VAUPES,45,Similar,7,Similar,64%,31%,5%,1%,0%,Inglés
+OFICIALES RURALES DE VAUPES,40,Similar,7,Similar,85%,15%,0%,0%,0%,Inglés
+PRIVADOS DE VAUPES,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,N.D.,Inglés
+GC 1 DE VAUPES,42,Similar,7,Similar,78%,21%,2%,0%,0%,Inglés
+GC 2 DE VAUPES,47,Menor,8,Similar,53%,37%,8%,1%,0%,Inglés
+VICHADA,45,,9,,66%,26%,7%,1%,0%,Inglés
+OFICIALES URBANOS DE VICHADA,46,Similar,9,Similar,60%,30%,9%,2%,0%,Inglés
+OFICIALES RURALES DE VICHADA,41,Mayor,8,Similar,80%,17%,2%,1%,0%,Inglés
+GC 1 DE VICHADA,40,Mayor,6,Mayor,93%,7%,0%,0%,0%,Inglés
+GC 2 DE VICHADA,45,Similar,9,Similar,64%,27%,7%,1%,0%,Inglés
+VILLAVICENCIO,54,,13,,33%,32%,19%,12%,3%,Inglés
+OFICIALES URBANOS DE VILLAVICENCIO,53,Similar,11,Mayor,34%,36%,20%,9%,2%,Inglés
+OFICIALES RURALES DE VILLAVICENCIO,54,Similar,12,Similar,35%,31%,19%,12%,3%,Inglés
+PRIVADOS DE VILLAVICENCIO,57,Similar,16,Menor,33%,20%,18%,20%,9%,Inglés
+GC 1 DE VILLAVICENCIO,48,Mayor,11,Mayor,67%,0%,33%,0%,0%,Inglés
+GC 2 DE VILLAVICENCIO,48,Mayor,10,Mayor,49%,33%,13%,4%,0%,Inglés
+GC 3 DE VILLAVICENCIO,58,Menor,12,Similar,21%,32%,25%,17%,5%,Inglés
+GC 4 DE VILLAVICENCIO,76,Menor,10,Mayor,2%,1%,13%,40%,43%,Inglés
+YOPAL,54,,12,,30%,35%,20%,11%,3%,Inglés
+OFICIALES URBANOS DE YOPAL,53,Similar,11,Similar,31%,39%,19%,9%,1%,Inglés
+OFICIALES RURALES DE YOPAL,48,Mayor,10,Mayor,51%,31%,15%,3%,0%,Inglés
+PRIVADOS DE YOPAL,66,Menor,14,Menor,11%,15%,28%,32%,15%,Inglés
+GC 1 DE YOPAL,45,Mayor,8,Mayor,50%,50%,0%,0%,0%,Inglés
+GC 2 DE YOPAL,51,Similar,10,Mayor,37%,39%,17%,6%,1%,Inglés
+GC 3 DE YOPAL,64,Menor,13,Similar,9%,22%,29%,28%,11%,Inglés
+GC 4 DE YOPAL,75,Menor,9,Mayor,0%,0%,20%,67%,13%,Inglés
+YUMBO,50,,10,,45%,34%,14%,6%,0%,Inglés
+OFICIALES URBANOS DE YUMBO,50,Similar,10,Similar,44%,33%,15%,7%,1%,Inglés
+OFICIALES RURALES DE YUMBO,48,Similar,9,Similar,50%,37%,11%,2%,0%,Inglés
+PRIVADOS DE YUMBO,50,Similar,10,Similar,42%,37%,14%,8%,0%,Inglés
+GC 2 DE YUMBO,48,Similar,10,Similar,52%,33%,11%,4%,0%,Inglés
+GC 3 DE YUMBO,53,Similar,10,Similar,33%,37%,20%,10%,0%,Inglés
+ZIPAQUIRA,57,,12,,23%,32%,24%,16%,5%,Inglés
+OFICIALES URBANOS DE ZIPAQUIRA,53,Mayor,10,Mayor,31%,39%,20%,9%,1%,Inglés
+OFICIALES RURALES DE ZIPAQUIRA,51,Mayor,10,Mayor,42%,36%,17%,4%,2%,Inglés
+PRIVADOS DE ZIPAQUIRA,65,Menor,12,Similar,8%,19%,30%,31%,12%,Inglés
+GC 2 DE ZIPAQUIRA,48,Mayor,9,Mayor,53%,34%,11%,2%,0%,Inglés
+GC 3 DE ZIPAQUIRA,58,Similar,12,Similar,18%,33%,26%,18%,5%,Inglés
+GC 4 DE ZIPAQUIRA,72,Menor,8,Mayor,0%,0%,30%,44%,26%,Inglés
